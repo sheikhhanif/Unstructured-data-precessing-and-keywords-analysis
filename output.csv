@@ -1,0 +1,11 @@
+filename,Number of sentences,Number of sentences with keyword list1 (Any word/words in keyword list 1),Number of sentences with keyword list1 and also numerical information that is NOT a date,Number of sentences with BOTH keyword list1 and keyword list2 (Any word/words in keyword1 & any word/words in keyword2),Number of keywords in keyword list1
+Sample1.txt,4442,6,0,4,12
+Sample10.txt,3432,7,4,0,14
+Sample2.txt,6669,1,1,1,2
+Sample3.txt,5690,13,4,6,28
+Sample4.txt,3909,20,5,10,40
+Sample5.txt,5727,0,0,0,0
+Sample6.txt,8290,0,0,0,0
+Sample7.txt,4256,1,0,0,2
+Sample8.txt,839,1,0,0,2
+Sample9.txt,1343,4,3,3,12

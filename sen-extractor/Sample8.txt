@@ -1,0 +1,839 @@
+<Header> <FileStats> <FileName>20110705_10-K_edgar_data_1126162_0001171520-11-000490_1.txt</FileName> <GrossFileSize>417105</GrossFileSize> <NetFileSize>81955</NetFileSize> <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars> <HTML_Chars>269614</HTML_Chars> <XBRL_Chars>0</XBRL_Chars> <XML_Chars>0</XML_Chars> <N_Tables>49</N_Tables> <N_Exhibits>2</N_Exhibits> </FileStats> <SEC-Header> 0001171520-11-000490.hdr.sgml : 20110704 <ACCEPTANCE-DATETIME>20110705150903 ACCESSION NUMBER: 0001171520-11-000490 CONFORMED SUBMISSION TYPE: 10-K PUBLIC DOCUMENT COUNT: 3 CONFORMED PERIOD OF REPORT: 20101130 FILED AS OF DATE: 20110705 DATE AS OF CHANGE: 20110705 FILER: COMPANY DATA: COMPANY CONFORMED NAME: Global Biotech Corp. CENTRAL INDEX KEY: 0001126162 STANDARD INDUSTRIAL CLASSIFICATION: SERVICES-BUSINESS SERVICES, NEC [7389] IRS NUMBER: 980229951 FISCAL YEAR END: 0228 FILING VALUES: FORM TYPE: 10-K SEC ACT: 1934 Act SEC FILE NUMBER: 000-33271 FILM NUMBER: 11949243 BUSINESS ADDRESS: STREET 1: 5800 METROPOLITAN EAST STREET 2: SUITE 328 CITY: MONTREAL STATE: A8 ZIP: H1S1A7 BUSINESS PHONE: 514 333 4545 MAIL ADDRESS: STREET 1: 5800 METROPOLITAN EAST STREET 2: SUITE 328 CITY: MONTREAL STATE: A8 ZIP: H1S1A7 FORMER COMPANY: FORMER CONFORMED NAME: SWORD COMP SOFT CORP DATE OF NAME CHANGE: 20001011 </SEC-Header> </Header> 0001171520-11-000490.txt : 20110705 10-K 1 eps4273.htm GLOBAL BIOTECH CORP. UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 10-K ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended November 30, 2010 Commission File Number 000-33271 GLOBAL BIOTECH CORP. Delaware 98-022951 (State or Other Jurisdiction of (I.R.S.
+Employer Incorporation or Organization) Identification No.)
+2711 Centreville Rd Suite 400 Wilmington, Delaware 19808 Address of Principal Executive Offices) Issuer's telephone number: (302) 288-0658 Securities registered pursuant to Section 12 (b) of the Act: None Securities registered pursuant to Section 12 (g) of the Act: Common stock, par value $0.0001 per share Preferred stock, par value $0.0001 per share Check whether the issuer (1) filed all reports required to be filed by Section 13 or 15 (d) of the Exchange Act during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+2711 Centreville Rd Suite 400 Wilmington, Delaware 19808 Address of Principal Executive Offices) Issuer's telephone number: (302) 288-0658 Securities registered pursuant to Section 12 (b) of the Act: None Securities registered pursuant to Section 12 (g) of the Act: Common stock, par value $0.0001 per share Preferred stock, par value $0.0001 per share Check whether the issuer (1) filed all reports required to be filed by Section 13 or 15 (d) of the Exchange Act during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes |X| Indicate by check mark whether the registrant is a shell company (as determined in Rule 12b-2 of the Exchange Act) NO [x] Check if there is no disclosure of delinquent filers, in response to Item 405 of Regulation S-B, is not contained in this form, and no disclosure will be contained, to the best of registrant's knowledge, in definitive proxy or information, statements incorporated by reference in Part 3 of this Form 10-K or any amendment to this Form 10-K. Issuer's revenues for its most recent fiscal year: $0 As of June 28, 2011, the aggregate market value of the issuer's common stock based on its reported price on the OTC Bulletin Board held by non-affiliates of the issuer was approximately $678,033.
+Yes |X| Indicate by check mark whether the registrant is a shell company (as determined in Rule 12b-2 of the Exchange Act) NO [x] Check if there is no disclosure of delinquent filers, in response to Item 405 of Regulation S-B, is not contained in this form, and no disclosure will be contained, to the best of registrant's knowledge, in definitive proxy or information, statements incorporated by reference in Part 3 of this Form 10-K or any amendment to this Form 10-K. Issuer's revenues for its most recent fiscal year: $0 As of June 28, 2011, the aggregate market value of the issuer's common stock based on its reported price on the OTC Bulletin Board held by non-affiliates of the issuer was approximately $678,033.
+At June 28, 2011, 75,361,990 shares of issuer's common stock were outstanding.
+At June 28, 2011, 75,361,990 shares of issuer's common stock were outstanding.
+GLOBAL BIOTECH CORP. FORM 10-K ANNUAL REPORT TABLE OF CONTENTS SECTION PART 1 Item 1. Business 3 Item 2.
+GLOBAL BIOTECH CORP. FORM 10-K ANNUAL REPORT TABLE OF CONTENTS SECTION PART 1 Item 1. Business 3 Item 2.
+Properties 11 Item 3.
+Legal Proceedings 11 Item 4.
+Submission of Matters to a Vote of Security Holders 11 PART 2 Item 5.
+Submission of Matters to a Vote of Security Holders 11 PART 2 Item 5.
+Market for Registrant's Common Equity and Related Stockholders Matters 11 Item 6.
+Market for Registrant's Common Equity and Related Stockholders Matters 11 Item 6.
+Management's Discussion and Analysis of Financial Condition and Results of Operation 13 Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of Operation 13 Item 7.
+Financial Statements and Supplementary Data 15 Item 8.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+15 Item 9a Controls and Procedures 16 PART 3 Item 9b Directors and Executive Officers of the Registrant 17 Item 10.
+15 Item 9a Controls and Procedures 16 PART 3 Item 9b Directors and Executive Officers of the Registrant 17 Item 10.
+Executive Compensation 19 Item 11.
+Security Ownership of Certain Beneficial Owners and Management 20 Item 12.
+Security Ownership of Certain Beneficial Owners and Management 20 Item 12.
+Certain Relationship and Related Transactions 20 PART 4 Item 13.
+Certain Relationship and Related Transactions 20 PART 4 Item 13.
+Exhibits, Financial Statement Schedule and Reports on Form 8-K 21 Item 14.
+Exhibits, Financial Statement Schedule and Reports on Form 8-K 21 Item 14.
+Principal Accountant Fees and Services 21 ITEM 1 DESCRIPTION OF BUSINESS (a) Business Development GLOBAL BIOTECH CORP. ( GLOBAL ), formerly (SWORD COMP-SOFT CORP.) was organized on November 2, 1998.
+Principal Accountant Fees and Services 21 ITEM 1 DESCRIPTION OF BUSINESS (a) Business Development GLOBAL BIOTECH CORP. ( GLOBAL ), formerly (SWORD COMP-SOFT CORP.) was organized on November 2, 1998.
+Its goal was to bring interactive healthcare information services utilizing the Internet to the consumer, the end user, to access what they, as individuals, need.
+Its goal was to bring interactive healthcare information services utilizing the Internet to the consumer, the end user, to access what they, as individuals, need.
+As of March 5, 2003 this business was sold along with the assumption of a note payable in the amount of $700,000 to Millenia Hope Inc., its former parent corporation.
+As of March 5, 2003 this business was sold along with the assumption of a note payable in the amount of $700,000 to Millenia Hope Inc., its former parent corporation.
+In exchange, GLOBAL received 30.7 million shares of its outstanding common shares held by Millenia Hope Inc.
+In exchange, GLOBAL received 30.7 million shares of its outstanding common shares held by Millenia Hope Inc.
+Subsequently, GLOBAL acquired the exclusive 10 year North American licensing rights to a vehicle tracking system in exchange for 30.7 million of its common shares.
+Subsequently, GLOBAL acquired the exclusive 10 year North American licensing rights to a vehicle tracking system in exchange for 30.7 million of its common shares.
+GLOBAL s vehicle tracking system was supposed to seamlessly tie together wireless communications and the Internet with global positioning technology to link vehicles to a world of unlimited wireless services.
+GLOBAL s vehicle tracking system was supposed to seamlessly tie together wireless communications and the Internet with global positioning technology to link vehicles to a world of unlimited wireless services.
+As of February 24, 2005,GLOBAL s Board of Directors concluded that its attempt to enter the vehicle tracking business was unsuccessful and entered into a provisional agreement, with Advanced Fluid Technologies Inc. a Delaware corporation, to acquire assets from the latter corporation pursuant to entering the bottled water, more specifically the oxygenated bottled water, market.
+As of February 24, 2005,GLOBAL s Board of Directors concluded that its attempt to enter the vehicle tracking business was unsuccessful and entered into a provisional agreement, with Advanced Fluid Technologies Inc. a Delaware corporation, to acquire assets from the latter corporation pursuant to entering the bottled water, more specifically the oxygenated bottled water, market.
+This Agreement was finalized on August 15, 2007.
+(b) Business of Issuer GLOBAL s goal is to position AquaBoost(TM), the bottled oxygenated water product it expects to acquire from Advanced Fluid Technologies, as an energizing alternative to soft drinks and as a beverage with more health benefits than ordinary water.
+(b) Business of Issuer GLOBAL s goal is to position AquaBoost(TM), the bottled oxygenated water product it expects to acquire from Advanced Fluid Technologies, as an energizing alternative to soft drinks and as a beverage with more health benefits than ordinary water.
+To date, the aforementioned product has had minimal sales and the Company will endeavor, but can offer no guarantees, to raise its sales level significantly.
+To date, the aforementioned product has had minimal sales and the Company will endeavor, but can offer no guarantees, to raise its sales level significantly.
+Officers and director of the firm have committed to fund the operations of the Company until sufficient funds have been generated from ongoing business.
+Officers and director of the firm have committed to fund the operations of the Company until sufficient funds have been generated from ongoing business.
+OXYGENATED WATER, THE PRODUCT Oxygen enriched water is water that is treated, combined or infused with oxygen.
+OXYGENATED WATER, THE PRODUCT Oxygen enriched water is water that is treated, combined or infused with oxygen.
+Most oxygen enriched water companies claim that their water contains around seven times the oxygen of natural, mineral, tap or spring water.
+Most oxygen enriched water companies claim that their water contains around seven times the oxygen of natural, mineral, tap or spring water.
+For many of the available brands the oxygen content is acknowledged to decrease over time (giving products a shorter shelf life) and also decreases when the oxygen-enriched water bottle is opened, as the oxygen slowly dissipates.
+For many of the available brands the oxygen content is acknowledged to decrease over time (giving products a shorter shelf life) and also decreases when the oxygen-enriched water bottle is opened, as the oxygen slowly dissipates.
+Oxygenated water is a convenient source of additional oxygen for the body.
+Oxygenated water is a convenient source of additional oxygen for the body.
+The benefits of additional oxygen, according to the studies run and research done, include increased cardiovascular and muscular endurance.
+The benefits of additional oxygen, according to the studies run and research done, include increased cardiovascular and muscular endurance.
+Oxygenated water raises the body's energy levels, improves concentration, calms the nervous system, and helps to remove toxins (See Tests and Studies).
+Oxygenated water raises the body's energy levels, improves concentration, calms the nervous system, and helps to remove toxins (See Tests and Studies).
+BOTTLED WATER MARKET Worldwide sales in the fast-growing bottled water industry have risen annually, over the past decade, surpassing $40 billion US in 2004.
+BOTTLED WATER MARKET Worldwide sales in the fast-growing bottled water industry have risen annually, over the past decade, surpassing $40 billion US in 2004.
+The United States market was $7.1 billion US and the European market, where bottled water is the leading beverage, at an estimated $12 billion.
+The United States market was $7.1 billion US and the European market, where bottled water is the leading beverage, at an estimated $12 billion.
+Some analysts suggest that bottled water will surpass all US beverage categories, excluding soft drinks.
+Some analysts suggest that bottled water will surpass all US beverage categories, excluding soft drinks.
+Bottled water sales grew at a 7.9% annual rate between 2002-2007 to reach 206 billion litres.
+Bottled water sales grew at a 7.9% annual rate between 2002-2007 to reach 206 billion litres.
+Oxygenated bottled water is a sub-category, one of the groups of specialty beverages, of the broader bottled water market.
+Oxygenated bottled water is a sub-category, one of the groups of specialty beverages, of the broader bottled water market.
+Zenith International, a British food industry consultant, stated, in its January 2005 report, that the worldwide sales of bottled oxygenated water in 2004 reached 110 million litres, a growth of 30% from previous year and 65% during the past 2 years.
+Zenith International, a British food industry consultant, stated, in its January 2005 report, that the worldwide sales of bottled oxygenated water in 2004 reached 110 million litres, a growth of 30% from previous year and 65% during the past 2 years.
+MARKET SIZE AND TRENDS The oxygenated water market represents an important niche within the global beverage market.
+MARKET SIZE AND TRENDS The oxygenated water market represents an important niche within the global beverage market.
+The product imparts beneficial aspects not available from bottled water, and is a healthy substitute for soft drinks.
+The product imparts beneficial aspects not available from bottled water, and is a healthy substitute for soft drinks.
+For the year 2004, according to the aforementioned Zenith study, Europeans purchased some 44 billion litres of bottled water and Americans more than 26 billion litres.
+For the year 2004, according to the aforementioned Zenith study, Europeans purchased some 44 billion litres of bottled water and Americans more than 26 billion litres.
+The 2004 sales figures for oxygenated bottled water were 32 million litres for the United States and 40 million litres for Europe, respectively.
+The 2004 sales figures for oxygenated bottled water were 32 million litres for the United States and 40 million litres for Europe, respectively.
+As per the previously mentioned Zenith report, oxygenated water sales should double between 2004 and the year 2008.
+As per the previously mentioned Zenith report, oxygenated water sales should double between 2004 and the year 2008.
+This would yield an annual growth rate of 20%, far above the predicted growth rate of regular bottled water.
+This would yield an annual growth rate of 20%, far above the predicted growth rate of regular bottled water.
+According to the Canadian Soft Drinks Association, bottled water is the largest selling beverage in Europe and ranks behind soft drinks in North America.
+According to the Canadian Soft Drinks Association, bottled water is the largest selling beverage in Europe and ranks behind soft drinks in North America.
+The growth rate in the past decade for all bottled water consumption is much higher than that of soft drinks.
+The growth rate in the past decade for all bottled water consumption is much higher than that of soft drinks.
+COMPETITION Several Canadian companies and Bio-Hydration of San Diego, California, the volume leader in oxygenated water, have developed their own oxygenated water.O2 Canada, Oxyl'Eau, Neva Sport, Athletic Superwater, and Life 02 are being marketed as a means to improve athletic performance.
+COMPETITION Several Canadian companies and Bio-Hydration of San Diego, California, the volume leader in oxygenated water, have developed their own oxygenated water.O2 Canada, Oxyl'Eau, Neva Sport, Athletic Superwater, and Life 02 are being marketed as a means to improve athletic performance.
+Penta and Avani's oxygenated water relies on the purity of its product in its sales effort.All of these brands are not on par with AquaBoost(TM) in either their oxygen-retentive abilities and/or in their levels of oxygenation.
+Penta and Avani's oxygenated water relies on the purity of its product in its sales effort.All of these brands are not on par with AquaBoost(TM) in either their oxygen-retentive abilities and/or in their levels of oxygenation.
+Brand Parts Per Million of Oxygen Oxygen Retentive Ability Upon Opening of a Bottle 600ml Penta Waters Up to 70 Not listed Life O2 Up to 120 Less than 36 hours O2 Canada Up to 40 Not listed Athletic Super Water Up to 50 Not listed Avani Extra Oxygen Up to 50 Maximum up to 2 hours Neva Sport Up to 50 Within 24 hours OxyL'eau 15 Not listed AQUABOOST(TM) AquaBoost(TM) is oxygenated water: it has been treated to retain oxygen in concentrations far higher than those found in nature.
+Brand Parts Per Million of Oxygen Oxygen Retentive Ability Upon Opening of a Bottle 600ml Penta Waters Up to 70 Not listed Life O2 Up to 120 Less than 36 hours O2 Canada Up to 40 Not listed Athletic Super Water Up to 50 Not listed Avani Extra Oxygen Up to 50 Maximum up to 2 hours Neva Sport Up to 50 Within 24 hours OxyL'eau 15 Not listed AQUABOOST(TM) AquaBoost(TM) is oxygenated water: it has been treated to retain oxygen in concentrations far higher than those found in nature.
+For example, water can retain 9 parts per million (ppm) of oxygen at 20(degree) under a pressure of one atmosphere.
+For example, water can retain 9 parts per million (ppm) of oxygen at 20(degree) under a pressure of one atmosphere.
+Studies conducted by the Quebec government have confirmed that our water contained at least 20 ppm - the highest concentration detectable by the government lab's measurement instruments.
+Studies conducted by the Quebec government have confirmed that our water contained at least 20 ppm - the highest concentration detectable by the government lab's measurement instruments.
+Our own tests established that AquaBoost(TM) contained in excess of 80 ppm and even exceeded 100 ppm, even six months after bottling (See Tests and Studies section).
+Our own tests established that AquaBoost(TM) contained in excess of 80 ppm and even exceeded 100 ppm, even six months after bottling (See Tests and Studies section).
+PRODUCTION PROCESS We have added new dimensions to the laws of physics governing dissolved gases.
+PRODUCTION PROCESS We have added new dimensions to the laws of physics governing dissolved gases.
+Our method of dissolving gases in a liquid works by influencing ionic mobility, electron diffusion, via an electron cannon, and the use of triboelectricity with electrostatic charges.
+Our method of dissolving gases in a liquid works by influencing ionic mobility, electron diffusion, via an electron cannon, and the use of triboelectricity with electrostatic charges.
+Due to the aforementioned processes, we can attach and stabilize oxygen molecules in water at levels previously unheard of, 100PPM and even higher.
+Due to the aforementioned processes, we can attach and stabilize oxygen molecules in water at levels previously unheard of, 100PPM and even higher.
+Therefore, in contrast to a mineralized solution reducing the dissolvability of oxygen in water, as would be the case with our competitors' products, a small quantity of minerals helps us create conductivity in water.
+Therefore, in contrast to a mineralized solution reducing the dissolvability of oxygen in water, as would be the case with our competitors' products, a small quantity of minerals helps us create conductivity in water.
+In effect, the amount of conductivity is influenced by the electrolyte strength, the nature of free ions and their concentration in water.
+In effect, the amount of conductivity is influenced by the electrolyte strength, the nature of free ions and their concentration in water.
+The process modifies water's physical and chemical characteristics and allows us to bond the oxygen molecule to water.
+The process modifies water's physical and chemical characteristics and allows us to bond the oxygen molecule to water.
+Currently, our oxygenated bottled water will be produced for us by Saint Ellie s bottling plant in Quebec, Canada.
+Currently, our oxygenated bottled water will be produced for us by Saint Ellie s bottling plant in Quebec, Canada.
+Their production and bottling capacity is more than adequate to fill our estimated annual sales of oxygenated water.
+Their production and bottling capacity is more than adequate to fill our estimated annual sales of oxygenated water.
+DEVELOPMENT We are researching the optimum path to bring further products to the market in the medium term, by exploring the oxygenation technology's application in beverages other than water.
+DEVELOPMENT We are researching the optimum path to bring further products to the market in the medium term, by exploring the oxygenation technology's application in beverages other than water.
+Oxygenated fruit-juices is one of the development items on our mid-term strategic horizon.
+Oxygenated fruit-juices is one of the development items on our mid-term strategic horizon.
+COMPETITIVE ADVANTAGES Due to its production process, AquaBoost(TM)'s elevated oxygen content does not simply bubble away, when the product is opened, as happens with many of our competitors' products.
+COMPETITIVE ADVANTAGES Due to its production process, AquaBoost(TM)'s elevated oxygen content does not simply bubble away, when the product is opened, as happens with many of our competitors' products.
+Aquaboost(TM) will retain its oxygen level over a much longer period of time than its competitors.
+Aquaboost(TM) will retain its oxygen level over a much longer period of time than its competitors.
+Our level of dissolved oxygen, up to 100ppm, is far greater than the vast majority of our competitors (see previous section).
+Our level of dissolved oxygen, up to 100ppm, is far greater than the vast majority of our competitors (see previous section).
+Our production process ensures that our product is clean of all contaminants and impurities.
+Our production process ensures that our product is clean of all contaminants and impurities.
+PRICING AND MARKETING PRICING Due to the superior qualities of of AquaBoost(TM), we believe that retailers will obtain premium prices for it.
+PRICING AND MARKETING PRICING Due to the superior qualities of of AquaBoost(TM), we believe that retailers will obtain premium prices for it.
+The higher price will signal to consumers that there is something unique about AquaBoost(TM), which we expect will fuel greater customer demand.
+The higher price will signal to consumers that there is something unique about AquaBoost(TM), which we expect will fuel greater customer demand.
+It will also offer the increased margins of oxygenated and specialty type waters to distributors, thus helping to boost our product's introduction into the consumer marketplace.
+It will also offer the increased margins of oxygenated and specialty type waters to distributors, thus helping to boost our product's introduction into the consumer marketplace.
+POTENTIAL CONSUMERS AquaBoost(TM) offers important benefits to consumers.
+In raising their oxygen levels, people not only feel better and have increased energy levels, they also think more clearly and function at peak performance for longer periods of time, improving their work and leisure time productivity.
+In raising their oxygen levels, people not only feel better and have increased energy levels, they also think more clearly and function at peak performance for longer periods of time, improving their work and leisure time productivity.
+An in house survey of potential AquaBoost(TM) customers and the 2005 report of Zenith International tell us that they are health-conscious, men and women who will benefit from the additional oxygen in their bodies.
+An in house survey of potential AquaBoost(TM) customers and the 2005 report of Zenith International tell us that they are health-conscious, men and women who will benefit from the additional oxygen in their bodies.
+They lead active lifestyles, engage in sports and other physical activities and are looking for healthy, nourishing alternatives to soft drinks and other traditional beverages.
+They lead active lifestyles, engage in sports and other physical activities and are looking for healthy, nourishing alternatives to soft drinks and other traditional beverages.
+A secondary group that we have identified, through the same research, are the elderly, who may encounter oxygen deprivation through illness and physical trauma.
+A secondary group that we have identified, through the same research, are the elderly, who may encounter oxygen deprivation through illness and physical trauma.
+Oxygen reduces the effectiveness of pathogenic bacteria and viruses.
+Oxygen reduces the effectiveness of pathogenic bacteria and viruses.
+As a simple, readily available source of oxygen.
+AquaBoost(TM) can offer these consumers better health.
+In March 2001 Aquaboost(TM) was shown at the beverage and food show, SIAL, in Montreal, Quebec.
+In March 2001 Aquaboost(TM) was shown at the beverage and food show, SIAL, in Montreal, Quebec.
+Over 4,000 samples of Aquaboost(TM) were given out and generated significant positive interest during the commencement of the product testing phase.
+Over 4,000 samples of Aquaboost(TM) were given out and generated significant positive interest during the commencement of the product testing phase.
+MARKETING STRATEGY The Company, both in the short and in the long term, aims to raise the awareness of our product, and the added benefits of additional oxygen in the blood stream.
+MARKETING STRATEGY The Company, both in the short and in the long term, aims to raise the awareness of our product, and the added benefits of additional oxygen in the blood stream.
+Medical benefits, of elevated oxygen levels, include: Treatment of: - Infectious Diseases - Chronic wounds - Anemia/blood loss - Post operative wound care - Spinal cord injury - Cerebral Damage - Burn Victims Improvements in: - Cognitive performance - Lowering blood pressure - Depression - Sleep Disorders - Chronic joint and muscular pain - Chronic Fatigue - Respiratory and Heart problems - Stimulation of metabolism AquaBoost(TM) will be marketed and differentiated as having one of the highest PPM of oxygen and retaining this level over an extended period of time, thus conveying more of the potential benefits of higher bloodstream oxygen levels.
+Medical benefits, of elevated oxygen levels, include: Treatment of: - Infectious Diseases - Chronic wounds - Anemia/blood loss - Post operative wound care - Spinal cord injury - Cerebral Damage - Burn Victims Improvements in: - Cognitive performance - Lowering blood pressure - Depression - Sleep Disorders - Chronic joint and muscular pain - Chronic Fatigue - Respiratory and Heart problems - Stimulation of metabolism AquaBoost(TM) will be marketed and differentiated as having one of the highest PPM of oxygen and retaining this level over an extended period of time, thus conveying more of the potential benefits of higher bloodstream oxygen levels.
+With appropriate financing we will also utilize sport stars and will continue to ride the general bottled water and specialty water consumption rise, vis a vis soft drinks and other beverages.
+With appropriate financing we will also utilize sport stars and will continue to ride the general bottled water and specialty water consumption rise, vis a vis soft drinks and other beverages.
+PURCHASED RIGHTS On August 15, 2007 the Company finalized an agreement with Advanced Fluid Technologies to purchase their to be patented oxygenation unit and all technical know how, intellectual properties, methodologies and all information pertaining to the following: the fixation of the oxygen molecule to water or any other fluid and/or to the building and maintenance of the oxygenation unit.
+PURCHASED RIGHTS On August 15, 2007 the Company finalized an agreement with Advanced Fluid Technologies to purchase their to be patented oxygenation unit and all technical know how, intellectual properties, methodologies and all information pertaining to the following: the fixation of the oxygen molecule to water or any other fluid and/or to the building and maintenance of the oxygenation unit.
+Furthermore; all trademarks for the name Aquaboost Oxygenated Water, and the right to use and register said name globally, were to be transferred to Global.Purchase price, for all the aforementioned assets, was a combination of debt this being the $216,261 due by AFT to the Company in a note payable as of August 26, 2005, and 18 million shares of the Company s common stock, valued at $720,000.
+Furthermore; all trademarks for the name Aquaboost Oxygenated Water, and the right to use and register said name globally, were to be transferred to Global.Purchase price, for all the aforementioned assets, was a combination of debt this being the $216,261 due by AFT to the Company in a note payable as of August 26, 2005, and 18 million shares of the Company s common stock, valued at $720,000.
+TESTS AND STUDIES AquaBoost(TM) oxygen levels and retentive abilities December 1999 - March 2000-Test done by the Government of Quebec, Canada's Testing facility.
+TESTS AND STUDIES AquaBoost(TM) oxygen levels and retentive abilities December 1999 - March 2000-Test done by the Government of Quebec, Canada's Testing facility.
+58 samples of 500 ml and 1000 ml bottles refrigerated until December 23, 1999 and then left at room temperature until the end of the of experiment Upper limit of government testing equipment 20 ppm Samples opened December 23, 1999, January 19, February 16 and March 13, 2000.
+58 samples of 500 ml and 1000 ml bottles refrigerated until December 23, 1999 and then left at room temperature until the end of the of experiment Upper limit of government testing equipment 20 ppm Samples opened December 23, 1999, January 19, February 16 and March 13, 2000.
+All samples measured at or above the maximum testing level i.e.
+All samples measured at or above the maximum testing level i.e.
+in excess of 20 ppm of dissolved oxygen.
+February 2000 - July 2000-Test done In-House by Dr. Rene Morel of Hospital Maisoneuve Rosemont.
+February 2000 - July 2000-Test done In-House by Dr. Rene Morel of Hospital Maisoneuve Rosemont.
+Measured, once a month, the oxygen level of a total of 200 bottles, 500 ml and 1000 ml, left at room temperature, for 6 months consecutively.
+Measured, once a month, the oxygen level of a total of 200 bottles, 500 ml and 1000 ml, left at room temperature, for 6 months consecutively.
+All samples measured between 80-110 ppm of dissolved oxygen, even after 6 months.
+All samples measured between 80-110 ppm of dissolved oxygen, even after 6 months.
+August 2000 - Test done by LAB Preclinical Research International Variation of PO2 levels in MMHG in relation to time, animals 1 canine test subject, 11 months old, 500 ml with an oxygen content of 33 ppm Increased PO2 level within a short time of receiving the oxygenised solution.
+August 2000 - Test done by LAB Preclinical Research International Variation of PO2 levels in MMHG in relation to time, animals 1 canine test subject, 11 months old, 500 ml with an oxygen content of 33 ppm Increased PO2 level within a short time of receiving the oxygenised solution.
+July 2000 - Test done by Dr. Knox van Dyke and Dr. Meir Sacks - University of West Virginia Examined AquaBoost(TM) in an assay against the strong pro-oxidant SIN-1 which produces a key body oxidant called peroxynitrite.
+July 2000 - Test done by Dr. Knox van Dyke and Dr. Meir Sacks - University of West Virginia Examined AquaBoost(TM) in an assay against the strong pro-oxidant SIN-1 which produces a key body oxidant called peroxynitrite.
+AquaBoost acted as an antixiodant by suppressing the light from luminol.
+AquaBoost acted as an antixiodant by suppressing the light from luminol.
+Normally the peroxynitrite reacts with the luminol to produce light.
+Normally the peroxynitrite reacts with the luminol to produce light.
+AquaBoost interfered with the production or transmission of light, clearly indicating it is acting as an antioxidant.
+AquaBoost interfered with the production or transmission of light, clearly indicating it is acting as an antioxidant.
+November 2000 - Test done In-House by Dr. Rene Morel of Hospital-Maisoneuve Rosemont.
+November 2000 - Test done In-House by Dr. Rene Morel of Hospital-Maisoneuve Rosemont.
+Variation of PO2 levels in MMHG in relation to time, humans 6 adults, male and female ages 38-53, who ingested 750 ml each of AquaBoost(TM) with an oxygen content of 100ppm.
+Variation of PO2 levels in MMHG in relation to time, humans 6 adults, male and female ages 38-53, who ingested 750 ml each of AquaBoost(TM) with an oxygen content of 100ppm.
+In all cases, their PO2 level increased significantly within a short time of ingesting Aquaboost(TM).
+In all cases, their PO2 level increased significantly within a short time of ingesting Aquaboost(TM).
+Equally as significant, the elevated level of PO2 was detectable after a sustained period of time.
+Equally as significant, the elevated level of PO2 was detectable after a sustained period of time.
+April 2002 - Test done by Northwest Environmental Water Lab in Oakville.
+April 2002 - Test done by Northwest Environmental Water Lab in Oakville.
+AquaBoost retaind oxygenated was 82ppm or 900% more than naturally occurring oxygen in water.
+AquaBoost retaind oxygenated was 82ppm or 900% more than naturally occurring oxygen in water.
+STUDIES ON THE BENEFITS OF INGESTING OXYGENATED WATER The European Journal of Medical Research( vol.6, Nov 20,2001) has carried out a study on the effect of oxygen enriched water on behalf of Germany's Adelhoizener.
+STUDIES ON THE BENEFITS OF INGESTING OXYGENATED WATER The European Journal of Medical Research( vol.6, Nov 20,2001) has carried out a study on the effect of oxygen enriched water on behalf of Germany's Adelhoizener.
+The study found that, due to warming in the stomach, oxygen bound in mineral water slowly de-binds and penetrates the stomach septum.
+The study found that, due to warming in the stomach, oxygen bound in mineral water slowly de-binds and penetrates the stomach septum.
+Hence, venous blood leading to the liver was additionally supplied with oxygen.
+Hence, venous blood leading to the liver was additionally supplied with oxygen.
+This oxygen enrichment amounted to 7% to 14% and lasted for around one hour.
+This oxygen enrichment amounted to 7% to 14% and lasted for around one hour.
+In August 1997 double-blind tests were conducted by the Center for Research on Woman's Health, Denton, Texas under the supervision of Dr. John Duncan.
+In August 1997 double-blind tests were conducted by the Center for Research on Woman's Health, Denton, Texas under the supervision of Dr. John Duncan.
+This involved 25 participants - 20 male and 5 females.
+This involved 25 participants - 20 male and 5 females.
+They were given either clustered and oxygen enriched water or normal water and asked to run for 90 minutes with relevant recordings and measurements taken.
+They were given either clustered and oxygen enriched water or normal water and asked to run for 90 minutes with relevant recordings and measurements taken.
+It was found that runners drinking the clustered and oxygen enriched water decreased recorded times over the 5 kilometre distance by an average of 31 seconds, compared to regular bottled water.
+It was found that runners drinking the clustered and oxygen enriched water decreased recorded times over the 5 kilometre distance by an average of 31 seconds, compared to regular bottled water.
+It was concluded that oxygen enriched beverages could increase athletic achievement.
+It was concluded that oxygen enriched beverages could increase athletic achievement.
+According to a January 1999 article in the Canadian Journal of Health and Nutrition, Oxygen Boosts Performance , the addition of extra oxygen to the human body yields many health and well-being benefits: improved cardiovascular endurance, raised energy levels, improved concentration, a calmer nervous system, and reduced toxin levels.
+According to a January 1999 article in the Canadian Journal of Health and Nutrition, Oxygen Boosts Performance , the addition of extra oxygen to the human body yields many health and well-being benefits: improved cardiovascular endurance, raised energy levels, improved concentration, a calmer nervous system, and reduced toxin levels.
+In a study conducted for Oxy-Water by George Washington University, entitled Effects of Oxygenized Water on Percent Oxygen Saturation and Performance During Exercise ( presented to The American College of Sports Medicine in June 2001 by Jenkins,Moreland,Waddell and Fernhall), the effect of oxygen enriched water on performance during exercise was investigated.
+In a study conducted for Oxy-Water by George Washington University, entitled Effects of Oxygenized Water on Percent Oxygen Saturation and Performance During Exercise ( presented to The American College of Sports Medicine in June 2001 by Jenkins,Moreland,Waddell and Fernhall), the effect of oxygen enriched water on performance during exercise was investigated.
+The study involved ten men and ten women aged between 23 and 35 - all regular exercisers.
+The study involved ten men and ten women aged between 23 and 35 - all regular exercisers.
+Each person performed two maximum output tests and two endurance tests, two for both oxygenized and distilled water.
+Each person performed two maximum output tests and two endurance tests, two for both oxygenized and distilled water.
+All four tests were carried out on a cycling machine.
+All four tests were carried out on a cycling machine.
+Each person drank 50cl of water 15 minutes before each test and then immediately following fatigue.
+Each person drank 50cl of water 15 minutes before each test and then immediately following fatigue.
+Further separation of the group found that the time to fatigue during the maximum output exercise was greater with Oxy-Water compared to the distilled water.
+Further separation of the group found that the time to fatigue during the maximum output exercise was greater with Oxy-Water compared to the distilled water.
+The study concluded, Individuals who are highly trained may benefit from the use of oxygenised water to increase percentage oxygen saturation during acute bouts of intense exercise and possibly prolong time to fatigue.
+The study concluded, Individuals who are highly trained may benefit from the use of oxygenised water to increase percentage oxygen saturation during acute bouts of intense exercise and possibly prolong time to fatigue.
+Even small increases in oxygen saturation may be significant in highly trained individuals and elite performers.
+Even small increases in oxygen saturation may be significant in highly trained individuals and elite performers.
+Oxygen plays a pivotal role in the proper functioning of the immune system..we can look at oxygen deficiency as the single greates cause of all diseases.
+Oxygen plays a pivotal role in the proper functioning of the immune system..we can look at oxygen deficiency as the single greates cause of all diseases.
+Stephen Levine, a respected molecular biologist and geneticist, and Dr. Paris M. Kidd, Ph.D., excerpted from Antioxidant Adaptation and Immunity, etc., published in August 1986.
+Stephen Levine, a respected molecular biologist and geneticist, and Dr. Paris M. Kidd, Ph.D., excerpted from Antioxidant Adaptation and Immunity, etc., published in August 1986.
+Two time Nobel Prize winning researcher, Dr. Otto Warburg determined that healthy cells might become cancerous as a result of oxygen depriviation.- per an OxyPlus oxygenated water excerpt Dr. Otto Warburg's studies prove that when your body is saturated in oxygen, your healthy cells have more energy and are stronger.
+Two time Nobel Prize winning researcher, Dr. Otto Warburg determined that healthy cells might become cancerous as a result of oxygen depriviation.- per an OxyPlus oxygenated water excerpt Dr. Otto Warburg's studies prove that when your body is saturated in oxygen, your healthy cells have more energy and are stronger.
+Cancer cells do not feed on oxygen, they feed on fermentation.
+Cancer cells do not feed on oxygen, they feed on fermentation.
+An oxygen- saturated body is a hostile environment for cancer.
+An oxygen- saturated body is a hostile environment for cancer.
+Oxygen increases your energy, your memory and the quality of your life(excerpted from his address on June 30,1966 in Lindau, Lake Constance, Germany).
+Oxygen increases your energy, your memory and the quality of your life(excerpted from his address on June 30,1966 in Lindau, Lake Constance, Germany).
+As reported in the New York Times in 2001,Glenn J. Butler, whose bio-engineering career includes work with NASA and whose firm manages The Chronic Wound Treatment Hyperbaric Center at The Mount Vernon Hospital, researched the long and short-term effects of consuming Oxygen8 (an oxygenated water produced in the US).
+As reported in the New York Times in 2001,Glenn J. Butler, whose bio-engineering career includes work with NASA and whose firm manages The Chronic Wound Treatment Hyperbaric Center at The Mount Vernon Hospital, researched the long and short-term effects of consuming Oxygen8 (an oxygenated water produced in the US).
+Mr. Butler's findings: By drinking Oxygen8, there is a significant increase in blood oxygen levels.
+Mr. Butler's findings: By drinking Oxygen8, there is a significant increase in blood oxygen levels.
+The results suggest that the oxygen remains in the system for longer than 10 minutes after consumption.
+The results suggest that the oxygen remains in the system for longer than 10 minutes after consumption.
+Approximately 1 out of every 3 of Americans is in need of hydration and thus, oxygen would be beneficial for their health.
+Approximately 1 out of every 3 of Americans is in need of hydration and thus, oxygen would be beneficial for their health.
+As with many scientific claims, there are detractors from the benefit of ingesting oxygen enriched water.
+As with many scientific claims, there are detractors from the benefit of ingesting oxygen enriched water.
+The tests and studies we have quoted are the validation for our beliefs in the benefit of oxygenated water.
+The tests and studies we have quoted are the validation for our beliefs in the benefit of oxygenated water.
+AQUISITIONS On August 15, 2007 the Company finalized an agreement with Advanced Fluid Technologies to purchase their to be patented oxygenation unit and all technical know how, intellectual properties, methodologies and all information pertaining to the following: the fixation of the oxygen molecule to water or any other fluid and/or to the building and maintenance of the oxygenation unit.
+AQUISITIONS On August 15, 2007 the Company finalized an agreement with Advanced Fluid Technologies to purchase their to be patented oxygenation unit and all technical know how, intellectual properties, methodologies and all information pertaining to the following: the fixation of the oxygen molecule to water or any other fluid and/or to the building and maintenance of the oxygenation unit.
+Furthermore; all trademarks for the name Aquaboost Oxygenated Water and the right to use and register said name globally, were to be transferred to Global.Purchase price, for all the aforementioned assets, was a combination of debt this being the $216,261 due by AFT to the Company in a note payable as of August 26, 2005, and 18 million shares of the Company s common stock valued at $0.04 per share or $720,000.
+Furthermore; all trademarks for the name Aquaboost Oxygenated Water and the right to use and register said name globally, were to be transferred to Global.Purchase price, for all the aforementioned assets, was a combination of debt this being the $216,261 due by AFT to the Company in a note payable as of August 26, 2005, and 18 million shares of the Company s common stock valued at $0.04 per share or $720,000.
+The Company entered, on October 31, 2010, into an agreement to purchase the rights to a neutraceutical product, specifically a topical cream for women, for a period of 4 years.
+The Company entered, on October 31, 2010, into an agreement to purchase the rights to a neutraceutical product, specifically a topical cream for women, for a period of 4 years.
+The total cost of said agreement was $199,467.
+The Company is working on a product roll-out towards the latter part of this year.
+The Company is working on a product roll-out towards the latter part of this year.
+Business Objectives and Milestones The Company s short-term and medium-term objectives are as follows: To attach our oxygenation unit in Quebec to the bottling line of a recognized North American bottler.
+Business Objectives and Milestones The Company s short-term and medium-term objectives are as follows: To attach our oxygenation unit in Quebec to the bottling line of a recognized North American bottler.
+This has been done in 2010.
+To create a revenue stream through sales from strategic merchandising relationships and highly targeted markets - to this end, the Company is working on forming business relationships with pharmacy chains to place its nutraceutical beverage products in the next 6 to 12 months; To strengthen its investor relations program, to increase shareholder value and increase public investors interest in the Company; and To complete development of additional oxygenated and non-oxygenated drinks with nutraceutical values, which can be added to the Company s product offering, distributed by others, or licensed to others.
+To create a revenue stream through sales from strategic merchandising relationships and highly targeted markets - to this end, the Company is working on forming business relationships with pharmacy chains to place its nutraceutical beverage products in the next 6 to 12 months; To strengthen its investor relations program, to increase shareholder value and increase public investors interest in the Company; and To complete development of additional oxygenated and non-oxygenated drinks with nutraceutical values, which can be added to the Company s product offering, distributed by others, or licensed to others.
+The Company s long-term objectives are: To position Aquaboost as a top quality oxygenated water in the specialty waters market - Aquaboost s oxygenation level (up to 100 ppm and greater), the ability of our bottled water to retain this level of oxygenation, even over lengthy periods of time, and the purity of our product, we believe, should give Aquaboost the ability to become a staple in this specialty waters niche; To reach our 4 years sales objective - We have set a conservative sales objective of 4-6% of the European and American markets, or US$12.5 million to US$20 million of annual revenues by 2015.
+The Company s long-term objectives are: To position Aquaboost as a top quality oxygenated water in the specialty waters market - Aquaboost s oxygenation level (up to 100 ppm and greater), the ability of our bottled water to retain this level of oxygenation, even over lengthy periods of time, and the purity of our product, we believe, should give Aquaboost the ability to become a staple in this specialty waters niche; To reach our 4 years sales objective - We have set a conservative sales objective of 4-6% of the European and American markets, or US$12.5 million to US$20 million of annual revenues by 2015.
+The fact that Aquaboost was seen by hundreds of distributors at the SIAL in Montreal, Canada in 2001, gives management confidence that Global has a market with the potential to meet these sales objectives; and To enter other complimentary beverage fields - The Company has held discussions with several large beverage companies about oxygenating fruit juices.
+The fact that Aquaboost was seen by hundreds of distributors at the SIAL in Montreal, Canada in 2001, gives management confidence that Global has a market with the potential to meet these sales objectives; and To enter other complimentary beverage fields - The Company has held discussions with several large beverage companies about oxygenating fruit juices.
+Should these discussions prove successful, the Company would have another major revenue generating area.
+Should these discussions prove successful, the Company would have another major revenue generating area.
+The Company may also partner with other beverage distributors or lease its technology for royalties in those regions and for those products where it will not negatively impact potential Aquaboost sales.
+The Company may also partner with other beverage distributors or lease its technology for royalties in those regions and for those products where it will not negatively impact potential Aquaboost sales.
+We are also conducting research and development on a potential new product that we currently refer to as Aquaboost-VitA: Orange Antioxidant .
+We are also conducting research and development on a potential new product that we currently refer to as Aquaboost-VitA: Orange Antioxidant .
+EMPLOYEES There are no signed contracts with any employees.
+EMPLOYEES There are no signed contracts with any employees.
+At the current time the following officers are its only employees: Louis Greco - President-Director Responsible for overall operational co-ordination, implantation of its business direction and the marketing effort required to bring this to fruition.
+At the current time the following officers are its only employees: Louis Greco - President-Director Responsible for overall operational co-ordination, implantation of its business direction and the marketing effort required to bring this to fruition.
+He will also help to coordinate the day to day operations once, sales and production are in place.
+He will also help to coordinate the day to day operations once, sales and production are in place.
+At present, he devotes 2 days per week to the Company and is a resident of Montreal.
+At present, he devotes 2 days per week to the Company and is a resident of Montreal.
+Gilles Lamarre- Vice President-Director Responsible for assisting the President with general oversight of the Company, its operations and shareholder communications.
+Gilles Lamarre- Vice President-Director Responsible for assisting the President with general oversight of the Company, its operations and shareholder communications.
+Currently, he devotes a full week to the Company and is a Montreal resident Eric Sonigo, Vice President Production Once the corporation starts selling its product in large volume, Mr. Sonigo will be responsible for the production runs and machinery maintenance, as well as scheduling of orders and will work full time for the Company.
+Currently, he devotes a full week to the Company and is a Montreal resident Eric Sonigo, Vice President Production Once the corporation starts selling its product in large volume, Mr. Sonigo will be responsible for the production runs and machinery maintenance, as well as scheduling of orders and will work full time for the Company.
+He is a Montreal resident.
+Although the aforementioned three officers, to a greater or lesser extent, do not work full time for GLOBAL; each one devoted an adequate amount of time to accomplish his role in the corporate structure.
+Although the aforementioned three officers, to a greater or lesser extent, do not work full time for GLOBAL; each one devoted an adequate amount of time to accomplish his role in the corporate structure.
+Whenever it is necessary, each of these officers puts in work time over and above their regularly scheduled workday.
+Whenever it is necessary, each of these officers puts in work time over and above their regularly scheduled workday.
+Once sales and production are in place they will devote more time if necessary to the Company.
+Once sales and production are in place they will devote more time if necessary to the Company.
+ITEM 2 DESCRIPTION OF PROPERTIES Our head office is located at 2711 Centerville Rd Suite 400 in Wilmington, Delaware, We do not have a physical office in Canada.
+ITEM 2 DESCRIPTION OF PROPERTIES Our head office is located at 2711 Centerville Rd Suite 400 in Wilmington, Delaware, We do not have a physical office in Canada.
+ITEM 3 LEGAL PROCEEDINGS We are not involved in any material legal proceedings.
+ITEM 3 LEGAL PROCEEDINGS We are not involved in any material legal proceedings.
+ITEM 4 ITEMS SUBMITTED TO A VOTE OF SECURITY HOLDERS None ITEM 5 MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDERS MATTERS The Company's Common Stock is currently quoted for trading on the Over The Counter Bulletin Board Market under the symbol GBIQ.
+ITEM 4 ITEMS SUBMITTED TO A VOTE OF SECURITY HOLDERS None ITEM 5 MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDERS MATTERS The Company's Common Stock is currently quoted for trading on the Over The Counter Bulletin Board Market under the symbol GBIQ.
+The following table sets forth the range of quarterly, high and low sale prices for the Company's Common Stock from fiscal 2010 to date.
+The following table sets forth the range of quarterly, high and low sale prices for the Company's Common Stock from fiscal 2010 to date.
+The quotations represent inter-dealer quotations without adjustment for retail markups, markdowns or commissions, and may not necessarily represent actual transactions.
+The quotations represent inter-dealer quotations without adjustment for retail markups, markdowns or commissions, and may not necessarily represent actual transactions.
+Of the 67,661,990 shares of common stock outstanding, 53,564,040 shares are currently subject to the resale restrictions and limitations of Rule 144.
+Of the 67,661,990 shares of common stock outstanding, 53,564,040 shares are currently subject to the resale restrictions and limitations of Rule 144.
+In general, under Rule 144 as currently in effect, subject to the satisfaction of certain other conditions, a person, including an affiliate, or persons whose shares are aggregated with affiliates, who has owned restricted shares of common stock beneficially for at least one year is entitled to sell, within any three-month period, a number of shares that does not exceed 1% of the total number of outstanding shares of the same class.
+In general, under Rule 144 as currently in effect, subject to the satisfaction of certain other conditions, a person, including an affiliate, or persons whose shares are aggregated with affiliates, who has owned restricted shares of common stock beneficially for at least one year is entitled to sell, within any three-month period, a number of shares that does not exceed 1% of the total number of outstanding shares of the same class.
+In the event the shares are sold on an exchange or are reported on the automated quotation system of a registered securities association, you could sell during any three-month period the greater of such 1% amount or the average weekly trading volume as reported for the four calendar weeks preceding the date on which notice of your sale is filed with the SEC.
+In the event the shares are sold on an exchange or are reported on the automated quotation system of a registered securities association, you could sell during any three-month period the greater of such 1% amount or the average weekly trading volume as reported for the four calendar weeks preceding the date on which notice of your sale is filed with the SEC.
+Sales under Rule 144 are also subject to certain manner of sale provisions, notice requirements and the availability of current public information about us.
+Sales under Rule 144 are also subject to certain manner of sale provisions, notice requirements and the availability of current public information about us.
+A person who has not been an affiliate for at least the three months immediately preceding the sale and who has beneficially owned shares of common stock for at least two years is entitled to sell such shares under Rule 144 without regard to any of the limitations described above.
+A person who has not been an affiliate for at least the three months immediately preceding the sale and who has beneficially owned shares of common stock for at least two years is entitled to sell such shares under Rule 144 without regard to any of the limitations described above.
+(b) Holders As of June 28, 2011, there were over 300 holders of the Company's common stock.
+(b) Holders As of June 28, 2011, there were over 300 holders of the Company's common stock.
+(c) Dividends The Company has had no earnings to date, nor has the Company declared any dividends to date.
+(c) Dividends The Company has had no earnings to date, nor has the Company declared any dividends to date.
+The payment by the Company of dividends, if any, in the future, rests within the discretion of its Board of Directors and will depend, among other things, upon the Company's earnings, its capital requirements and its financial condition, as well as other relevant factors.
+The payment by the Company of dividends, if any, in the future, rests within the discretion of its Board of Directors and will depend, among other things, upon the Company's earnings, its capital requirements and its financial condition, as well as other relevant factors.
+The Company has not declared any cash dividends since inception, and has no present intention of paying any cash dividends on its Common Stock in the foreseeable future, as it intends to use earnings, if any, to generate growth.
+The Company has not declared any cash dividends since inception, and has no present intention of paying any cash dividends on its Common Stock in the foreseeable future, as it intends to use earnings, if any, to generate growth.
+(d) Recent Sales of Unregistered Securities.
+Common Stock (a) Common or Preferred Stock The Company is authorized to issue 260,000,000 shares of Common Stock, $0.0001 par value, of which 67,661,990 shares were issued and outstanding as of the date hereof.
+Common Stock (a) Common or Preferred Stock The Company is authorized to issue 260,000,000 shares of Common Stock, $0.0001 par value, of which 67,661,990 shares were issued and outstanding as of the date hereof.
+Each outstanding share of Common Stock is entitled to one (1) vote, either in person or by proxy, on all matters that may be voted upon the owners thereof at meetings of the stockholders.
+Each outstanding share of Common Stock is entitled to one (1) vote, either in person or by proxy, on all matters that may be voted upon the owners thereof at meetings of the stockholders.
+The holders of Common Stock: (i) have equal ratable rights to dividends from funds legally available therefore, when and if declared by the Board of Directors of the Company; (ii) are entitled to share ratably in all of the assets of the Company available for distribution to holders of Common Stock upon liquidation, dissolution or winding up of the affairs of the Company; (iii) do not have preemptive, subscription or conversion rights, or redemption or sinking fund provisions applicable thereto; and (iv) are entitled to one non-cumulative vote per share on all matters on which stockholders may vote at all meetings of stockholders.
+The holders of Common Stock: (i) have equal ratable rights to dividends from funds legally available therefore, when and if declared by the Board of Directors of the Company; (ii) are entitled to share ratably in all of the assets of the Company available for distribution to holders of Common Stock upon liquidation, dissolution or winding up of the affairs of the Company; (iii) do not have preemptive, subscription or conversion rights, or redemption or sinking fund provisions applicable thereto; and (iv) are entitled to one non-cumulative vote per share on all matters on which stockholders may vote at all meetings of stockholders.
+Holders of Shares of Common Stock of the Company do not have cumulative voting rights, which means that the individuals holding Common Stock with voting rights to more than 50% of eligible votes, voting for the election of directors, can elect all directors of the Company if they so choose and, in such event, the holders of the remaining shares will not be able to elect any of the Company's directors.
+Holders of Shares of Common Stock of the Company do not have cumulative voting rights, which means that the individuals holding Common Stock with voting rights to more than 50% of eligible votes, voting for the election of directors, can elect all directors of the Company if they so choose and, in such event, the holders of the remaining shares will not be able to elect any of the Company's directors.
+The Company is authorized to issue 80,000,000 shares of Preferred Stock, $0.0001 par value, of which 0 shares were issued and outstanding as of the date hereof.
+The Company is authorized to issue 80,000,000 shares of Preferred Stock, $0.0001 par value, of which 0 shares were issued and outstanding as of the date hereof.
+(b) Debt Securities.
+The Company has not issued any debt securities to date.
+The Company has not issued any debt securities to date.
+(c) Other securities to be registered None ITEM 6 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+(c) Other securities to be registered None ITEM 6 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+Special Note Regarding Forward-Looking Statements Some of the statements under Plan of Operations , Business and elsewhere in this registration statement are forward-looking statements that involve risks and uncertainties.
+Special Note Regarding Forward-Looking Statements Some of the statements under Plan of Operations , Business and elsewhere in this registration statement are forward-looking statements that involve risks and uncertainties.
+These forward-looking statements include statements about our plans, objectives, expectations, intentions and assumptions and other statements contained herein that are not statements of historical fact.
+These forward-looking statements include statements about our plans, objectives, expectations, intentions and assumptions and other statements contained herein that are not statements of historical fact.
+You can identify these statements by words such as may, will, should, estimates, plans, expects, believes, intends, and similar expressions.
+You can identify these statements by words such as may, will, should, estimates, plans, expects, believes, intends, and similar expressions.
+We cannot guarantee future results, levels of activity, performance or achievements.
+We cannot guarantee future results, levels of activity, performance or achievements.
+Our actual results and the timing of certain events may differ significantly from the results discussed in the forward-looking statements.
+Our actual results and the timing of certain events may differ significantly from the results discussed in the forward-looking statements.
+You are cautioned not to place undue reliance on any forward-looking statements.
+You are cautioned not to place undue reliance on any forward-looking statements.
+Plan of Operation.
+The following discussion should be read in conjunction with the financial statements and related notes, which are included elsewhere in this prospectus.
+The following discussion should be read in conjunction with the financial statements and related notes, which are included elsewhere in this prospectus.
+Statements made below which are not historical facts are forward-looking statements.
+Statements made below which are not historical facts are forward-looking statements.
+Forward-looking statements involve a number of risks and uncertainties including, but not limited to, general economic conditions and our ability to market our product.
+Forward-looking statements involve a number of risks and uncertainties including, but not limited to, general economic conditions and our ability to market our product.
+The business objective of GLOBAL is to position AquaBoost(TM) as a top quality oxygenated water in the specialty waters market.
+The business objective of GLOBAL is to position AquaBoost(TM) as a top quality oxygenated water in the specialty waters market.
+Our oxygenation level (up to 100 ppm and greater), the ability of our bottled water to retain this level of oxygenation, even over lengthy periods of time and the purity of our product, we believe, should give us the ability to become a staple in this specialty waters niche.
+Our oxygenation level (up to 100 ppm and greater), the ability of our bottled water to retain this level of oxygenation, even over lengthy periods of time and the purity of our product, we believe, should give us the ability to become a staple in this specialty waters niche.
+We have set a conservative sales objective of 4-6% of the European and American markets, or $12.5 million U.S. to $20 million U.S., by the year 2015, our envisioned fourth year of production.
+We have set a conservative sales objective of 4-6% of the European and American markets, or $12.5 million U.S. to $20 million U.S., by the year 2015, our envisioned fourth year of production.
+The fact that AquaBoost(TM) was seen by hundreds of distributors at the SIAL in Montreal, Canada in 2001 and that there is already a market in Mexico for the product, gives us confidence in our abilities to reach our sales objectives.
+The fact that AquaBoost(TM) was seen by hundreds of distributors at the SIAL in Montreal, Canada in 2001 and that there is already a market in Mexico for the product, gives us confidence in our abilities to reach our sales objectives.
+However, no assurances can be given that the Company will meet these goals.
+However, no assurances can be given that the Company will meet these goals.
+Furthermore, the Company has held discussions with several large beverage companies about oxygenating fruit juices.
+Furthermore, the Company has held discussions with several large beverage companies about oxygenating fruit juices.
+Should these discussions prove successful, the Company would have another major revenue generating area.
+Should these discussions prove successful, the Company would have another major revenue generating area.
+Currently, it is too premature to hazard an estimate about the likelihood of finalizing any deals with said corporations.
+Currently, it is too premature to hazard an estimate about the likelihood of finalizing any deals with said corporations.
+The Company will also attempt to partner with other beverage distributors or lease its technology for royalties in those regions and for those products where it will not negatively impact on potential AquaBoost(TM) sales.
+The Company will also attempt to partner with other beverage distributors or lease its technology for royalties in those regions and for those products where it will not negatively impact on potential AquaBoost(TM) sales.
+As of November 2010, we had attached our oxygenation unit to the St Ellie water facility,an established water bottler in Quebec, Canada.
+As of November 2010, we had attached our oxygenation unit to the St Ellie water facility,an established water bottler in Quebec, Canada.
+We expect to be in production by the end of fiscal 2011.
+We expect to be in production by the end of fiscal 2011.
+GLOBAL BIOTECH CORP. (formerly SWORD COMP-SOFT CORP.) was incorporated in November 1998 as an (ASP) Application Service Provider, specializing in the E-Healthcare sector.
+GLOBAL BIOTECH CORP. (formerly SWORD COMP-SOFT CORP.) was incorporated in November 1998 as an (ASP) Application Service Provider, specializing in the E-Healthcare sector.
+On May 29, 2000 Millenia Hope Inc. acquired 35,700,000 shares of GLOBAL BIOTECH CORP., this being the 76% of GLOBAL s issued capital, in exchange for 5,000,000 common shares, valued at $129,478 based on the net tangible asset value of Millenia Hope and not fair market value of the shares and 5,000,000 warrants entitling the registered holder thereof to purchase at any time from that date for a period of three years, one share of common stock at a price of two dollars.
+On May 29, 2000 Millenia Hope Inc. acquired 35,700,000 shares of GLOBAL BIOTECH CORP., this being the 76% of GLOBAL s issued capital, in exchange for 5,000,000 common shares, valued at $129,478 based on the net tangible asset value of Millenia Hope and not fair market value of the shares and 5,000,000 warrants entitling the registered holder thereof to purchase at any time from that date for a period of three years, one share of common stock at a price of two dollars.
+As of March 5, 2003 this business was sold along with the assumption of a note payable of $700,000 to Millenia Hope Inc., its former parent corporation.
+As of March 5, 2003 this business was sold along with the assumption of a note payable of $700,000 to Millenia Hope Inc., its former parent corporation.
+In exchange, GLOBAL received 30.7 million shares of its outstanding common shares held by Millenia Hope Inc.
+In exchange, GLOBAL received 30.7 million shares of its outstanding common shares held by Millenia Hope Inc.
+Subsequently, GLOBAL acquired the exclusive 10 year North American licensing rights to market a unique vehicle tracking model from First Link Assoc.
+Subsequently, GLOBAL acquired the exclusive 10 year North American licensing rights to market a unique vehicle tracking model from First Link Assoc.
+in exchange for 30.7 million of its common shares.
+in exchange for 30.7 million of its common shares.
+GLOBAL s vehicle tracking system was supposed to seamlessly tie together wireless communications and the Internet with global positioning technology to link vehicles to a world of unlimited wireless services.
+GLOBAL s vehicle tracking system was supposed to seamlessly tie together wireless communications and the Internet with global positioning technology to link vehicles to a world of unlimited wireless services.
+As of February 24, 2005, GLOBAL s Board of Directors concluded that its attempt to enter the vehicle tracking business was unsuccessful and entered into a provisional agreement, with Advanced Fluid Technologies Inc. (AFT), a Delaware corporation, to acquire assets from the latter corporation pursuant to entering the bottled water, more specifically, the oxygenated bottled water market.
+As of February 24, 2005, GLOBAL s Board of Directors concluded that its attempt to enter the vehicle tracking business was unsuccessful and entered into a provisional agreement, with Advanced Fluid Technologies Inc. (AFT), a Delaware corporation, to acquire assets from the latter corporation pursuant to entering the bottled water, more specifically, the oxygenated bottled water market.
+On August 15,2007 GLOBAL finalized an agreement with Advanced Fluid Technologies to purchase their to be patented oxygenation unit and all technical know how, intellectual properties, methodologies and all information pertaining to the following: the fixation of the oxygen molecule to water or any other fluid and/or to the building and maintenance of the oxygenation unit.
+On August 15,2007 GLOBAL finalized an agreement with Advanced Fluid Technologies to purchase their to be patented oxygenation unit and all technical know how, intellectual properties, methodologies and all information pertaining to the following: the fixation of the oxygen molecule to water or any other fluid and/or to the building and maintenance of the oxygenation unit.
+Furthermore; all trademarks for the name Aquaboost Oxygenated Water and the right to use and register said name globally, were to be transferred to Global.Purchase price, for all the aforementioned assets, was a combination of debt this being the $216,261 due by AFT to the Company in a note payable as of August 26, 2005, and 18 million shares of the Company s common stock valued at $0.04 per share or $720,000.
+Furthermore; all trademarks for the name Aquaboost Oxygenated Water and the right to use and register said name globally, were to be transferred to Global.Purchase price, for all the aforementioned assets, was a combination of debt this being the $216,261 due by AFT to the Company in a note payable as of August 26, 2005, and 18 million shares of the Company s common stock valued at $0.04 per share or $720,000.
+GLOBAL s registration statement, with the Security and Exchange Commission, was accepted on July 16, 2001 and it was cleared by FINRA on June 16, 2009 to trade its shares on the OTC: BB.
+GLOBAL s registration statement, with the Security and Exchange Commission, was accepted on July 16, 2001 and it was cleared by FINRA on June 16, 2009 to trade its shares on the OTC: BB.
+In an effort to expand its product line, the Company is working on developing a new product that we currently refer to as Aquaboost-VitA: Orange Antioxidant .
+In an effort to expand its product line, the Company is working on developing a new product that we currently refer to as Aquaboost-VitA: Orange Antioxidant .
+This experimental product contains water oxygenated using the Aquaboost technology, vitamin C, vitamin E and apple skin extract.
+This experimental product contains water oxygenated using the Aquaboost technology, vitamin C, vitamin E and apple skin extract.
+The Company is in the research and testing phase of the product s development, and is conducting research into the product s antioxidant effects and palatability.
+The Company is in the research and testing phase of the product s development, and is conducting research into the product s antioxidant effects and palatability.
+The Company entered, on October 31, 2010, into an agreement to purchase the rights to a neutraceutical product, specifically a topical cream for women, for a period of 4 years.
+The Company entered, on October 31, 2010, into an agreement to purchase the rights to a neutraceutical product, specifically a topical cream for women, for a period of 4 years.
+The total cost of said agreement was $199,467.
+The Company is working on a product roll-out towards the latter part of this year.
+The Company is working on a product roll-out towards the latter part of this year.
+On November 30, 2010 Dr Pierre Marois resigned as an officer of the Company.
+On November 30, 2010 Dr Pierre Marois resigned as an officer of the Company.
+On February 28, 2011, Perry Choiniere was removed as an Officer and as a Director of the Company.
+On February 28, 2011, Perry Choiniere was removed as an Officer and as a Director of the Company.
+The responsibilities of Mr. Choiniere are being undertaken by Mr. Greco, President, and Mr. Lamarre Vice-President, of Global Biotech.
+The responsibilities of Mr. Choiniere are being undertaken by Mr. Greco, President, and Mr. Lamarre Vice-President, of Global Biotech.
+Year ended November 30, 2009 compared to November 30, 2010 In 2009 we had $22,371 of professional fees and $17,00 in 2010, due to a greater amount of work in connection with our being listed to trade on the OTC:BB in 2009.
+Year ended November 30, 2009 compared to November 30, 2010 In 2009 we had $22,371 of professional fees and $17,00 in 2010, due to a greater amount of work in connection with our being listed to trade on the OTC:BB in 2009.
+We had $125,627 of SG A expenses in 2009 and $151,417 in 2010.
+We had $125,627 of SG A expenses in 2009 and $151,417 in 2010.
+This made up of a drop of $42,000 of extra regulatory fees in 2009 over 2010 in connection with our successful attempt to be become a listed trading company, $6,000 of extra developmental costs in 2009 vs 2010 and $85,000 in extra consulting fees in 2010 over 2009, in our effort to fund and strategize the production of our oxygenated waters.
+This made up of a drop of $42,000 of extra regulatory fees in 2009 over 2010 in connection with our successful attempt to be become a listed trading company, $6,000 of extra developmental costs in 2009 vs 2010 and $85,000 in extra consulting fees in 2010 over 2009, in our effort to fund and strategize the production of our oxygenated waters.
+We had a rent in 2009 of $18,000 and $13,800 in 2010 due to a change in premises, and higher day- to- day expenses, in the amount of $7,500, in 2009 over 2010.
+We had a rent in 2009 of $18,000 and $13,800 in 2010 due to a change in premises, and higher day- to- day expenses, in the amount of $7,500, in 2009 over 2010.
+We had net interest expense, on our outstanding notes, of $40,614 in 2009 and $50,822 in 2010.Higher borrowing costs were due to extra expenditures for the above expenses.
+We had net interest expense, on our outstanding notes, of $40,614 in 2009 and $50,822 in 2010.Higher borrowing costs were due to extra expenditures for the above expenses.
+We had foreign currency translation losses of $22,100 in 2009 and $10,300 in 2010.
+We had foreign currency translation losses of $22,100 in 2009 and $10,300 in 2010.
+We had an impairment write-down of $345,712 in 2010 vs no write-down in 2009 As a result of the foregoing we had a loss of $210,712 in 2009 and a loss of $575,562 in 2010.
+We had an impairment write-down of $345,712 in 2010 vs no write-down in 2009 As a result of the foregoing we had a loss of $210,712 in 2009 and a loss of $575,562 in 2010.
+LIQUIDITY AND CAPITAL RESOURCES At November 30, 2010 the company had negative working capital of $876,644.
+LIQUIDITY AND CAPITAL RESOURCES At November 30, 2010 the company had negative working capital of $876,644.
+We expect that our cash needs for the fiscal year ending November 30, 2011 will be $300,000.
+We expect that our cash needs for the fiscal year ending November 30, 2011 will be $300,000.
+Management does anticipate generating revenue through sales until the end of the next fiscal year.
+Management does anticipate generating revenue through sales until the end of the next fiscal year.
+The officers and directors of the company have indicated their commitment to help in finding funds to aid in the operations of the organization during the next fiscal year, until the organization can generate sufficient cash flow from operations to meet current operating expenses and overhead.
+The officers and directors of the company have indicated their commitment to help in finding funds to aid in the operations of the organization during the next fiscal year, until the organization can generate sufficient cash flow from operations to meet current operating expenses and overhead.
+Recent Accounting Pronouncements In February 2010, the FASB issued Accounting Standards Update ASU 2010-09, Amendments to Certain Recognition and Disclosure Requirements ( ASU 2010-09 ), Which is included in the FASB Accounting Standards Codification TM (The ASC ) Topic 855 (Subsequent Events).
+Recent Accounting Pronouncements In February 2010, the FASB issued Accounting Standards Update ASU 2010-09, Amendments to Certain Recognition and Disclosure Requirements ( ASU 2010-09 ), Which is included in the FASB Accounting Standards Codification TM (The ASC ) Topic 855 (Subsequent Events).
+2010-09 clarifies that an Sec filer is required to evaluate subsequent events through the date that the financial statements are issued.
+2010-09 clarifies that an Sec filer is required to evaluate subsequent events through the date that the financial statements are issued.
+ASU 2010-09 is effective upon the issuance of the final update and did not have a significant impact on the Company s financial statements.
+ASU 2010-09 is effective upon the issuance of the final update and did not have a significant impact on the Company s financial statements.
+Other pronouncements issued by the FASB or other authoritative accounting standard groups with future effective dates are either not applicable or are not expected to be significant to the financial statements of the Company.
+Other pronouncements issued by the FASB or other authoritative accounting standard groups with future effective dates are either not applicable or are not expected to be significant to the financial statements of the Company.
+ITEM 7.
+Financial Statements.
+The financial statements are included at the end of this Annual Report, after the signature page.
+The financial statements are included at the end of this Annual Report, after the signature page.
+Item 8.
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosures None Item 9A Controls and Procedures Evaluation of Disclosure Controls and Procedures Our management has evaluated, with the participation of our Chief Executive and Financial Officer, the effectiveness of our disclosure controls and procedures as of the end of the period covered by this annual report (the Evaluation Date ), and, based on this evaluation, our Chief Executive and Financial Officer have concluded that these controls and procedures were effective at the Evaluation Date.
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosures None Item 9A Controls and Procedures Evaluation of Disclosure Controls and Procedures Our management has evaluated, with the participation of our Chief Executive and Financial Officer, the effectiveness of our disclosure controls and procedures as of the end of the period covered by this annual report (the Evaluation Date ), and, based on this evaluation, our Chief Executive and Financial Officer have concluded that these controls and procedures were effective at the Evaluation Date.
+There were no changes in our internal controls over financial reporting during the last quarter of fiscal 2010 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+There were no changes in our internal controls over financial reporting during the last quarter of fiscal 2010 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission s rules and forms.
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission s rules and forms.
+Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Financial Officer and, as appropriate to allow for timely decisions regarding required disclosure.
+Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Financial Officer and, as appropriate to allow for timely decisions regarding required disclosure.
+Management s Report on Internal Control over Financial Reporting The management of is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f).
+Management s Report on Internal Control over Financial Reporting The management of is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f).
+Global Biotech s internal control system was designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures that: 1. pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of Global Biotech; 2. provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of Global Biotech are being made only in accordance with authorizations of management and directors of Global Biotech; and 3. provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of Global Biotech s assets that could have a material effect on the financial statements.
+Global Biotech s internal control system was designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures that: 1. pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of Global Biotech; 2. provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of Global Biotech are being made only in accordance with authorizations of management and directors of Global Biotech; and 3. provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of Global Biotech s assets that could have a material effect on the financial statements.
+All internal control systems, no matter how well designed, have inherent limitations.
+All internal control systems, no matter how well designed, have inherent limitations.
+Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+We have assessed the effectiveness of our internal control over financial reporting as of November 30, 2010.
+We have assessed the effectiveness of our internal control over financial reporting as of November 30, 2010.
+In making this assessment, we used the framework set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework.
+In making this assessment, we used the framework set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework.
+Based on that assessment, we believe that as of November 30, 2010, our internal control over financial reporting is effective.
+Based on that assessment, we believe that as of November 30, 2010, our internal control over financial reporting is effective.
+This annual report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting.
+This annual report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting.
+Our report on internal control was not subject to attestation by our independent registered public accounting firm pursuant to an exemption for non-accelerated filers that permits us to provide only management s report in this annual report.
+Our report on internal control was not subject to attestation by our independent registered public accounting firm pursuant to an exemption for non-accelerated filers that permits us to provide only management s report in this annual report.
+ITEM 9B Director and Executive Officers a) Directors and Executive Officers Name Age Title Louis Greco 56 President-Director Gilles Lamarre 63 Vice President-Director Eric Sonigo 43 Vice President Production Louis Greco President, CEO and Director Louis Greco, age 56, received his B. Comm.
+ITEM 9B Director and Executive Officers a) Directors and Executive Officers Name Age Title Louis Greco 56 President-Director Gilles Lamarre 63 Vice President-Director Eric Sonigo 43 Vice President Production Louis Greco President, CEO and Director Louis Greco, age 56, received his B. Comm.
+from McGill University in Montreal, Canada in 1974.
+Mr. Greco has been involved with a variety of consumer oriented industries in his 30 years in business.
+Mr. Greco has been involved with a variety of consumer oriented industries in his 30 years in business.
+He worked in financial industry as a branch manager of the National Bank from 1975-1980.
+He worked in financial industry as a branch manager of the National Bank from 1975-1980.
+During the next decade until 1990, Mr. Greco was the manager of a chain of video outlets, and involved with sales.
+During the next decade until 1990, Mr. Greco was the manager of a chain of video outlets, and involved with sales.
+From 1990 to 1995, he co-owned a retail food establishment.
+From 1990 to 1995, he co-owned a retail food establishment.
+Between 1996 and present he has worked as a sales consultant to the national divisions of multinational office technology corporations, Minolta (Canada) and Panasonic Canada.
+Between 1996 and present he has worked as a sales consultant to the national divisions of multinational office technology corporations, Minolta (Canada) and Panasonic Canada.
+Mr. Greco s management, sales and financial skills will greatly aid Global Biotech.
+Mr. Greco s management, sales and financial skills will greatly aid Global Biotech.
+His experience in sales will help the Company to strategically position its products and technical expertise in the desired marketplaces.
+His experience in sales will help the Company to strategically position its products and technical expertise in the desired marketplaces.
+As President and CEO of the Company, Mr. Greco is responsible for the general oversight of the Company, its operations and its communications with its shareholders.
+As President and CEO of the Company, Mr. Greco is responsible for the general oversight of the Company, its operations and its communications with its shareholders.
+Mr. Greco currently devotes part of his time working for the Company, but will be working full-time as an employee once Global commences sales of its product.
+Mr. Greco currently devotes part of his time working for the Company, but will be working full-time as an employee once Global commences sales of its product.
+Gilles Lamarre Vice President and Director Mr. Lamarre, age 63, began his career as a Box Office Manager at Expo 67 (Garden of Stars).
+Gilles Lamarre Vice President and Director Mr. Lamarre, age 63, began his career as a Box Office Manager at Expo 67 (Garden of Stars).
+In 1969 he joined the National Arts Centre where in 1975 he developed the first computerized subscription/season ticketing system in North America.
+In 1969 he joined the National Arts Centre where in 1975 he developed the first computerized subscription/season ticketing system in North America.
+In 1984, he made the transition to the private sector by co-founding Uniticket to service the Ottawa/Hull Region.
+In 1984, he made the transition to the private sector by co-founding Uniticket to service the Ottawa/Hull Region.
+Uniticket processed over 1.5 million tickets each year and was sold to Ticketmaster Canada Inc. in 1988.
+Uniticket processed over 1.5 million tickets each year and was sold to Ticketmaster Canada Inc. in 1988.
+He also co-founded and developed Ticketnet Corporation in 1984, a major new national network for ticketing and shared-resource box office management, which was subsequently sold to AMR in 1986.
+He also co-founded and developed Ticketnet Corporation in 1984, a major new national network for ticketing and shared-resource box office management, which was subsequently sold to AMR in 1986.
+Mr. Lamarre has acted as a consultant/advisor to a number of Canadian corporations in the development and implementation of leading edge technology and business development.
+Mr. Lamarre has acted as a consultant/advisor to a number of Canadian corporations in the development and implementation of leading edge technology and business development.
+More recently, he fulfilled several executive functions with Comnetix, a leading provider of technology to law enforcement agencies.
+More recently, he fulfilled several executive functions with Comnetix, a leading provider of technology to law enforcement agencies.
+He then became a Board member and a member of their Audit and Compensation committees and resigned in early 2006 to concentrate his efforts on developing a new venture related to weight loss programs and products.
+He then became a Board member and a member of their Audit and Compensation committees and resigned in early 2006 to concentrate his efforts on developing a new venture related to weight loss programs and products.
+He is currently the President and CEO of Wykanta International Ltd., a company engaged in the production and sale of nutraceutical products.
+He is currently the President and CEO of Wykanta International Ltd., a company engaged in the production and sale of nutraceutical products.
+As Vice President of the Company, Mr. Lamarre will be responsible for assisting the President with the general oversight of the Company, its operations and its communications with its shareholders.
+As Vice President of the Company, Mr. Lamarre will be responsible for assisting the President with the general oversight of the Company, its operations and its communications with its shareholders.
+He will devote all of his time as an employee working for the Company as Vice President and a director.
+He will devote all of his time as an employee working for the Company as Vice President and a director.
+Eric Sonigo Vice President - Production Eric Sonigo, age 43, began his career in sales of various goods and services, from cellular accessories to delivering luxury cars.
+Eric Sonigo Vice President - Production Eric Sonigo, age 43, began his career in sales of various goods and services, from cellular accessories to delivering luxury cars.
+He has been involved with sales and scheduling during his entire career, meeting with individuals and coordinating their various needs and corporate priorities.
+He has been involved with sales and scheduling during his entire career, meeting with individuals and coordinating their various needs and corporate priorities.
+He has extensive knowledge of the maintenance and running of the Company s primary oxygenation machinery, having been involved with the original owners of that unit.
+He has extensive knowledge of the maintenance and running of the Company s primary oxygenation machinery, having been involved with the original owners of that unit.
+Although Mr. Sonigo is not an engineer by training, the practical knowledge garnered by Mr. Sonigo and specific expertise gleaned from the engineers involved in the initial oxygenation product have given Mr. Sonigo the knowledge to monitor and maintain the production equipment, and schedule and run the production of the Company s products.
+Although Mr. Sonigo is not an engineer by training, the practical knowledge garnered by Mr. Sonigo and specific expertise gleaned from the engineers involved in the initial oxygenation product have given Mr. Sonigo the knowledge to monitor and maintain the production equipment, and schedule and run the production of the Company s products.
+Mr. Sonigo has worked with Advanced Fluid Technologies Inc. and has expertise in the oxygenation process.
+Mr. Sonigo has worked with Advanced Fluid Technologies Inc. and has expertise in the oxygenation process.
+Once production commences, Mr. Sonigo will run the oxygenation unit as a full-time employee of Global.
+Once production commences, Mr. Sonigo will run the oxygenation unit as a full-time employee of Global.
+b) Significant Employees None c) Family Relationships There are no family relationships among directors or executive officers of the company.
+b) Significant Employees None c) Family Relationships There are no family relationships among directors or executive officers of the company.
+d) Involvement in certain legal proceedings None e) Committees The Company has no standing audit, nominating and compensating committees of the Board of Directors or committees performing similar functions.
+d) Involvement in certain legal proceedings None e) Committees The Company has no standing audit, nominating and compensating committees of the Board of Directors or committees performing similar functions.
+Under the Sarbanes-Oxley Act of 2002, each public company is required to have an audit committee consisting solely of independent directors and to explain whether or not any independent director is a financial expert.
+Under the Sarbanes-Oxley Act of 2002, each public company is required to have an audit committee consisting solely of independent directors and to explain whether or not any independent director is a financial expert.
+In the event the public company does not have an audit committee, the Board of Directors becomes charged with the duties of the audit committee.
+In the event the public company does not have an audit committee, the Board of Directors becomes charged with the duties of the audit committee.
+Since the enactment of the Sarbanes-Oxley Act of 2002 which was signed into law by President Bush in July 2002, the Company's directors have without success, attempted to obtain independent directors to serve on the Board of Directors and on a newly formed audit committee.
+Since the enactment of the Sarbanes-Oxley Act of 2002 which was signed into law by President Bush in July 2002, the Company's directors have without success, attempted to obtain independent directors to serve on the Board of Directors and on a newly formed audit committee.
+In the event the Company is successful in the future in obtaining independent directors to serve on the Board of Directors and on a newly formed audit committee, of which there can be no assurances given, the Board of Directors would first adopt a written charter.
+In the event the Company is successful in the future in obtaining independent directors to serve on the Board of Directors and on a newly formed audit committee, of which there can be no assurances given, the Board of Directors would first adopt a written charter.
+Such charter would be expected to include, among other things: annually reviewing and reassessing the adequacy of the committees formal charter; reviewing the annual audited financial statements with the adequacy of its internal accounting controls; reviewing analyses prepared by the Company's management and independent auditors concerning significant financial reporting issues and judgments made in connection with the preparation of its financial statements; being directly responsible for the appointment, compensation and oversight of the independent auditor, which shall report directly to the Audit Committee, including resolution of disagreements between management and the auditors regarding financial reporting for the purpose of preparing or issuing an audit report or related work; reviewing the independence of the independent auditors; reviewing the Company's auditing and accounting principles and practices with the independent auditors and reviewing major changes to its auditing and accounting principles and practices as suggested by the independent auditor or its management; reviewing all related party transactions on an ongoing basis for potential conflict of interest situations; and all responsibilities given to the Audit Committee by virtue of the Sarbanes-Oxley Act of 2002, which was signed into law by President George W. Bush on July 30, 2002.
+Such charter would be expected to include, among other things: annually reviewing and reassessing the adequacy of the committees formal charter; reviewing the annual audited financial statements with the adequacy of its internal accounting controls; reviewing analyses prepared by the Company's management and independent auditors concerning significant financial reporting issues and judgments made in connection with the preparation of its financial statements; being directly responsible for the appointment, compensation and oversight of the independent auditor, which shall report directly to the Audit Committee, including resolution of disagreements between management and the auditors regarding financial reporting for the purpose of preparing or issuing an audit report or related work; reviewing the independence of the independent auditors; reviewing the Company's auditing and accounting principles and practices with the independent auditors and reviewing major changes to its auditing and accounting principles and practices as suggested by the independent auditor or its management; reviewing all related party transactions on an ongoing basis for potential conflict of interest situations; and all responsibilities given to the Audit Committee by virtue of the Sarbanes-Oxley Act of 2002, which was signed into law by President George W. Bush on July 30, 2002.
+Code of Ethics Effective March 3, 2003, the Securities Exchange Commission requires registrants like the Company to either adopt a code of ethics that applies to the Company's Chief Executive Officer and Chief Financial Officer or explain why the Company has not adopted such a code of ethics for purposes of item 406 of Regulations S-K, the term code of ethics means written standards that are reasonably designed to deter wrong doing and to promote: Honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships: Full, flair, accurate, timely and understandable disclosure in reports and documents that the company files with, or submits to, the Securities Exchange Commission and in other public communications made by the Company; Compliance with applicable governmental law, rules and regulations; The prompt internal reporting of violations of the code to an appropriate person or persons identified in the code; and Accountability for adherence to the code.
+Code of Ethics Effective March 3, 2003, the Securities Exchange Commission requires registrants like the Company to either adopt a code of ethics that applies to the Company's Chief Executive Officer and Chief Financial Officer or explain why the Company has not adopted such a code of ethics for purposes of item 406 of Regulations S-K, the term code of ethics means written standards that are reasonably designed to deter wrong doing and to promote: Honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships: Full, flair, accurate, timely and understandable disclosure in reports and documents that the company files with, or submits to, the Securities Exchange Commission and in other public communications made by the Company; Compliance with applicable governmental law, rules and regulations; The prompt internal reporting of violations of the code to an appropriate person or persons identified in the code; and Accountability for adherence to the code.
+The Company has adopted the aforementioned Code of Ethics.
+The Company has adopted the aforementioned Code of Ethics.
+f) Section 16 (a) Beneficial Ownership Reporting Compliance Section 16(a) of the Securities Exchange Act of 1934, as amended, requires our officers, directors and persons who beneficially own more than ten percent of a registered class of our equity securities ( ten-percent shareholders ) to file reports of ownership and changes in ownership with the Securities and Exchange Commission.
+f) Section 16 (a) Beneficial Ownership Reporting Compliance Section 16(a) of the Securities Exchange Act of 1934, as amended, requires our officers, directors and persons who beneficially own more than ten percent of a registered class of our equity securities ( ten-percent shareholders ) to file reports of ownership and changes in ownership with the Securities and Exchange Commission.
+Officers, directors and ten-percent shareholders also are required to furnish us with copies of all Section 16(a) forms they file.
+Officers, directors and ten-percent shareholders also are required to furnish us with copies of all Section 16(a) forms they file.
+Based solely on our review of the copies of such forms furnished to us, and written representations that no other reports were required, we believe that during the fiscal year ended November 30, 2010, all of our officers, directors and ten-percent shareholders complied with the Section 16(a) reporting requirements.
+Based solely on our review of the copies of such forms furnished to us, and written representations that no other reports were required, we believe that during the fiscal year ended November 30, 2010, all of our officers, directors and ten-percent shareholders complied with the Section 16(a) reporting requirements.
+ITEM 10 EXECUTIVE COMPENSATION (a) General None of the current or past Officers or Directors received any compensation during fiscal 2008, 2009 or 2010.
+ITEM 10 EXECUTIVE COMPENSATION (a) General None of the current or past Officers or Directors received any compensation during fiscal 2008, 2009 or 2010.
+(b) Options/SAR Grants table None (c) Long Term Incentive Plan Award Table None (d) Compensation of Directors Directors do not receive any compensation for services as members of the Board of Directors (e) Employment Contracts and Termination of Employment and Change-in-Control The company has no employment contracts with any of its executive officers.
+(b) Options/SAR Grants table None (c) Long Term Incentive Plan Award Table None (d) Compensation of Directors Directors do not receive any compensation for services as members of the Board of Directors (e) Employment Contracts and Termination of Employment and Change-in-Control The company has no employment contracts with any of its executive officers.
+As indicated above, certain officers received compensation.
+(f) Report on Repricing of options/SAR None ITEM 11 SECURITY OWNERSHIP OF CERTAIN BENEFICAL OWNERS AND MANAGEMENT The following table sets forth, as of June 28, 2011, information regarding the beneficial ownership of our common stock based upon the most recent information available to us for Each person known by us to own beneficially more than five (5%)percent of our outstanding common stock, Each of our officers and directors and All of our officers and directors as a group.
+(f) Report on Repricing of options/SAR None ITEM 11 SECURITY OWNERSHIP OF CERTAIN BENEFICAL OWNERS AND MANAGEMENT The following table sets forth, as of June 28, 2011, information regarding the beneficial ownership of our common stock based upon the most recent information available to us for Each person known by us to own beneficially more than five (5%)percent of our outstanding common stock, Each of our officers and directors and All of our officers and directors as a group.
+Item 12.
+Certain Relationships and Related Transactions.
+None Item 13.
+Financial Statements and Exhibits.
+(a) List of Financial statements filed herewith GLOBAL BIOTECH CORP. (A company in the development stage) Report of Independent Registered Accounting Firm Balance Sheets November 30, 2009 and 2010 Statement of Operations Year ended November 30, 2009, November 30, 2010 and from inception to November 30, 2010 Statement of Shareholders' Equity From inception to November 30, 2010 Statement of Cash flows years ended November 30, 2009 and November 30, 2010 and from inception to November 30, 2010 Summary of Significant Accounting Policies year ended November 30, 2010 Notes to the Financial Statements year ended November 30, 2010 (b) List of Exhibits.
+(a) List of Financial statements filed herewith GLOBAL BIOTECH CORP. (A company in the development stage) Report of Independent Registered Accounting Firm Balance Sheets November 30, 2009 and 2010 Statement of Operations Year ended November 30, 2009, November 30, 2010 and from inception to November 30, 2010 Statement of Shareholders' Equity From inception to November 30, 2010 Statement of Cash flows years ended November 30, 2009 and November 30, 2010 and from inception to November 30, 2010 Summary of Significant Accounting Policies year ended November 30, 2010 Notes to the Financial Statements year ended November 30, 2010 (b) List of Exhibits.
+Reports on Form 8-K Material Agreement Appointment, resignation of officers/directors Item 14.
+Reports on Form 8-K Material Agreement Appointment, resignation of officers/directors Item 14.
+Principal Accountant Fees and Service Audit Fees For the fiscal year ended November 30, 2010, the aggregate fees billed for professional services rendered by Chang G. Park, CPA ( independent auditors ) for the audit of the Company's annual financial statements totaled approximately $17,000.
+Principal Accountant Fees and Service Audit Fees For the fiscal year ended November 30, 2010, the aggregate fees billed for professional services rendered by Chang G. Park, CPA ( independent auditors ) for the audit of the Company's annual financial statements totaled approximately $17,000.
+Financial Information Systems Design and Implementation Fees For the fiscal year ended November 30, 2010 there were $-0- in fees billed for professional services by the Company's independent auditors rendered in connection with, directly or indirectly, operating or supervising the operation of its information system or managing its local area network.
+Financial Information Systems Design and Implementation Fees For the fiscal year ended November 30, 2010 there were $-0- in fees billed for professional services by the Company's independent auditors rendered in connection with, directly or indirectly, operating or supervising the operation of its information system or managing its local area network.
+All Other Fees For the fiscal year ended November 30, 2010 there was $0 in fees billed for other service.
+All Other Fees For the fiscal year ended November 30, 2010 there was $0 in fees billed for other service.
+Sarbane Oxley Declarations SIGNATURES In accordance with the requirement of the Securities Exchange Act, this Annual Report or Amendment was signed by the following persons in the capacities and on the dates stated: GLOBAL BIOTECH CORP.
+Sarbane Oxley Declarations SIGNATURES In accordance with the requirement of the Securities Exchange Act, this Annual Report or Amendment was signed by the following persons in the capacities and on the dates stated: GLOBAL BIOTECH CORP.
+Date: June 30, 2011 /s/ Louis Greco Louis Greco, President, Director (Principal Executive Financial Officer) Report of Independent Registered Public Accounting Firm To the Board of Directors and Stockholders Global Biotech Corp. We have audited the accompanying balance sheets of Global Biotech Corp. (the Company ) as of November 30, 2010 and 2009 and the related statements of operations, changes in shareholders equity and cash flows for the years then ended and for the period from November 2, 1998 (inception) through November 30, 2010.
+Date: June 30, 2011 /s/ Louis Greco Louis Greco, President, Director (Principal Executive Financial Officer) Report of Independent Registered Public Accounting Firm To the Board of Directors and Stockholders Global Biotech Corp. We have audited the accompanying balance sheets of Global Biotech Corp. (the Company ) as of November 30, 2010 and 2009 and the related statements of operations, changes in shareholders equity and cash flows for the years then ended and for the period from November 2, 1998 (inception) through November 30, 2010.
+These financial statements are the responsibility of the Company s management.
+These financial statements are the responsibility of the Company s management.
+Our responsibility is to express an opinion on these financial statements based on our audits.
+Our responsibility is to express an opinion on these financial statements based on our audits.
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States).
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States).
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement.
+An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements.
+An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements.
+An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.
+An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation.
+We believe that our audit provides a reasonable basis for our opinion.
+We believe that our audit provides a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Global Biotech Corp. as of November 30, 2010 and 2009, and the result of its operations and its cash flows for the years then ended and for the period from November 2, 1998 (inception) through November 30, 2010 in conformity with U.S. generally accepted accounting principles.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Global Biotech Corp. as of November 30, 2010 and 2009, and the result of its operations and its cash flows for the years then ended and for the period from November 2, 1998 (inception) through November 30, 2010 in conformity with U.S. generally accepted accounting principles.
+The financial statements have been prepared assuming that the Company will continue as a going concern.
+The financial statements have been prepared assuming that the Company will continue as a going concern.
+As discussed in Note 3 to the financial statements, the Company s losses from operations raise substantial doubt about its ability to continue as a going concern.
+As discussed in Note 3 to the financial statements, the Company s losses from operations raise substantial doubt about its ability to continue as a going concern.
+The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+/s/ PLS CPA _________________________ PLS CPA, A Professional Corp. June 30, 2011 San Diego, CA.
+/s/ PLS CPA _________________________ PLS CPA, A Professional Corp. June 30, 2011 San Diego, CA.
+92111 GLOBAL BIOTECH CORP. (A Development Stage Company) Balance Sheets ASSETS See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Balance Sheets LIABILITIES AND STOCKHOLDERS' EQUITY See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Statements of Operations See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Statement of Stockholders' Equity (Deficit) From November 2, 1998 (inception) through November 30, 2010 GLOBAL BIOTECH CORP. (A Development Stage Company) Statement of Stockholders' Equity (Deficit) From November 2, 1998 (inception) through November 30, 2010 See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Statements of Cash Flows See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 1.
+92111 GLOBAL BIOTECH CORP. (A Development Stage Company) Balance Sheets ASSETS See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Balance Sheets LIABILITIES AND STOCKHOLDERS' EQUITY See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Statements of Operations See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Statement of Stockholders' Equity (Deficit) From November 2, 1998 (inception) through November 30, 2010 GLOBAL BIOTECH CORP. (A Development Stage Company) Statement of Stockholders' Equity (Deficit) From November 2, 1998 (inception) through November 30, 2010 See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Statements of Cash Flows See Notes to the Financial Statements GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 1.
+ORGANIZATION AND DESCRIPTION OF BUSINESS GLOBAL BIOTECH CORP. (the ``Company``) was incorporated in the State of Delaware on November 2, 1998 to be an Application Service provider in the E-Health sector.
+ORGANIZATION AND DESCRIPTION OF BUSINESS GLOBAL BIOTECH CORP. (the ``Company``) was incorporated in the State of Delaware on November 2, 1998 to be an Application Service provider in the E-Health sector.
+On March 5, 2003 this business was sold and the Company attempted to enter the vehicle tracking market, unsuccessfully.
+On March 5, 2003 this business was sold and the Company attempted to enter the vehicle tracking market, unsuccessfully.
+On February 25, 2005 that attempt was discontinued.
+On August 15, 2007 the Company finalized an Agreement and acquired assets to enter the oxygenated beverage market.
+On August 15, 2007 the Company finalized an Agreement and acquired assets to enter the oxygenated beverage market.
+NOTE 2.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES a.
+Accounting Method The Company's policy is to use the accrual method of accounting to prepare and present financial statements, which conforms to US generally accepted accounting principles ( GAAP').
+Accounting Method The Company's policy is to use the accrual method of accounting to prepare and present financial statements, which conforms to US generally accepted accounting principles ( GAAP').
+The company has elected a November 30 year- end.
+The company has elected a November 30 year- end.
+b.
+Cash and Cash Equivalents The Company considers all highly liquid investments with original maturities of three months or less and bank indebtedness to be cash and cash equivalents.
+Cash and Cash Equivalents The Company considers all highly liquid investments with original maturities of three months or less and bank indebtedness to be cash and cash equivalents.
+Highly liquid investments are valued at quoted market prices.
+Highly liquid investments are valued at quoted market prices.
+c. Estimates and Adjustments The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make certain estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the periods presented.
+c. Estimates and Adjustments The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make certain estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the periods presented.
+Actual results could differ from those estimates.
+Significant estimates made by management are, among others, realizability of long-lived assets, and deferred taxes.
+Significant estimates made by management are, among others, realizability of long-lived assets, and deferred taxes.
+Management reviews its estimates on a quarterly basis and, where necessary, makes adjustments prospectively.
+Management reviews its estimates on a quarterly basis and, where necessary, makes adjustments prospectively.
+d. Basis of Presentation and Considerations Related to Continued Existence (going concern) The Company's financial statements have been presented on the basis that it is a going concern, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business.
+d. Basis of Presentation and Considerations Related to Continued Existence (going concern) The Company's financial statements have been presented on the basis that it is a going concern, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business.
+The Company's management intends to raise additional operating funds through operations, and debt or equity offerings.
+The Company's management intends to raise additional operating funds through operations, and debt or equity offerings.
+Management has yet to decide what type of offering the Company will use or how much capital the Company will raise.
+Management has yet to decide what type of offering the Company will use or how much capital the Company will raise.
+There is no guarantee that the Company will be able to raise any capital through any type of offerings.
+There is no guarantee that the Company will be able to raise any capital through any type of offerings.
+e. Fair Value of Financial Instruments ASC 820, Fair Value Measurements and Disclosures, defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+e. Fair Value of Financial Instruments ASC 820, Fair Value Measurements and Disclosures, defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+In determining fair value for assets and liabilities required or permitted to be recorded at fair value, the Company considers the principal or most advantageous market in which it would transact and it considers assumptions that market participants would use when pricing the asset or liability.
+In determining fair value for assets and liabilities required or permitted to be recorded at fair value, the Company considers the principal or most advantageous market in which it would transact and it considers assumptions that market participants would use when pricing the asset or liability.
+Fair Value Hierarchy ASC 820 establishes a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+Fair Value Hierarchy ASC 820 establishes a fair value hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+A financial instrument s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+A financial instrument s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+ASC 820 establishes three levels of inputs that may be used to measure fair value: GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 Level 1 applies to assets and liabilities for which there are quoted prices in active markets for identical assets or liabilities.
+ASC 820 establishes three levels of inputs that may be used to measure fair value: GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 Level 1 applies to assets and liabilities for which there are quoted prices in active markets for identical assets or liabilities.
+Valuations are based on quoted prices that are readily and regularly available in an active market and do not entail a significant degree of judgment.
+Valuations are based on quoted prices that are readily and regularly available in an active market and do not entail a significant degree of judgment.
+Level 2 applies to assets and liabilities for which there are other than Level 1 observable inputs such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets), or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data.
+Level 2 applies to assets and liabilities for which there are other than Level 1 observable inputs such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets), or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data.
+Level 2 instruments require more management judgment and subjectivity as compared to Level 1 instruments.
+Level 2 instruments require more management judgment and subjectivity as compared to Level 1 instruments.
+For instance: Determining which instruments are most similar to the instrument being priced requires management to identify a sample of similar securities based on the coupon rates, maturity, issuer, credit rating and instrument type, and subjectively select an individual security or multiple securities that are deemed most similar to the security being priced; and Determining whether a market is considered active requires management judgment.
+For instance: Determining which instruments are most similar to the instrument being priced requires management to identify a sample of similar securities based on the coupon rates, maturity, issuer, credit rating and instrument type, and subjectively select an individual security or multiple securities that are deemed most similar to the security being priced; and Determining whether a market is considered active requires management judgment.
+Level 3 applies to assets and liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of The Company believes the fair value of its financial instruments consisting of cash, short term investment, and accounts payable approximate their carrying values due to the relatively short maturity of these instruments.
+Level 3 applies to assets and liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of The Company believes the fair value of its financial instruments consisting of cash, short term investment, and accounts payable approximate their carrying values due to the relatively short maturity of these instruments.
+f. Property Equipment Property is stated at cost.
+Additions, renovations, and improvements are capitalized.
+Maintenance and repairs, which do not extend asset lives, are expensed as incurred.
+Maintenance and repairs, which do not extend asset lives, are expensed as incurred.
+g. Depreciation Depreciation is provided on a straight-line basis over the estimated useful lives, 5 years for tenant improvements, and 5 - 7 years for equipment.
+g. Depreciation Depreciation is provided on a straight-line basis over the estimated useful lives, 5 years for tenant improvements, and 5 - 7 years for equipment.
+h. Impairment of Long-Lived Assets Long-lived assets held and used by the Company are reviewed for possible impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable.
+h. Impairment of Long-Lived Assets Long-lived assets held and used by the Company are reviewed for possible impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable.
+Recoverability of assets to be held and used is measured by a comparison of the carrying amount of the assets to the estimated undiscounted cash flows, expected to be generated by the asset.
+Recoverability of assets to be held and used is measured by a comparison of the carrying amount of the assets to the estimated undiscounted cash flows, expected to be generated by the asset.
+If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of such assets.
+If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of such assets.
+Management believes that there was such an impairment at November 30, 2010 and has recognized this on its financial statements.
+Management believes that there was such an impairment at November 30, 2010 and has recognized this on its financial statements.
+i.
+Revenue Recognition and Deferred Revenue The Company's revenues recognized from inception to November 30, 2010 were software consultation.
+Revenue Recognition and Deferred Revenue The Company's revenues recognized from inception to November 30, 2010 were software consultation.
+Revenue, in respect of all services described, is recognized on completion of services, when collectability is reasonably assured.
+Revenue, in respect of all services described, is recognized on completion of services, when collectability is reasonably assured.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 j.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 j.
+Foreign Currency Exchange We record our transactions in US dollars.
+Foreign Currency Exchange We record our transactions in US dollars.
+Foreign currency accounts have been translated as follows: Monetary items - at exchange rates in effect at the balance sheet date Non-monetary item - at exchange rates in effect o the dates of transactions Revenue and expenses - at average exchange rate prevailing during the year.
+Foreign currency accounts have been translated as follows: Monetary items - at exchange rates in effect at the balance sheet date Non-monetary item - at exchange rates in effect o the dates of transactions Revenue and expenses - at average exchange rate prevailing during the year.
+Gains and losses arising from foreign currency translation are included in income.
+Gains and losses arising from foreign currency translation are included in income.
+k. Earning (Loss) Per Share The Company computes net income (loss) per share in accordance with ASC 260, Earnings per Share.
+k. Earning (Loss) Per Share The Company computes net income (loss) per share in accordance with ASC 260, Earnings per Share.
+ASC 260 specifies the computation, presentation and disclosure requirements for earnings (loss) per share for entities with publicly held common stock.
+ASC 260 specifies the computation, presentation and disclosure requirements for earnings (loss) per share for entities with publicly held common stock.
+The Company has adopted the provisions of ASC 260 effective November 2, 1998 (inception).
+The Company has adopted the provisions of ASC 260 effective November 2, 1998 (inception).
+Basic net earnings (loss) per share amounts are computed by dividing the net earnings (loss) by the weighted average number of common shares outstanding.
+Basic net earnings (loss) per share amounts are computed by dividing the net earnings (loss) by the weighted average number of common shares outstanding.
+Diluted earnings (loss) per share are the same as basic earnings (loss) per share due to the lack of dilutive items in the Company.
+Diluted earnings (loss) per share are the same as basic earnings (loss) per share due to the lack of dilutive items in the Company.
+l. Stock-Based Compensation The Company records stock-based compensation in accordance with ASC 718, Compensation Stock Based Compensation, using the fair value method.
+l. Stock-Based Compensation The Company records stock-based compensation in accordance with ASC 718, Compensation Stock Based Compensation, using the fair value method.
+All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted for based on the fair value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable.
+All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted for based on the fair value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable.
+Equity instruments issued to employees and the cost of the services received as consideration are measured and recognized based on the fair value of the equity instruments issued.
+Equity instruments issued to employees and the cost of the services received as consideration are measured and recognized based on the fair value of the equity instruments issued.
+J.
+Convertible Debt In accordance with Codifications topic 470 Debt with conversion and Other Options the Company evaluates debt securities ( Debt ) for beneficial conversion features.
+Convertible Debt In accordance with Codifications topic 470 Debt with conversion and Other Options the Company evaluates debt securities ( Debt ) for beneficial conversion features.
+A beneficial conversion feature is present when the conversion price per share is less than the market value of the common stock at the commitment date.
+A beneficial conversion feature is present when the conversion price per share is less than the market value of the common stock at the commitment date.
+The intrinsic value of the feature is then measured as the difference between the conversion price and the market value (the Spread ) multiplied by the number of shares into which the Debt is convertible and is recorded as debt discount with an offsetting amount increasing additional paid-in-capital.
+The intrinsic value of the feature is then measured as the difference between the conversion price and the market value (the Spread ) multiplied by the number of shares into which the Debt is convertible and is recorded as debt discount with an offsetting amount increasing additional paid-in-capital.
+The debt discount is accreted to interest expense over the term of the Debt with any unamortized discount recognized as interest expense upon conversion of the Debt.
+The debt discount is accreted to interest expense over the term of the Debt with any unamortized discount recognized as interest expense upon conversion of the Debt.
+If a debt security contains terms that change upon the occurrence of a future event the incremental intrinsic value is measured as the additional number of issuable shares multiplied by the commitment date market value and is recognized as additional debt discount with an offsetting amount increasing additional paid-in-capital upon the future event occurrence.
+If a debt security contains terms that change upon the occurrence of a future event the incremental intrinsic value is measured as the additional number of issuable shares multiplied by the commitment date market value and is recognized as additional debt discount with an offsetting amount increasing additional paid-in-capital upon the future event occurrence.
+The total intrinsic value of the feature is limited to the proceeds allocated to the Debt instrument.
+The total intrinsic value of the feature is limited to the proceeds allocated to the Debt instrument.
+RECENT ACCOUNTING PRONOUNCEMENTS In February 2010, the FASB issued Accounting Standards Update ASU 2010-09, Amendments to Certain Recognition and Disclosure Requirements ( ASU 2010-09 ), Which is included in the FASB Accounting Standards Codification TM (The ASC ) Topic 855 (Subsequent Events).
+RECENT ACCOUNTING PRONOUNCEMENTS In February 2010, the FASB issued Accounting Standards Update ASU 2010-09, Amendments to Certain Recognition and Disclosure Requirements ( ASU 2010-09 ), Which is included in the FASB Accounting Standards Codification TM (The ASC ) Topic 855 (Subsequent Events).
+2010-09 clarifies that an Sec filer is required to evaluate subsequent events through the date that the financial statements are issued.
+2010-09 clarifies that an Sec filer is required to evaluate subsequent events through the date that the financial statements are issued.
+ASU 2010-09 is effective upon the issuance of the final update and did not have a significant impoact on the Company s financial statements.
+ASU 2010-09 is effective upon the issuance of the final update and did not have a significant impoact on the Company s financial statements.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 3.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 3.
+GOING CONCERN The accompanying financial statements have been prepared assuming that the Company will continue as a going concern.
+GOING CONCERN The accompanying financial statements have been prepared assuming that the Company will continue as a going concern.
+The Company generated net losses of $575,562 for the year ended November 30, 2010 and a net loss of $2,072,236 during the period from November 2, 1998 (inception) through November 30, 2010.
+The Company generated net losses of $575,562 for the year ended November 30, 2010 and a net loss of $2,072,236 during the period from November 2, 1998 (inception) through November 30, 2010.
+At November 30, 2010 the Company had negative working capital of $876,644 and stockholders deficit of $617,358.
+At November 30, 2010 the Company had negative working capital of $876,644 and stockholders deficit of $617,358.
+This condition raises substantial doubt about the Company's ability to continue as a going concern.
+This condition raises substantial doubt about the Company's ability to continue as a going concern.
+The Company's continuation as a going concern is dependent on its ability to meet its obligations, to obtain additional financing as may be required and ultimately to attain profitability.
+The Company's continuation as a going concern is dependent on its ability to meet its obligations, to obtain additional financing as may be required and ultimately to attain profitability.
+The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+The officers and directors are committed to help in raising funds to fill any operating cash flow shortages during the next fiscal year until the organization can generate sufficient funds from operations to meet current operating expenses and overhead, although there are no guarantees that this commitment will be met.
+The officers and directors are committed to help in raising funds to fill any operating cash flow shortages during the next fiscal year until the organization can generate sufficient funds from operations to meet current operating expenses and overhead, although there are no guarantees that this commitment will be met.
+NOTE 4.
+SHORT TERM INVESTMENTS On November 6, 2010, the Company purchased a term deposit in the amount of $168,560 ($172,000 CDN), bearing interest rate of 5%, maturing on November 6, 2011.
+SHORT TERM INVESTMENTS On November 6, 2010, the Company purchased a term deposit in the amount of $168,560 ($172,000 CDN), bearing interest rate of 5%, maturing on November 6, 2011.
+As at November 30, 2010, the Company accrued $7,498 USD of interest income.
+As at November 30, 2010, the Company accrued $7,498 USD of interest income.
+No withdrawals allowed for first 90 days and 90 days early withdrawal notice needed.
+No withdrawals allowed for first 90 days and 90 days early withdrawal notice needed.
+Early withdrawal interest rate - 1 %.
+NOTE 5.
+PREPAID EXPENSES The Company entered, on October 31, 2010, into an agreement to purchase the rights to a neutraceutical product for a period of 4 years.
+PREPAID EXPENSES The Company entered, on October 31, 2010, into an agreement to purchase the rights to a neutraceutical product for a period of 4 years.
+The total cost of said agreement was $199,467 and the Company expensed 1 month of costs in fiscal 2010 in the amount of $4,155.
+The total cost of said agreement was $199,467 and the Company expensed 1 month of costs in fiscal 2010 in the amount of $4,155.
+The remaining cost of $195,312 has been recorded as a prepaid expen se.
+The remaining cost of $195,312 has been recorded as a prepaid expen se.
+NOTE 6.
+PROPERTY EQUIPMENT The Oxygenation Unit will be utilized, approximately Oct/Nov 2011.
+PROPERTY EQUIPMENT The Oxygenation Unit will be utilized, approximately Oct/Nov 2011.
+The Company will then start depreciating it over its estimated useful life of 7 years on the straight line.
+The Company will then start depreciating it over its estimated useful life of 7 years on the straight line.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 7.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 7.
+BASIC DILUTED INCOME / (LOSS) PER COMMON SHARE Basic gain (loss) per common share has been calculated based on the weighted average number of shares of common stock outstanding during the period.
+BASIC DILUTED INCOME / (LOSS) PER COMMON SHARE Basic gain (loss) per common share has been calculated based on the weighted average number of shares of common stock outstanding during the period.
+Diluted gain (loss) per common share has been calculated based on the weighted average number of shares of common and preferred stock outstanding during the period.
+Diluted gain (loss) per common share has been calculated based on the weighted average number of shares of common and preferred stock outstanding during the period.
+NOTE 8.
+NOTES PAYABLE Note payable as of November 30, 2010 and 2009 consist of the following: There are no beneficial conversion features because Conversion price of convertible note payable is higher than market value of common stock.
+NOTES PAYABLE Note payable as of November 30, 2010 and 2009 consist of the following: There are no beneficial conversion features because Conversion price of convertible note payable is higher than market value of common stock.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 9.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 9.
+INCOME TAXES Income taxes are provided in accordance with ASC 740, Income Taxes .
+INCOME TAXES Income taxes are provided in accordance with ASC 740, Income Taxes .
+A deferred tax asset or liability is recorded for all temporary differences between financial and tax reporting and net operating loss carry-forwards.
+A deferred tax asset or liability is recorded for all temporary differences between financial and tax reporting and net operating loss carry-forwards.
+Deferred tax expense (benefit) results from the net change during the year of deferred tax assets and liabilities.
+Deferred tax expense (benefit) results from the net change during the year of deferred tax assets and liabilities.
+The net operating loss expires twenty years from the date the loss was incurred.
+The net operating loss expires twenty years from the date the loss was incurred.
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized.
+Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.
+Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.
+No portion of the valuation allowance will be allocated to reduce goodwill or other non-current intangible asset of an acquired entity.
+No portion of the valuation allowance will be allocated to reduce goodwill or other non-current intangible asset of an acquired entity.
+There are no temporary differences or carry-forward tax effects that would significantly effect the Companies deferred tax asset.
+There are no temporary differences or carry-forward tax effects that would significantly effect the Companies deferred tax asset.
+Utilization of the net operating losses and credit carry-forwards may be subject to a substantial annual limitation due to the change in ownership provisions of the Internal Revenue Code of 1986.
+Utilization of the net operating losses and credit carry-forwards may be subject to a substantial annual limitation due to the change in ownership provisions of the Internal Revenue Code of 1986.
+The annual limitation may result in the expiration of net operating losses and credits before utilization.
+The annual limitation may result in the expiration of net operating losses and credits before utilization.
+At November 30, 2010 the Company had net operating losses carry-forward of $2,072,000.
+At November 30, 2010 the Company had net operating losses carry-forward of $2,072,000.
+The tax benefits resulting for these losses have been estimated as follows: NOTE 10.
+The tax benefits resulting for these losses have been estimated as follows: NOTE 10.
+STOCK TRANSACTIONS On December 18, 2009 the Company issued 333,333 restricted common shares in settlement of consulting services in the amount of $83,333.
+STOCK TRANSACTIONS On December 18, 2009 the Company issued 333,333 restricted common shares in settlement of consulting services in the amount of $83,333.
+On February 18, 2010 the Company issued 63,157 restricted common shares in settlement of consulting services in the amount of $18,316.
+On February 18, 2010 the Company issued 63,157 restricted common shares in settlement of consulting services in the amount of $18,316.
+As of November 30, 2010 the Company had 67,661,990 shares of common stock issued and outstanding NOTE 11.
+As of November 30, 2010 the Company had 67,661,990 shares of common stock issued and outstanding NOTE 11.
+STOCKHOLDERS' EQUITY The stockholders' equity section of the Company contains the following classes of capital stock as of November 30, 2010 and 2009: Common stock, $ 0.0001 par value; 260,000,000 shares and 70,000,000 shares authorized November 30, 2010 and 2009: 67,661,990 shares issued and outstanding as of November 30, 2010 and 67,265,500 as of November 30, 2009.
+STOCKHOLDERS' EQUITY The stockholders' equity section of the Company contains the following classes of capital stock as of November 30, 2010 and 2009: Common stock, $ 0.0001 par value; 260,000,000 shares and 70,000,000 shares authorized November 30, 2010 and 2009: 67,661,990 shares issued and outstanding as of November 30, 2010 and 67,265,500 as of November 30, 2009.
+Preferred Stock, $0.0001 par value; 80,000,000 shares authorized as November 30, 2010 and November 30, 2009.
+Preferred Stock, $0.0001 par value; 80,000,000 shares authorized as November 30, 2010 and November 30, 2009.
+Zero (0) shares issued and outstanding as of November 30, 2010 and 2009.
+Zero (0) shares issued and outstanding as of November 30, 2010 and 2009.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 12.
+GLOBAL BIOTECH CORP. (A Development Stage Company) Notes to the Financial Statements As of November 30, 2010 NOTE 12.
+SUBSEQUENT EVENTS On January 13, 2011 the Company issued 7,700,000 restricted common shares in settlement of consulting services in the amount of $154,000 In accordance with ASC 855, Subsequent Events, the Company has evaluated subsequent events through June 28, 2011, the date of issuance of the audited financial statements.
+SUBSEQUENT EVENTS On January 13, 2011 the Company issued 7,700,000 restricted common shares in settlement of consulting services in the amount of $154,000 In accordance with ASC 855, Subsequent Events, the Company has evaluated subsequent events through June 28, 2011, the date of issuance of the audited financial statements.
+During this period, the Company did not have any material recognizable subsequent events.
+During this period, the Company did not have any material recognizable subsequent events.
+<EX-31> 2 ex31.htm GLOBAL BIOTECH CORP. Exhibit 31.1 CERTIFICATIONS I, Louis Greco, certify that: 1.
+<EX-31> 2 ex31.htm GLOBAL BIOTECH CORP. Exhibit 31.1 CERTIFICATIONS I, Louis Greco, certify that: 1.
+I have reviewed this annual report on Form 10-K of Global Biotech Corp. 2.
+I have reviewed this annual report on Form 10-K of Global Biotech Corp. 2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 5.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.
+Date: June 30, 2011 /s/ Louis Greco Louis Greco President and Chief Executive Officer </EX-31> <EX-32> 3 ex32.htm GLOBAL BIOTECH CORP. Exhibit 32 Certification of Principal Executive Officer and Principal Financial Officer 18 U.S.C.
+Date: June 30, 2011 /s/ Louis Greco Louis Greco President and Chief Executive Officer </EX-31> <EX-32> 3 ex32.htm GLOBAL BIOTECH CORP. Exhibit 32 Certification of Principal Executive Officer and Principal Financial Officer 18 U.S.C.
+Section 1350 as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 The undersigned, the Principal Executive and Financial Officer (President) of GLOBAL BIOTECH CORP. (the Company ), hereby certifies that to his knowledge on the date hereof: (a) The Annual Report on Form 10-K of the Company for the year ended November 30, 2010, filed on the date hereof with the Securities and Exchange Commission (the Report ) fully complies with the requirements of Section 13(a) or 15 (d) of the Securities Exchange Act of 1934; and (b) Information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+Section 1350 as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 The undersigned, the Principal Executive and Financial Officer (President) of GLOBAL BIOTECH CORP. (the Company ), hereby certifies that to his knowledge on the date hereof: (a) The Annual Report on Form 10-K of the Company for the year ended November 30, 2010, filed on the date hereof with the Securities and Exchange Commission (the Report ) fully complies with the requirements of Section 13(a) or 15 (d) of the Securities Exchange Act of 1934; and (b) Information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+Date: June 30, 2011 /s/ Louis Greco Louis Greco,President (Principal Executive Financial Officer) </EX-32>
+Date: June 30, 2011 /s/ Louis Greco Louis Greco,President (Principal Executive Financial Officer) </EX-32>

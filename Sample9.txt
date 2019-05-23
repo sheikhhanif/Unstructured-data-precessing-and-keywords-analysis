@@ -1,0 +1,1620 @@
+<Header>
+<FileStats>
+    <FileName>20120710_10-K_edgar_data_1407704_0001213900-12-003693_1.txt</FileName>
+    <GrossFileSize>3237117</GrossFileSize>
+    <NetFileSize>122256</NetFileSize>
+    <NonText_DocumentType_Chars>521757</NonText_DocumentType_Chars>
+    <HTML_Chars>1148467</HTML_Chars>
+    <XBRL_Chars>760091</XBRL_Chars>
+    <XML_Chars>588868</XML_Chars>
+    <N_Tables>31</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-12-003693.hdr.sgml : 20120710
+<ACCEPTANCE-DATETIME>20120710060535
+ACCESSION NUMBER:		0001213900-12-003693
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		11
+CONFORMED PERIOD OF REPORT:	20120229
+FILED AS OF DATE:		20120710
+DATE AS OF CHANGE:		20120710
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XODTEC LED, INC.
+		CENTRAL INDEX KEY:			0001407704
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		IRS NUMBER:				208009362
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0317
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-148005
+		FILM NUMBER:		12954369
+
+	BUSINESS ADDRESS:	
+		STREET 1:		112 NORTH CURRY STREET
+		CITY:			CARSON CITY
+		STATE:			NV
+		ZIP:			89703
+		BUSINESS PHONE:		(775) 321-1013
+
+	MAIL ADDRESS:	
+		STREET 1:		112 NORTH CURRY STREET
+		CITY:			CARSON CITY
+		STATE:			NV
+		ZIP:			89703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Xodtec Group USA, Inc.
+		DATE OF NAME CHANGE:	20090831
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sparking Events, Inc.
+		DATE OF NAME CHANGE:	20070724
+
+</SEC-Header>
+</Header>
+
+ 0001213900-12-003693.txt : 20120710
+
+10-K
+ 1
+ f10k2012_xodtec.htm
+ ANNUAL REPORT
+
+f10k2012_xodtec.htm 
+
+U. S. Securities and Exchange Commission 
+
+Washington, D.C. 20549  
+
+FORM 10-K  
+
+x  ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended February 29, 2012 
+
+o  TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _______________ to _______________ 
+
+Commission File No.       333-148005 
+
+XODTEC LED, INC. 
+
+(Name of small business issuer as in its charter) 
+
+Nevada 
+
+20-8009362 
+
+(State or other jurisdiction of   
+
+incorporation or organization) 
+
+(IRS Employer Identification No.) 
+
+2F, No.139, Jian 1st Rd., Jhonghe City, 
+
+Taipei County 235, Taiwan (R.O.C.) 
+
+(Address of principal executive offices) 
+
+011-886-2-2228-6276 
+
+(Issuer s telephone number)    
+
+Copies to: 
+
+Asher S. Levitsky PC 
+
+Ellenoff Grossman  Schole, LLP 
+
+150 East 42nd Street; 11th floor 
+
+New York, New York 10016 
+
+Phone: (212) 370-1300 
+
+Fax: (646) 895-7182 
+
+E-mail: alevitsky@egsllp.com 
+
+Securities Registered under Section 12(b) of the Exchange Act: None 
+
+Securities Registered under Section 12(g) of the Exchange Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.  o  Yes    x   No 
+
+Indicate by check mark if the registrant is not required to file reports pursuant Section 13 or 15(d) of the Exchange Act.    o  Yes    x   No 
+
+Note    Checking the box above will not relieve any registrant required to file reports pursuant to Section 13 or 15(d) of the Exchange Act from their obligations under those Sections                   
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  
+
+x  Yes    o  No 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).   x  Yes    o  No 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   x  
+
+Indicate by check mark whether the registrant is a large accelerated filer, and accelerated filer, a non-accelerated filer, or a small reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer    
+
+o  
+
+Accelerated filer 
+
+o   
+
+Non-accelerated filer 
+
+o   
+
+Smaller reporting company 
+
+x   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).   o   Yes    x   No  
+
+On August 31, 2011, the last day of our most recent second quarter, the aggregate market value of voting and nonvoting common stock held by non-affiliates of the registrant, based upon the closing bid quotation for the registrant s common stock, was approximately $1.5 million 
+
+The number of shares of registrant s common stock outstanding as of June 21, 2012 was 81,771,107.  
+
+XODTEC LED, INC. 
+
+2012 ANNUAL REPORT ON FORM 10-K 
+
+PART I.  
+
+Item 1.   
+
+Business  
+
+3  
+
+Item 1A. 
+
+Risk Factors  
+
+6  
+
+Item 1B. 
+
+Unresolved Staff Comments  
+
+10  
+
+Item 2.   
+
+Properties  
+
+10  
+
+Item 3.   
+
+Legal Proceedings  
+
+10  
+
+Item 4.   
+
+(Removed and Reserved)  
+
+10  
+
+PART II.  
+
+Item 5. 
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities  
+
+11  
+
+Item 6. 
+
+Selected Financial Data  
+
+11  
+
+Item 7.   
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations  
+
+12  
+
+Item 7A. 
+
+Quantitative and Qualitative Disclosures About Market Risk  
+
+17  
+
+Item 8.   
+
+Financial Statements and Supplementary Data  
+
+17  
+
+Item 9.   
+
+Changes In and Disagreements With Accountants on Accounting and Financial Disclosure  
+
+17  
+
+Item 9A.   
+
+Controls and Procedures  
+
+17 
+
+Item 9B 
+
+Other Information  
+
+19  
+
+PART III.  
+
+Item 10.   
+
+Directors, Executive Officers and Corporate Governance  
+
+19  
+
+Item 11.   
+
+Executive Compensation  
+
+20 
+
+Item 12.   
+
+Security Ownership of Certain Beneficial Owners and Management and  Management and Related Stockholder Matters  
+
+20  
+
+Item 13.   
+
+Certain Relationships and Related Transactions and Director Independence  
+
+21  
+
+Item 14.   
+
+Principal Accounting Fees and Services  
+
+21  
+
+PART IV  
+
+Item 15.   
+
+Exhibits, Financial Statement Schedules  
+
+21 
+
+1 
+
+FORWARD LOOKING STATEMENTS  
+
+This annual report on Form 10-K contains forward-looking statements regarding our business, financial condition, results of operations and prospects. Words such as  expects,   anticipates,   intends,   plans,   believes,   seeks,   estimates  and similar expressions or variations of such words are intended to identify forward-looking statements, but are not deemed to represent an all-inclusive means of identifying forward-looking statements as denoted in this annual report on Form 10-K. Additionally, statements concerning future matters are forward-looking statements. 
+
+Although forward-looking statements in this annual report on Form 10-K reflect the good faith judgment of our management, such statements can only be based on facts and factors currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties and actual results and outcomes may differ materially from the results and outcomes discussed in or anticipated by the forward-looking statements. Factors that could cause or contribute to such differences in results and outcomes include, without limitation, those specifically addressed under the headings  Risks Factors  and  Management s Discussion and Analysis of Financial Condition and Results of Operations.  You are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this Annual Report on Form 10-K. We file reports with the SEC. The SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including us. You can also read and copy any materials we file with the SEC at the SEC s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You can obtain additional information about the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. 
+
+We undertake no obligation to revise or update any forward-looking statements in order to reflect any event or circumstance that may arise after the date of this annual report on Form 10-K, except as required by law. Readers are urged to carefully review and consider the various disclosures made throughout the entirety of this annual report, which are designed to advise interested parties of the risks and factors that may affect our business, financial condition, results of operations and prospects. 
+
+OTHER PERTINENT INFORMATION 
+
+References in this annual report to  we,   us,  and words of like import refer to Xodtec LED, Inc. and its wholly-owned subsidiaries, Xodtec Technology Co., Ltd. ( Xodtec  Targetek Technology Co., Ltd. ( Targetek  UP Technology Co., Ltd. ( UP ). 
+
+Our business is conducted in the Republic of China (Taiwan), using New Taiwan dollars  NTD,  the currency of the Republic of China, and our financial statements are presented in United States dollars.   In this annual report, we refer to assets, obligations, commitments and liabilities in our financial statements in United States dollars.   These dollar references are based on the exchange rate of NTD to United States dollars, determined as of a specific date.  Changes in the exchange rate will affect the amount of our obligations and the value of our assets in terms of United States dollars which may result in an increase or decrease in the amount of our obligations (expressed in dollars) and the value of our assets, including accounts receivable (expressed in dollars). 
+
+2 
+
+PART I    
+
+ITEM 1 .   BUSINESS. 
+
+Through our subsidiaries, we are engaged in the design, marketing and selling of advanced lighting products which are designed to use less energy and have a longer life than traditional incandescent, halogen, fluorescent light sources.  We design, market and sell advanced LED lighting products. Our products cover a broad range of technically innovative outdoor lighting, indoor general and accent lighting, and color-changing lighting lamps and fixtures that are used for applications in commercial, architectural, residential, hospitality, entertainment and consumer markets. We generate revenue from selling our lighting products into commercial, architectural, residential and other markets. 
+
+Organization 
+
+We are a Nevada corporation incorporated on November 29, 2006, under the name Sparking Events, Inc.  On June 28, 2009, our corporate name was changed to  Xodtec Group USA, Inc.  and on May 17, 2010, our corporate name was changed to  Xodtec LED, Inc.  
+
+Our wholly-owned subsidiaries, Xodtec, Targetek and UP, are organized under the laws of the Republic of China.  We also own a 35% interest in Radiant Sun Development S.A., a company organized under the laws of the Independent State of Samoa ( Radiant Sun ), which is inactive. 
+
+Our corporate offices are located at 2F., No.139, Jian 1st Rd., Jhonghe City, Taipei County 235, Taiwan (R.O.C.), and our telephone number is (886) 2-2228-6276. Our website is http://www.xodtec.com.tw/eng/. Information on our website or any other website is not a part of this report. 
+
+Our Business 
+
+We, through our subsidiaries design, manufacture, market and sell advanced lighting solutions, including light emitting diode (LED) lighting and other energy-saving lighting.  We offer a wide range of technically innovative indoor white light, color-changing and outdoor lighting solutions that are used for applications in public, commercial, architectural, residential, gardening, and entertainment markets. Our solutions provide many benefits over traditional incandescent, halogen, fluorescent, and compact fluorescent (CFL) light sources, including lower energy consumption, longer life spans, and absence of hazardous materials, lower maintenance costs and greater design flexibility. 
+
+In addition to our robust line-up of Ares series white light LED products, we have added a variety of color-changing lighting solutions -- the Venus series. Further, we have recently introduced our Apollo series of outdoor lighting solutions. The Apollo series street lamps have been installed in several locations since March 2008. According to our recent measurement, the luminous decay over 1 year is less than 2%. 
+
+We design, manufacture and sell high quality, reliable, and cost competitive products. For example, our color-changing accent light solutions are designed to allow home users using remote controller to changing colors or setting control schemes. We achieve this by embedding our proprietary remote control chip into our light products. To guarantee reliable and high quality products, we produce our products in ISO 9001-accredited factories. To deliver cost competitive solutions, we invest in technology advancements, leverage purchasing volume, capitalize on strategic vendor relationships and migrate high volume products to our automated manufacturing process. 
+
+Our advanced LED lighting solutions are based on proprietary designs and patented technologies associated with industrial design, electrical, optical, mechanical and thermal engineering. We have developed domain expertise and applications knowledge for end-user requirements in diverse markets. As a result, we are able to offer total lighting solutions, which provide better performance and lower overall cost to users.  We offer a wide range of LED lighting solutions to the market. This includes over 50 distinct product types targeted at four distinct markets. We have expanded our LED product lines to include a range of white light solutions for commercial, residential and entertainment lighting applications.  However, as the market for LED products has developed, they are presently considered commodity products that are sold based on the price of the products. 
+
+3 
+
+LED Lighting Industry Trends 
+
+LEDs are semiconductor-based devices that emit light. As the cost of LEDs decreases and their performance improves, we expect that they will continue to compete more effectively in the general illumination market versus traditional lighting. According to the survey made by Strategies Unlimited, there were more than $1.86 billion of LED lighting products sold worldwide in 2008 and the compound annual growth rate during 2009 to 2012 will be around 28% -- a figure which is forecasted to grow to $5 billion by 2012. Specialist in Business Information, another market research company, even predicts to grow up to $14 billion in 2013. We believe the LED lighting industry may experience the following trends: 
+
+Technological innovations expand LED functionalities . Since its introduction in the 1960s, LED has offered an increasingly wide variety of colored lighting. The initial applications of LEDs included traffic lights, automotive brake lights and indicator lights. In the mid-1990s, LEDs became capable of emitting blue light. In 1993, GaN series blue light LED was developed, white light LED then become a feasible product. 
+
+White light refers to the light obtained by mixing many lights of different colors, such as second wavelength long light (blue light + yellow light) or third wavelength light (blue light + green light + red light). White light LED technology can effectively save energy and reduce the emission of carbon dioxide when use in general lighting. Thus, with the increasing awareness of the need for environmental protection, we believe that lighting devices using white light LED as the light source will proliferate dramatically. 
+
+Advancements in LEDs  performance stimulate adoption in general lighting . Technological advancements in LED lighting have resulted in a new breed of LEDs that can meet specifications previously only satisfied by traditional lighting sources. LED lighting solutions were historically regarded as expensive in relation to their delivered light output. 
+
+In an effort to lower energy consumption, lighting companies are focused on increasing the luminous flux -- lumens per watt. Traditional incandescent lighting sources can produce between 10 and 35 lumens per watt, while fluorescent and HID light sources can produce output near 100 lumens per watt. Today s LEDs have overwhelmed incandescent performance and are exceeding 100 lumens per watt, making them comparable to and even exceeding fluorescent and HID light sources. 
+
+Unique capabilities of LEDs broaden applications and create new lighting alternatives  . Key LED features, including quality of light output, long life, low power consumption, low heat output and full digital control are accelerating adoption and expanding market opportunities. Additional attributes, including design flexibility, color-changing effects, digital dimming capabilities, remote control, smaller size and rapid start-up time are creating new lighting applications for LEDs in commercial, architectural, residential, and entertainment markets. 
+
+High energy costs and conservation efforts drive LED adoption.  High energy costs have resulted in increased demand for more energy-efficient lighting solutions, which has inspired a shift to LEDs. LED lighting technology is inherently more energy-efficient and can result in more than 75% in power savings over traditional incandescent and fluorescent solutions, respectively. In addition, unlike other alternatives such as compact fluorescent bulbs (CFL), LED lighting solutions are free of hazardous materials such as mercury, which can be harmful to the environment. 
+
+Regulatory influences spur market adoption of energy-efficient LED lighting . Government regulations, such as initiatives by the United States Department of Energy and the Environmental Protection Agency s EnergyStar Certification Program, are driving adoption of more energy-efficient lighting solutions. EnergyStar sets industry-wide international standards for lighting products that outline efficiency and performance criteria, helping manufacturers promote their products and consumers better understand lighting products. Legislation and the trend toward environmental consciousness are critical drivers of lighting demand, as governments, industry associations, and industrial and residential consumers move toward employing lighting solutions that comply with regulatory requirements, conserve energy and present no threat to the environment when disposed. 
+
+Competition 
+
+We currently face competition from both traditional lighting companies that provide general lighting products, such as fluorescent and compact fluorescent lighting, and from companies that are engaged in providing LED lighting products. In general, we compete with both groups on the basis of design, innovation, costs, safety issues, sales and marketing, and selling price. 
+
+We compete with traditional lighting companies in the general illumination market. Our LED lighting products tend to be alternatives to traditional lighting sources for applications within the commercial market. Additionally, we compete with LED lighting companies that offer competing LED lighting products. 
+
+4 
+
+Since LED lighting products are becoming commodity products and prices have collapsed in the LED industry, price is now the overriding factor used for the purchase of LED products. 
+
+Sales and Marketing 
+
+The breakdown of our LED lighting products  sales and marketing coverage by market is as follows: 
+
+Market   
+
+Applications  
+
+Description 
+
+Architectural garden, and public lighting 
+
+We currently market and sell our Apollo series of LED outdoor lighting products and solutions through our sales teams and individual lighting agencies. The independent lighting agencies approach government, constructors, and public lighting design houses by learning their demands and providing our lighting product specifications to them 
+
+Commercial and residential lighting 
+
+We market and sell our indoor lighting products through our franchised stores, service stations, and interior decorator to end users. We believe these distribution outlets allows us to better serve our customers, as well as offer services such as the bundling of product and installation. 
+
+The breakdown of our LED lighting products, energy efficiency solution, and localization service, the total sales and marketing coverage by market is as follows: 
+
+Market  
+
+Applications 
+
+Description 
+
+Architectural garden, and public lighting 
+
+We currently market and sell our Apollo series of LED outdoor lighting products and solutions through our sales teams, franchise channels, public project management channels. Public project management channels approach government, constructors, and public lighting design houses by learning their demands and providing our lighting product specifications to them. 
+
+Commercial and residential lighting 
+
+We market and sell our indoor lighting products through our franchised stores, service stations, and interior decorator to end users. We believe these distribution outlets allows us to better serve our customers, as well as offer services such as the bundling of product and installation. 
+
+Revenue from product sales represented approximately 100% of revenue in fiscal 2012 and approximately 48.8% of revenue in fiscal 2011.  Revenue from sales which included lighting solutions accounted for 51.2% of revenue in fiscal 2011.  We did not generate any revenue from lighting solutions for fiscal 2012 and we have not generated any revenue from these services during the quarter ended May 31, 2012.    
+
+Manufacturing and Suppliers 
+
+We produce our advanced lighting solutions through outsourced manufacturing and assembly. For LED lighting systems, we engineer and design our products, while much of the manufacturing is performed by select qualified vendors. All LEDs used in our LED lighting products and systems are purchased from third-party manufacturers primarily in Asia and to a significantly lesser extent, the United States. 
+
+Many of our core components and sub-assemblies are purchased from third party suppliers. We have selected suppliers based on their ability to consistently produce these products per our specifications. 
+
+Research and Product Development 
+
+Our research and development activities were not significant during the years ended February 29, 2012 and February 28, 2011. 
+
+5 
+
+Employees 
+
+As of June 1, 2012, we have approximately ten full time employees, of whom three were technical employees, four were executive and administrative and three were sales and marketing. We enjoy good employee relations. None of our employees are members of any labor union, and we are not a party to any collective bargaining agreement. 
+
+ITEM 1A.  RISK FACTORS.  
+
+You should carefully consider the risks described below as well as other information provided to you in this document, including information in the section of this document entitled  Information Regarding Forward Looking Statements.  The risks and uncertainties described below are not the only ones facing us. Additional risks and uncertainties not presently known to us or that we currently believes are immaterial may also impair our business operations. If any of the following risks actually occur, our businesses, financial condition or results of operations could be materially adversely affected, the value of the common stock could decline, and you may lose all or part of your investment. 
+
+Risks Related to Our Business 
+
+Our losses are continuing and we cannot assure you that we can continue in business. 
+
+We sustained an operating loss of approximately $1.9 million and a net loss of approximately $2.1 million on sales of approximately $0.5 million for the year ended February 29, 2012 and an operating loss of approximately $3.0 million and a net loss of approximately $1.6 million on sales of approximately $1.0 million for the year ended February 28, 2011.   Further, for the year ended February 29, 2012, we had a gross profit of approximately $0.17 million.  We have experienced negative cash flow from operations for the past two years, with a negative cash flow from operations of approximately $1.1 million for the year ended February 29, 2012 and approximately $2.1 million for the year ended February 28, 2011.  We cannot assure you that we will be able to generate positive cash flow from operations or net income and we may not be able to continue in business if we cannot generate net income or positive cash flow from operations. 
+
+Our auditors have issued a going concern qualification in their report on our financial statements. 
+
+Our auditors  report on our financial statements for the year ended February 29, 2012 states that we have incurred significant operating losses, has serious liquidity concerns and may require additional financing in the foreseeable future. These matters, among others, raise substantial doubt about our ability to continue as a going concern.  We cannot assure you that we will be able to continue as a going concern. 
+
+Our financial statements for the year ended February 28, 2010 were restated which reflects the inadequacy of our internal controls. 
+
+Our financial statements for the year ended February 28, 2010 were restated because of our failure to account for derivative securities in accordance with generally accepted accounting principles.  The need to restate our financial statements reflects our failure to have established adequate internal controls over financial reporting.  Although we are not required to have our independent auditor certify as to our internal controls, the absence of certification, especially in view of the restated financial statements, may impair our ability to raise necessary funds. 
+
+We have a significant working capital deficiency and require substantial additional funds for operations. 
+
+At February 29, 2012, we ha a working capital deficiency of approximately $2.1 million and a stockholders  deficiency of approximately $1.7 million.  As a result of these deficiencies, combined with our operating losses and negative cash flows from operations, we requires substantial funding for our operations.  These factors, combined with the absence of any significant trading market in our stock, also make it more difficult for us to raise funds in the debt or equity market.  If we are not able to raise necessary funding, we may be unable to continue in operation. 
+
+As LED lighting products become a commodity product, it will be increasing difficult for us to operate profitably or raise necessary financing for our operations. 
+
+LED lighting products have become primarily a commodity product, which means that the products are technically equivalent and purchasing decisions are made primarily on price and to a lesser extent on the ability of the producer to meet the customer s delivery requirements.  Our gross margin of 34.2% for the year ended February 29, 2012 reflects the effect of an inventory writeoff of approximately $0.6 million in the year ended February 28, 2011, which had the effect of reducing cost of sales for fiscal 2012.  To the extent that LED products are commodity products, it will become increasingly difficult to maintain margins as pressures on selling prices may force price reductions greater than any possible reduction in cost of sales.  Further, the commodity nature of LED products may make it increasingly difficult for us to raise any financing which we require for our business. 
+
+6 
+
+Downturns in general economic and market conditions could materially and adversely affect our business. 
+
+The lighting industry, especially the residential lighting market, is greatly affected by economic downturns.  The sale of our lighting products is related to the quantity of new building construction and renovation. Decline in housing transactions causes less demand for lighting products and conservative shopping habits learned during economic downturns means people have less desires to try advanced LED lighting products.  In addition, our outdoor lighting products are mainly sold through government tender bids and installed in public areas such as parks, rapid railway stations, highways and other public buildings will likely be materially affected by economic downturns. If these municipalities have less funds budgeted for these projects as a result of general economic conditions, sales of our outdoor lighting products to government agencies will be impaired. 
+
+If we are not able to compete effectively with other competitors, our prospects for future growth will be jeopardized. 
+
+There is significant competition in the lighting industry with more established companies We are not only competing with other LED lighting solution providers but also with companies offering traditional lighting products, which are usually more established and have greater resources to devote to research and development, manufacturing and marketing than we have. 
+
+White light is the most popularly utilized light in our environment and therefore the white light market is the most attracted market to large companies such as General Electric, Osram and Philips Electronics. These companies have advantages of global marketing capabilities and substantially greater resources to devote to research over than companies with scope like us. 
+
+Our competitors may promote lighting solutions which are more readily accepted by customers than our products and maybe required to reduce the prices of our products in order to remain competitive.  Our competitors may also seek to use our financial difficulties in marketing against us. 
+
+If critical components become unavailable or contract manufacturers delay their production, our business will be negatively impacted. 
+
+Stability of component supply is crucial to determine our manufacturing process. As some critical components, such as LEDs, are supplied by certain third party component manufacturers, we may be unable to acquire necessary amounts of key components at competitive prices.  Outsourcing the production of certain parts and components is one way to reduce manufacturing costs. We have selected these particular manufacturers based on their ability to consistently produce these products according to our requirements and ensure the best quality product at the most cost effective price. Contrarily, the loss of all or one of these suppliers or delays in obtaining shipments could have a adverse effect on our operations until an alternative supplier could be found, if one may be located at all.  This may cause us to breach our contracts and lose sales. 
+
+If our contract manufacturers fail to meet our requirements for quality, quantity and timeliness, our business growth could be harmed. 
+
+We design and procure key components (such as LEDs) and outsource our products to contract manufacturers. These manufacturers procure most of the raw materials for us and provide all necessary facilities and labor to manufacture our products. If these companies are to terminate their agreements with us without adequate notice, or fail to provide the required capacity and quality on a timely basis, we would be unable to process and deliver our lighting products to our customers. 
+
+If we fail to successfully manage our relationships with our distribution network, we could lose revenues. 
+
+Most of our products are currently sold by LED system integration companies which sell solutions and may include our products into their solutions which other provide the first-line technical support to end-users. If these companies do not feel confident about our products, they may seek to change their terms with us, or alter their ordering patterns with us which there could be a significant impact on our revenue and profits. 
+
+7 
+
+Our products could contain defects or they may be installed or operated incorrectly, which could reduce sales of those products or result in claims against us. 
+
+Although we have experienced quality control and assurance personnel and established thorough quality assurance practices to ensure good product quality, defects still may be found in the future in our existing or future products.  End-users could lose their confidence in our products and company when they unexpectedly use defective products. This could result in loss of revenue, loss of profit margin, or loss of market share. Moreover, these defects could cause us to incur significant warranty, support and repair costs, and harm our relationship with our customers. 
+
+If we are unable to recruit and retain qualified personnel, our business could be harmed. 
+
+Our growth and success highly depend on qualified personnel. So we are inevitable to make all efforts to recruit and retain skilled technical, sales, marketing, managerial, manufacturing, and administrative personnel. Competitions among the industry could cause us difficultly to recruit or retain a sufficient number of qualified technical personnel, which could harm our ability to develop new products. If we are unable to attract and retain necessary key talents, it definitely will harm our ability to develop competitive product and keep good customers and could adversely affect our business and operating results. 
+
+Our  internal control over financial reporting and our disclosure controls were not effective at February 29, 2012, and we do not have the financial resources necessary to make such controls effective. 
+
+The Sarbanes-Oxley Act requires that we maintain effective disclosure controls and procedures and internal controls over financial reporting.  At February 29, 2012, our internal controls over financial reporting and our disclosure controls and procedures were not effective.  We do not have the financial resources necessary for us to hire such personnel and make such changes in our controls and procedures that would be necessary for us to have effective controls.  We cannot assure you that we will be able to implement effective controls in the near future, if at all.  
+
+Sales of additional equity securities may adversely affect the market price of our common stock and your rights may be reduced. 
+
+We expect to continue to incur selling, general and administrative costs, and in order to satisfy our funding requirements, we may need to sell additional equity securities. Our stockholders may experience substantial dilution and a reduction in the price that they are able to obtain upon sale of their shares. Also, any new securities issued may have greater rights, preferences or privileges than our existing common stock which may adversely affect the market price of our common stock and our stock price may decline substantially.  However, we cannot assure you that we will be able to raise any funds through the sale of equity. 
+
+We rely on Mr. Yao-Ting Su, our chairman and president, for the management of our business, and the loss of his services could significantly harm our business and prospects and reduce the value of any investment in our common stock. 
+
+We depend, to a large extent, on the abilities and participation of our current management team, but have a particular reliance upon Mr. Yao-Ting Su, our Chairman and CEO, for the direction of our business. The loss of the services of Mr. Su for any reason could have a material adverse effect on our business and prospects. There is no guarantee that the services of Mr. Su will continue to be available to us, or that we will be able to find a suitable replacement for Mr. Su. We have entered into an employment contract with Mr. Su, but that agreement does not guarantee Mr. Su s continuing to manage us. We do not have key man insurance on Mr. Su, and if he were to die and we were unable to replace him for a prolonged period of time, we could be unable to carry out our long-term business plan, and our future prospects for growth, and our business, could be harmed. 
+
+If we make any acquisitions, they may disrupt or have a negative impact on our business. 
+
+Although we have no present plans for any acquisitions, in the event that we make acquisitions, we could have difficulty integrating the acquired companies  personnel and operations with our own. In addition, the key personnel of the acquired business may not be willing to work for us. We cannot predict the affect expansion may have on our core business. Regardless of whether we are successful in making an acquisition, the negotiations could disrupt our ongoing business, distract our management and employees and increase our expenses. In addition to the risks described above, acquisitions are accompanied by a number of inherent risks, including, without limitation, the following: 
+
+the difficulty of integrating acquired products, services or operations; 
+
+8 
+
+the potential disruption of the ongoing businesses and distraction of our management and the management of acquired companies; 
+
+the difficulty of incorporating acquired rights or products into our existing business; 
+
+difficulties in disposing of the excess or idle facilities of an acquired company or business and expenses in maintaining such facilities; 
+
+difficulties in maintaining uniform standards, controls, procedures and policies;    
+
+the potential impairment of relationships with employees and customers as a result of any integration of new management personnel; 
+
+the potential inability or failure to achieve additional sales and enhance our customer base through cross-marketing of the products to new and existing customers; 
+
+the effect of any government regulations which relate to the business acquired; 
+
+potential unknown liabilities associated with acquired businesses or product lines, or the need to spend significant amounts to retool, reposition or modify the marketing and sales of acquired products or the defense of any litigation, whether of not successful, resulting from actions of the acquired company prior to our acquisition. 
+
+Our business could be severely impaired if and to the extent that we are unable to succeed in addressing any of these risks or other problems encountered in connection with these acquisitions, many of which cannot be presently identified, these risks and problems could disrupt our ongoing business, distract our management and employees, increase our expenses and adversely affect our results of operations.   
+
+Risks Related to our Common Stock 
+
+There is a limited market for our common stock, which may make it difficult for you to sell your stock. 
+
+Our common stock trades on the OTC Bulletin Board under the symbol  XODG,  and the website  www.otcmarkets.com  has a warning sign about our stock because of  limited information.  Because we are late in filing this annual report on Form 10-K, our symbol is XODGE.  There is a limited trading market for our common stock and there is frequently no trading in our common stock, and, as of the date of this report, the last reported sale price was $0.01 per share. Accordingly, there can be no assurance as to the liquidity of any markets that may develop for our common stock, the ability of holders of our common stock to sell our common stock, or the prices at which holders may be able to sell our common stock. 
+
+Because our common stock is a penny stock, you may have difficulty selling them in the secondary trading market. 
+
+Federal regulations under the Securities Exchange Act of 1934 regulate the trading of  penny stock,  which are generally defined as any security not listed on a national securities exchange or Nasdaq, priced at less than $5.00 per share and offered by an issuer with limited net tangible assets and revenues. Our common stock is a penny stock and may not be traded unless a disclosure schedule explaining the penny stock market and the risks associated therewith is delivered to a potential purchaser prior to any trade. 
+
+In addition, because our common stock is a penny stock, broker-dealers may not process trades in our stock and brokers that do permit trades in our stock must take certain steps prior to selling a penny stock, which steps include: 
+
+Obtaining financial and investment information from the investor; 
+
+Obtaining a written suitability questionnaire and purchase agreement signed by the investor; and 
+
+Providing the investor a written identification of the shares being offered and the quantity of the shares. 
+
+9 
+
+If these penny stock rules are not followed by the broker-dealer, the investor has no obligation to purchase the shares. The application of these comprehensive rules will make it more difficult for broker-dealers to sell our common stock and our shareholders, therefore, may have difficulty in selling their shares in the secondary trading market, and some broker-dealers will not process purchases or sales of penny stocks. 
+
+Our stock price may be volatile and your investment in our common stock could suffer a decline in value. 
+
+As of June 19, 2012, there has only been limited trading activity in our common stock.  There can be no assurance that a market will ever develop in our common stock in the future.  If a market does not develop then investors would be unable to sell any of our common stock likely resulting in a complete loss of any funds therein invested. 
+
+Should a market develop, the price may fluctuate significantly in response to a number of factors, many of which are beyond our control. These factors include: 
+
+acceptance of our products in the industry; 
+
+announcements of technological innovations or new products by us or our competitors; 
+
+government regulatory action affecting our products or our competitors  products in both the United States and foreign countries; 
+
+developments or disputes concerning patent or proprietary rights; 
+
+economic conditions in the United States or abroad; 
+
+actual or anticipated fluctuations in our operating results; 
+
+broad market fluctuations; and 
+
+changes in financial estimates by securities analysts. 
+
+We do not intend to pay any cash dividends in the foreseeable future and, therefore, any return on your investment in our capital stock must come from increases in the fair market value and trading price of the capital stock. 
+
+We have not paid any cash dividends on our common stock and do not intend to pay cash dividends on our common stock in the foreseeable future. Therefore, any return on your investment in our capital stock must come from increases in the fair market value and trading price of the capital stock. 
+
+ITEM  1B.   
+
+UNRESOLVED STAFF COMMENTS. 
+
+Not Applicable. 
+
+ITEM  2.   
+
+PROPERTIES. 
+
+We currently rent office spaces under several operating leases.  We believe that our facilities are sufficient to meet our current and near future requirements and that any additional space that we may require would be available on commercially reasonable terms.  Our current annual rent is approximately $128,000. 
+
+ITEM 3.  
+
+LEGAL PROCEEDINGS. 
+
+There are no material legal proceedings pending against us. 
+
+ITEM 4.  
+
+(Removed and Reserved) 
+
+10 
+
+PART  II    
+
+ITEM 5.  
+
+MARKET FOR REGISTRANT S COMMON EQUITY,RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market Information. 
+
+Our common stock trades on the OTC Bulletin Board under the symbol  XODG.   As a result of our late filing of this report, our stock symbol has been XODGE.  The stock has been quoted since April 2009. However, there were no reported trades until September 2009.   The following table sets forth the range of quarterly high and low closing prices of our common stock as reported during the year ending February 29, 2012 These prices reflect inter-dealer quotations, do not include retail markups, markdowns or commissions and do not necessarily reflect actual transactions. 
+
+As of June 19, 2012, the closing bid price for our common stock was $0.005. 
+
+Shareholders 
+
+As of June 19, 2012, we had approximately 282 shareholders of record of our common stock. 
+
+Transfer Agent 
+
+The transfer agent for the common stock is Island Stock Transfer Inc., 100 Second Avenue South, Suite 705S, St. Petersburg, Florida 33701, telephone (727) 289-0010.       
+
+Dividend Policy 
+
+We have not paid dividends and we do not anticipate paying dividends in the near future. 
+
+Equity Compensation Plans 
+
+The following table summarizes the equity compensation plans under which our securities have been or may be issued as of December 31, 2011.  
+
+Plan Category 
+
+Number of   securities  
+
+to   be issued  
+
+upon exercise   of outstanding options  
+
+and warrants 
+
+Weighted-average 
+
+exercise price of 
+
+outstanding options  
+
+and   warrants 
+
+Number of securities 
+
+remaining available 
+
+for future issuance  
+
+under equity  
+
+compensation   plans 
+
+Equity compensation plans approved by security holders 
+
+0 
+
+$ 
+
+0 
+
+2,000,000 
+
+Equity compensation plan not approved by security holders 
+
+0 
+
+$ 
+
+0 
+
+- 
+
+The 2010 long-term incentive plan is the equity compensation plan that was approved by stockholders. 
+
+At February 29, 2012, we did not have any equity compensation plans that were not approved by stockholders. 
+
+ITEM  6. 
+
+SELECTED FINANCIAL DATA.  
+
+Not required for smaller reporting companies. 
+
+11 
+
+ITEM  7. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+The following discussion of the results of our operations and financial condition should be read in conjunction with our financial statements and the related notes, which appear elsewhere in this report. The following discussion includes forward-looking statements. For a discussion of important factors that could cause actual results to differ from results discussed in the forward-looking statements, see  Forward Looking Statements.  
+
+Overview 
+
+Through our subsidiaries, we are engaged in the design, marketing and selling of advanced lighting products which are designed to use less energy and have a longer life than traditional incandescent, halogen, fluorescent light sources.  We design, market and sell advanced LED lighting products. Our products cover a broad range of technically innovative outdoor lighting, indoor general and accent lighting, and color-changing lighting lamps and fixtures that are used for applications in commercial, architectural, residential, hospitality, entertainment and consumer markets. We generate revenue from selling our lighting products into commercial, architectural, residential and other markets.  In previous period, we incurred marketing expenses relating to our efforts to sell our products and services in the People s Republic of China ( PRC ).  We are no longer seeking to sell in the PRC due to our lack of resources. 
+
+Revenue is derived from sales of our advanced lighting products.   In marketing our products, we sell LED products as stand-alone items to customers who want to purchase the LED products without any related services.    In past years we offered our customers lighting solutions, which included the design, implementation and related consulting services as well as the LED products.  We no longer offer lighting solutions.  As a result, we sell what is essentially a commodity product, with sales made generally based on price. 
+
+During the fiscal year ended February 29, 2012, our gross margin was 34.16%, as compared negative 21.48%, for the fiscal year ended February 28, 2011, primarily because we had an inventory write off of approximately $0.6 million in fiscal 2011, which directly impacted gross profit and gross margin.. 
+
+Prior to April 2009, we were a private company, and we did not have the expenses of a public company. As a result, we are incurring significantly greater legal, accounting and other professional expenses relating to our status as a public company and compliance with SEC rules, including the development and implementation of internal controls. For the year ended February 29, 2012, we incurred expenses of approximately $300,000 attributable to our status as a public company. 
+
+Our internal financial statements are maintained in New Taiwan Dollars  NTD.  The financial statements included in this Form 10-K are expressed in United States dollars. The translation adjustments in expressing the financial statements in United States dollars is shown on the statements of operation as a translation adjustment, and the cumulative translation adjustment is shown as an element of stockholders  equity. 
+
+Significant Accounting Estimates and Policies 
+
+The discussion and analysis of our financial condition and results of operations is based upon our financial statements that have been prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets and liabilities. On an on-going basis, we evaluate our estimates including the allowance for doubtful accounts, the salability and recoverability of our products, income taxes and contingencies. We base our estimates on historical experience and on other assumptions that we believe to be reasonable under the circumstances, the results of which form our basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. 
+
+Revenue Recognition 
+
+Our revenue recognition policies are in compliance with ASC 605. Revenue is recognized at the date of shipment to customers when a formal arrangement exists, the price is fixed or determinable, the delivery is completed, no other significant obligations exist and collectability is reasonably assured. Payments received before all of the relevant criteria for revenue recognition are satisfied are recorded as unearned revenue.   Discounts provided to customers by us at the time of sale are recognized as a reduction in sales as the products are sold. Sales taxes are not recorded as a component of sales. 
+
+12 
+
+Comprehensive Income 
+
+Comprehensive income includes accumulated foreign currency translation gains and losses. We have reported the components of comprehensive income on its statements of stockholders  equity. 
+
+Income Taxes 
+
+We account for income taxes in accordance with ASC 740, Income Taxes, which requires that we recognize deferred tax liabilities and assets based on the differences between the financial statement carrying amounts and the tax basis of assets and liabilities, using enacted tax rates in effect in the years the differences are expected to reverse. Deferred income tax benefit (expense) results from the change in net deferred tax assets or deferred tax liabilities. A valuation allowance is recorded when, in the opinion of management, it is more likely than not that some or all of any deferred tax assets will not be realized.  
+
+We adopted ASC 740-10-25, Income Taxes- Overall-Recognition, on January 1, 2007, which provides criteria for the recognition, measurement, presentation and disclosure of uncertain tax position. We must recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate resolution. We did not recognize any additional liabilities for uncertain tax positions as a result of the implementation of ASC 740-10-25. 
+
+Inventories 
+
+Our inventories are stated at the lower-of-cost-or-market price.  Cost is determined on the weighted average method. The Company provides for a lower-of-cost-or-market adjustment against gross inventory values. For the year ended February 29, 2012, the Company sold approximated $61,000 of inventories which were fully reserved as of February 28, 2011. The Company recorded approximately $519,000 and $603,000 of inventory valuation reserve for LCM inventory adjustments for the years ended February 29, 2012 and February 28, 2011, respectively. 
+
+Property, Plant and Equipment 
+
+Property and equipment are stated at cost less accumulated depreciation and accumulated impairment losses, if any. Major improvements and addition which can prolong the service life of fixed assets are counted as capital expenditures and recorded as fixed assets. Expenditures on regular repairs and maintenance are recorded as expenses. 
+
+Property and equipment are depreciated according to the service life and using the average method, with one-year residual value. Additions are depreciated according to their respective estimated service life. Major improvements are depreciated based on the remaining service lives of fixed assets. While assets are continually in use after the expiration of its service life, the residual values and service lives are estimated and depreciated accordingly and continually. The gain (loss) on disposal of assets is recognized as non-operating revenue (expenditure) in the period of sale or disposal. 
+
+Depreciation is computed using the straight-line method over the estimated useful lives as follows: 
+
+Useful Lives (Years) 
+
+Transportation 
+
+5 years 
+
+Office equipment 
+
+3-6 years 
+
+Equipment for leases 
+
+12 years 
+
+Other equipment 
+
+3-6 years 
+
+Research and development 
+
+Research and development costs are expensed as incurred, and are included in general and administrative expenses. These costs primarily consist of cost of material used and salaries paid for the development of our products and fees paid to third parties. Our total research and development expense for the years ended February 29, 2012 and February 28, 2011 were not significant. 
+
+13 
+
+Accrued Derivative Liabilities 
+
+The Company applies ASC Topic 815,  Derivatives and Hedging,  which provides a Monte Carlo Simulation model to determine the instruments issued pursuant to the subscription agreement not indexed to an issuer s own stock and thus able to qualify for derivative liabilities treatment. The Company determines which instruments require liability accounting, and records the fair values as an accrued derivative liability. The changes in the values of the accrued derivative liabilities are shown in the accompanying statement of operations as  gain (loss) on change in fair value of accrued derivative liabilities.  During the year ended February 28, 2010, the Company determined that there were derivatives in accrued derivative liabilities. During the year ended February 28, 2011, the conditions that gave rise to the derivative liability terminated and at February 28, 2011, there was no longer any derivative liability.  The changes in the value of these derivatives are shown in the accompanying statement of operations as  gain (loss) on change in fair value of accrued derivative liabilities.   The gain in change in fair value of derivative liabilities for the year ended February 28, 2011 was $1,783,274. 
+
+Equity Investment 
+
+We account for our interest in our equity investments pursuant to ASC 323  Investments   Equity Method and Joint Ventures,  which sets forth guidance as to the treatment of equity investments.  Because our only unconsolidated subsidiary is inactive, does not meet the test of a significant subsidiary under Rule 1-02(w)of Regulation S-X and any summarized information is de minimus, we are not required to include summarized financial information with respect to this entity and the absence of summarized financial information does not impact our consolidated financial statements. 
+
+Recent accounting pronouncements    
+
+We considered all new accounting pronouncements and has concluded that there are no new pronouncements that may have a material impact on results of operations, financial condition, or cash flows, based on current information. 
+
+RESULTS OF OPERATIONS 
+
+Years Ended February 29, 2012 and February 28, 2011 
+
+The following table sets forth the results of our operations for the periods indicated as a percentage of net sales: 
+
+Sales.  During the year ended February 29, 2012, we had sales of $0.5 million, as compared to sales of $1.0 million for the year ended February 28, 2011, a decrease of $0.53 million or approximately 51.4%. The decrease in sales is attributed to a lack of capital to purchase inventory and raw materials as well as a reduction in overhead dedicated to lighting solutions sales. Revenue from product sales represented approximately 100% of the revenue in fiscal 2012.  This compares to product sales consisting of 48.8% of revenue in fiscal 2011.  Revenue from sales which included lighting solutions accounted 51.2% of sales in fiscal 2011.  We no longer offer lighting solutions. 
+
+14 
+
+Cost of sales; gross margin . During the year ended February 29, 2012, our cost of sales was $0.33 million, as compared to cost of sales of $1.25 million during the year ended February 28, 2011, a decrease of $0.92 million, or 73.6%.  Our gross profit increased to $0.17 million, from a loss of $0.22 million in the same period last year. Our gross margin increased from negative 21.5% in the year 2011 to a positive 34.2% in the year 2012.  The growth in gross profit margin resulted from an inventory writeoff of approximately $0.6 million in fiscal 2011. 
+
+Depreciation and amortization expense . Depreciation and amortization, which are included in operating expenses, were $0.07 million in both 2012 and 2011. 
+
+Selling, general and administrative expenses.  Selling, general and administrative expenses totaled $2.05 million for the year ended February 28, 2012, as compared to $2.8 million for the year ended February 28, 2011, a decrease of $0.75 million or approximately 26.9%. The decrease was largely the result of a decrease costs associated with our expansion into the PRC as well as the reduction in overhead dedicated to lighting project sales.  We are no longer seeking to sell in the PRC due to our lack of resources. 
+
+Loss from operations.  For 2012, loss from operations amounted to $1.87 million as compared to $3.0 million for 2011, a decrease of approximately $1.13 million or 37.6%. 
+
+Gain on change in fair value of derivative liability.   During 2010, we issued shares pursuant to an agreement which required us to issue additional shares of common stock if we sold shares at a price which was less than $0.70 per share and warrants which had anti-dilutions provisions which resulted in the warrants being treated as derivatives.  As a result of such provision, we incurred a derivative liability. At February 28, 2011, the conditions giving rise to the derivative liability had terminated and we incurred a gain of $1.8 million, reflecting the elimination of the derivative liability at February 28, 2010.   
+
+Total other income (expenses).   Total other income (expense) was ($0.2 million) for 2012, as compared with $1.4 million in 2011.  The principal component of other income in fiscal 2011 was the gain on change in fair value of derivative liability..    
+
+Net loss . As a result of the factors described above, our net loss for 2012 was $2.07 million, or ($0.04) per share (basic and diluted), as compared to a net loss of $1.59 million, or ($0.06) per share (basic and diluted), for 2011. 
+
+Liquidity and Capital Resources 
+
+Liquidity is the ability of a company to generate funds to support its current and future operations, satisfy its obligations and otherwise operate on an ongoing basis.  At February 28, 2012, we had a cash balance of $4,949, all of which were located in banks in Taiwan, ROC, and a working capital deficiency of approximately $2.1 million. 
+
+The following table sets forth information as to the principal changes in the components of our working capital from February 28, 2011 to February 28, 2012: 
+
+15 
+
+Our working capital position deficiency decreased $1.5 million to $2.08 million at February 28, 2012 from a working capital deficiency of $3.6 million at February 28, 2011.  
+
+We have financed our operations principally through the issuance of equity as well as loans from company officers and directors. During the fiscal year ended February 28, 2012, we received $1,698,951 in proceeds from related parties. We used these funds for working capital.  
+
+As of February 28, 2012, we had outstanding loans from our chief executive officer of $304,392, which we used for working capital needs. The borrowings do not bear interest and are payable on demand. As of February 28, 2012, we had outstanding loans from one of our directors totaling $538,630, which we used for general working capital needs. The borrowings do not bear interest and are payable on demand.  
+
+During the year ended February 28, 2012, we had a negative cash flow from operating activities amounting approximately $1.14 million. We believe that we require significant financing for out operations, but based on our negative gross margin, losses from operations, working capital deficiency and negative stockholders  equity, combined with our low stock price and the absence of an active trading market in our stock, we may difficulty raising additional funds through the sale of our equity or debt securities.  The accompanying consolidated financial statements do not include any adjustments that might be necessary if we are unable to continue as a going concern 
+
+Net cash flow used in operating activities was $1.14 million in fiscal 2012 as compared to net cash flow used in operating activities was $2.13 million in fiscal 2011, a decrease of $0.99 million. Net cash flow used in operating activities in fiscal 2012 was mainly due to our net loss of $2.07 million and issuance of common stock for professional services of $0.6 million.  Net cash flow used in operating activities in fiscal 2011 was mainly due to our net loss of $1.59 million. 
+
+Net cash flow used in investing activities was $0.04 million for 2012 and $0.2 million for 2011. For 2012 and 2011, the cash flow used in investing activity was primarily to purchase of property and equipment. For 2012, the cash flow used in acquisition of additional property and equipment was $0.03 million. For 2011, the cash flow used in acquisition of additional properties and equipment was $0.2 million. 
+
+Net cash flow provided by financing activities was $1.16 million for 2012. We received proceeds from related parties at the amount of $1.15 million.  Net cash flow provided by financing activities was $2.1 million for 2011. For 2011, we received proceeds from issuance of shares in the amount of $1.5 million, and proceeds from related parties of $0.4 million. 
+
+16 
+
+ITEM  7A.  
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS. 
+
+Not applicable for smaller reporting companies. 
+
+ITEM  8.  
+
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+The financial statements start on page F-1. 
+
+ITEM  9.  
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+Not applicable 
+
+ITEM  9A.   
+
+CONTROLS AND PROCEDURES.        
+
+Evaluation of Disclosure Controls and Procedures 
+
+Disclosure controls and procedures refer to controls and other procedures designed to ensure that information required to be disclosed in the reports we file or submit under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC and that such information is accumulated and communicated to our management, including our chief executive and financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and management is required to apply its judgment in evaluating and implementing possible controls and procedures. 
+
+Management conducted its evaluation of disclosure controls and procedures under the supervision of our chief executive and financial officer. Based on that evaluation, our chief executive and financial officer concluded that because of the material weaknesses in internal control over financial reporting described below, our disclosure controls and procedures were not effective as of February 29, 2012. 
+
+Management s Report of Internal Control over Financial Reporting. 
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act.  Our management is also required to assess and report on the effectiveness of our internal control over financial reporting in accordance with Section 404 of the Sarbanes-Oxley Act of 2002 ( Section 404 ).   Management assessed the effectiveness of our internal control over financial reporting as of February 29, 2012.  In making this assessment, we used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control - Integrated Framework.  During our assessment of the effectiveness of internal control over financial reporting as of February 29, 2012, management identified material weaknesses related to (i) the U.S. GAAP expertise of our internal accounting staff, (ii) our internal audit functions, and (iii) a lack of segregation of duties within accounting functions. 
+
+A material weakness (within the meaning of PCAOB Auditing Standard No. 5) is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control over financial reporting that is less severe than a material weakness, yet important enough to merit attention by those responsible for oversight of our financial reporting. 
+
+Management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected. 
+
+We became a reporting company in April 2009.  At the end of our most recent fiscal year, February 28, 2009, and until April 2009, when we completed the reverse acquisition, we were operating as three privately-owned companies whose operations were not consolidated for financial reporting purpose.  Our business is located in the Republic of China and our products are manufactured for us by third parties in the People s Republic of China. We began preparing to be in compliance with the internal control obligations, including Section 404, for our fiscal year ending February 28, 2010. During almost all of 2010 our internal accounting staff was primarily engaged in ensuring compliance with Republic of China accounting and reporting requirements for our operating affiliates and was not required to meet or apply U.S. GAAP requirements.  As a result, with the exception of certain additional persons hired at the end of 2010 to address these deficiencies, our current internal accounting department responsible for financial reporting is relatively new to U.S. GAAP and the related internal control procedures required of U.S. public companies. Although our accounting staff is professional and experienced in accounting requirements and procedures generally accepted in the Republic of China, management has determined that they require additional training and assistance in US GAAP matters.  Management has determined that our internal audit function is also significantly deficient due to insufficient qualified resources to perform internal audit functions.  Finally, management determined that the lack of an audit committee of our board of directors also contributed to insufficient oversight of our accounting and audit functions.   
+
+17 
+
+In order to correct the foregoing deficiencies, we are seeking to engage an experienced accountant or firm to assist us in establishing procedures that will enable us to have, on an ongoing basis, personnel who understand US GAAP and the disclosure obligations under the Securities Exchange Act. We are committed to the establishment of effective internal audit functions, however, due to the scarcity of qualified candidates with extensive experience in US GAAP reporting and accounting in the region and our lack of working capital, we were not able to hire sufficient internal audit resources in order to enable us to have such procedures and controls established by the end of February 29, 2012. 
+
+At or about the completion of the reverse acquisition, we entered into agreements with consultants pursuant to which we issued equity securities for services rendered.  Subsequent to the reverse acquisition, we completed a financing in which we issued stock and warrants.  These events presented complex accounting issues which were new to our financial staff.  Furthermore, we do not have a large accounting department and it has been difficult for us to hire qualified personnel who understand English and Chinese and are familiar with both U.S. GAAP and Republic of China GAAP.  Additionally, from the completion of the reverse acquisition until January 2010, our chief financial officer was the wife of our chief executive officer.  Because of our inability to correctly record complicated transactions, it was necessary for us to restate our financial statements for the year ended February 29, 2010.  We are addressing these issues by reviewing and revising our internal accounting policies and procedures, expanding the resources allocated to our accounting department, and hiring outside accounting advisors.  However, we do not have the financial resources to address these issues.  Accordingly, the certifying officer has concluded that our disclosure controls and procedures are not effective at this time. 
+
+We also intend to elect additional directors, who will be independent and one of whom could serve as the audit committee financial expert. We believe that the appointment of such directors will strongly influence our management in establishing the necessary controls.  However, because of our continuing losses and negative working capital and the fact that we restated our financial statements for the year ended February 28, 2010, we have been unable to find qualified outside directors. 
+
+Further, due to our size and nature, the segregation of all conflicting duties may not always be possible and may not be economically feasible.  However, to the extent possible, we will implement procedures to assure that the initiation of transactions, the custody of assets and the recording of transactions will be performed by separate individuals.  
+
+We believe that the foregoing steps will remediate the material weaknesses identified above, and we will continue to monitor the effectiveness of these steps and make any changes that our management deems appropriate.   
+
+This annual report does not include an attestation report of our registered accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by the our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only management s report in this annual report. 
+
+The conclusion of chief executive officer and chief financial officer regarding our disclosure controls and procedures is based solely on management s conclusion that our internal control over financial reporting was not effective. 
+
+18 
+
+Our material weaknesses related to: 
+
+An insufficient complement of personnel in our corporate accounting and financial reporting function with an appropriate level of technical accounting knowledge, experience, and training in the application of US GAAP commensurate with our complex financial accounting and reporting requirements and materiality thresholds. 
+
+Lack of familiarity with the accounting treatment of the issuance of equity in consideration of services rendered and with the accounting aspects of reverse acquisition accounting and the classification and treatment of derivative securities 
+
+Lack of internal audit function - the monitoring function of internal control is not well performed due to insufficient resources. In addition, the scope and effectiveness of internal audit function have yet to be developed. 
+
+Lack of written policies and procedures relating to periodic review of current policies and procedures and their implementation. 
+
+The absence of an audit committee comprised of independent directors. 
+
+Remediation and Changes in Internal Control over Financial Reporting 
+
+Our management has discussed the material weaknesses in its internal control over financial reporting with the board of directors, and we are in the process of developing and implementing remediation plans to address the material weaknesses. As an initial step, we engaged an independent accounting firm which is not related to our independent registered accounting firm, to assist us in the preparation of our financial statements and the development and implementation of a system of internal controls. However, because of our lack of funds, we were unable to take steps to develop and implement such a system. 
+
+Other than as described above, management does not believe that there have been any other changes in our internal control over financial reporting, which have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM  9B.         OTHER INFORMATION. 
+
+None. 
+
+PART  III    
+
+ITEM  10.          DIRECTORS, EXECUTIVE OFFICERS  AND CORPORATE GOVERNANCE 
+
+The following table sets forth certain information with respect to our directors and executive officers. 
+
+Name 
+
+Age 
+
+Position 
+
+Yao-Ting Su 
+
+48 
+
+Chairman, Chief Executive Officer, Chief Financial Officer and Director 
+
+Hui-Yun Lo 
+
+48 
+
+Director 
+
+Yao-Ting Su has been our Chairman since April 2009 and chief executive officer since January 2010.  Mr. Su served as our president, from April 2009 until April 2010. Mr. Su received a Bachelor s Degree from Soochow University (Taipei, Taiwan) and was the Valedictorian of the Air Defense Missile School of the United States Army in Fort Bliss, Texas.  Mr. Su also served in the Army of Taiwan from 1979 to 1981. 
+
+Hui-Yun Lo has been a director since January 2010.  Ms. Lo has served as president of our subsidiary, Xodtec Technology, since February 2005.  Prior to Ms. Lo s employment with us, she served as President of Dzone Biotechnology Co., Ltd. from 2004 to August 2005.  Ms. Lo studied at the National Taipei College of Business. 
+
+We have no audit, compensation or nominating committee. The functions of these committees are performed by the board of directors. We do not have an independent director. Our board of directors has determined we do not have a member who qualifies as an  audit committee financial expert  as defined in Item 407(d)(5)(ii) of Regulation S-K, and is  independent  as the term is defined in Item 407(a)(1) of Regulation S-K. Our board of directors is in the process of searching for a suitable candidate for this position. 
+
+None of our officers or directors are related. 
+
+19 
+
+Code of Ethics 
+
+We have not adopted a code of ethics as of the date of this report 
+
+Board Attendance 
+
+During 2012, the board of directors held six meetings, excluding actions taken by unanimous written consent.  Each director attended at 100% of the board meetings held while he or she was a director. 
+
+ITEM  11.  
+
+EXECUTIVE COMPENSATION. 
+
+The following summary compensation table indicates the cash and non-cash compensation earned during the years ended February 29, 2012 and February 28, 2011 by each person who served as chief executive officer and chief financial officer during 2012.  One officer received compensation of $100,000 or more during fiscal 2012 or 2011.   
+
+SUMMARY COMPENSATION TABLE 
+
+Executive Employment Contracts 
+
+We have no employment agreements with any of our officers. 
+
+Equity Compensation Plan Information 
+
+We currently do not have any equity compensation plans. 
+
+ITEM  12.  
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The following table provides information at to shares of common stock beneficially owned as of February 29, 2012, by: 
+
+each director and nominee for director; 
+
+each officer named in the summary compensation table; 
+
+each person owning of record or known by us, based on information provided to us by the persons named below, to own beneficially at least 5% of our common stock; and 
+
+all directors and executive officers as a group. 
+
+None of the persons named in the table hold options or other rights to acquire common stock. 
+
+20 
+
+ITEM  13.  
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+As of February 29, 2012, and February 28, 2011, we had outstanding loans from Yao-Ting Su, our chief executive officer, of $304,392 and $804,821, respectively. As of February 29, 2012, and February 28, 2011, we had outstanding loans from Hui-Yun Lo, a director, of $538,630 and $1,498,665.  We used the proceeds of these loans for general working capital needs. The borrowings do not bear interest and are payable on demand. On June 5, 2012, the board of directors approved the sale to Ms. Lo of all of the stock of two of the Company s subsidiaries, Targetek Technology Co., Ltd. and UP Technology Co., Ltd., which generated no revenue and nominal revenue during the year ended February 29, 2012 for cancellation of indebtedness to the director in the amount of $300,000.  The stock was transferred to Ms. Lo in June 2012. 
+
+ITEM  14.  
+
+PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+Since we do not have a formal audit committee, our board of directors serves as our audit committee. We have not adopted pre-approval policies and procedures with respect to our accountants. All of the services provided and fees charged by our independent registered accounting firms were approved by the board of directors. 
+
+The following is a summary of the fees for professional services rendered by Simon   Edward for the years ended February 29, 2012 and February 28, 2011. 
+
+Audit fees.     Audit fees represent fees for professional services performed by Simon   Edward for the audit of our 2012 and 2011 annual financial statements. 
+
+Audit-related fees.    We did not incur any other fees for services performed by and Simon   Edward. 
+
+Tax Fees.       We did not incur any fees for tax services during 2012 or 2011.      
+
+Other fees.      Simon   Edward did not receive any other fees during 2012 and 2011. 
+
+ITEM  15.  
+
+EXHIBITS, FINANIAL STATEMENT SCHEDULES 
+
+Exhibit  
+
+Number 
+
+Description 
+
+2.1 
+
+Share Exchange Agreement among Sparking Events, Inc., Adam Gordoy Borges Dos Santo, APlus International Ltd., and the shareholders of APlus International Ltd., dated April 10, 2009 (1) 
+
+3.1 
+
+Bylaws of the Company (1) 
+
+3.2 
+
+Amended and Restated Articles of Incorporation of the Company, as filed with the State of Nevada (2) 
+
+10.1 
+
+2010 Long-Term Incentive Plan (3) 
+
+21 
+
+List of subsidiaries(4) 
+
+23.1 
+
+Consent of Simon   Edwards, LLP** 
+
+24.1 
+
+Power of attorney [On signature page] 
+
+31.1 
+
+Certification of Chief Executive and Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 ** 
+
+32.1 
+
+Certification of the Chief Executive and Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 ** 
+
+101.INS 
+
+XBRL Instance Document 
+
+101.SCH 
+
+XBRL Taxonomy Schema 
+
+101.CAL 
+
+XBRL Taxonomy Calculation Linkbase 
+
+101.DEF 
+
+XBRL Taxonomy Definition Linkbase 
+
+101.LAB 
+
+XBRL Taxonomy Label Linkbase 
+
+101.PRE 
+
+XBRL Taxonomy Presentation Linkbase 
+
+** filed herein. 
+
+21 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+XODTEC LED, INC. 
+
+Date: July 9, 2012 
+
+By: 
+
+/s/ Yao-Ting Su 
+
+Yao-Ting Su 
+
+Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities on the dates indicated. Each person whose signature appears below hereby authorizes Yao-Ting Su as his or her true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution for him or her and in his or her name, place and stead, in any and all capacities to sign any and all amendments to this report, and to file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission. 
+
+Signature 
+
+Title 
+
+Date 
+
+/s/ Yao-Ting Su 
+
+Chief Executive and Financial Officer and Director  
+
+July 9, 2012 
+
+Yao-Ting Su 
+
+(Principal Executive, Financial and Accounting Officer)  
+
+/s/ Hui-Yun Lo 
+
+Director 
+
+July 9, 2012 
+
+Hui-Yun Lo 
+
+22 
+
+XODTEC LED, Inc. 
+
+Index to Consolidated Financial Statements 
+
+F-1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+To the Board of Directors and Stockholders 
+
+Xodtec LED, Inc. and Subsidiaries 
+
+We have audited the accompanying consolidated balance sheets of Xodtec LED, Inc. and Subsidiaries as of February 29, 2012 and February 28, 2011, and the related consolidated statements of operations,   stockholders  equity and cash flows for each of the two years in the period ended February 29, 2012.   Xodtec LED, Inc. and Subsidiaries  management is responsible for these consolidated financial statements.   Our responsibility is to express an opinion on these consolidated financial statements based on our audits.  
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight   Board (United States). Those standards require that we plan and perform the audit to obtain reasonable   assurance about whether the financial statements are free of material misstatement. The Company is not   required to have, nor were we engaged to perform, an audit of its internal control over financial reporting.   Our audit included consideration of internal control over financial reporting as a basis for designing audit   procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on   the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no   such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and   disclosures in the financial statements, assessing the accounting principles used and significant estimates   made by management, as well as evaluating the overall financial statement presentation. We believe that   our audits provide a reasonable basis for our opinion. 
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material   respects, the financial position of Xodtec LED, Inc. and Subsidiaries as of February 29, 2012 and February   28, 2011, and the results of its operations and its cash flows for the years ended February 29, 2012 and   February 28, 2011 in conformity with accounting principles generally accepted in the United States of   America. 
+
+The accompanying consolidated financial statements have been prepared assuming that the Company will   continue as a going concern. As discussed in Note 3 to the consolidated financial statements, the Company   has incurred significant operating losses, has serious liquidity concerns and may require additional   financing in the foreseeable future. These matters, among others, raise substantial doubt about the   Company s ability to continue as a going concern. Management s plans in regard to these matters are also   described in Note 3. The accompanying consolidated financial statements do not include any adjustments   that might result from the outcome of this uncertainty. 
+
+/s/ Simon   Edward, LLP  
+
+City of Industry, California 
+
+July 9, 2012 
+
+F-2 
+
+F-3 
+
+F-4 
+
+XODTEC LED, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY  
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+F-5 
+
+XODTEC LED, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+F-6 
+
+XODTEC LED, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+February 29, 2012 
+
+NOTE 1   NATURE OF OPERATIONS AND BASIS OF PRESENTATION 
+
+Xodtec LED, Inc.  ( Company ) is a Nevada corporation incorporated on November 29, 2006, under the name Sparking Events, Inc.  On June 28, 2009, the Company s corporate name was changed to  Xodtec Group USA, Inc.  and on May 17, 2010 the Company s corporate name was changed to  Xodtec LED, Inc.  
+
+The Company, through its subsidiaries, is engaged in the design, marketing and selling of advanced lighting solutions which are designed to use less energy and have a longer life than traditional incandescent, halogen, fluorescent light sources.  The Company s wholly-owned subsidiaries, Xodtec Technology Co., Ltd. ( Xodtec  Targetek Technology Co., Ltd. ( Targetek  UP Technology Co., Ltd. ( UP ), are organized under the laws of the Republic of China (Taiwan).  The Company also owns a 35% interest in Radiant Sun Development S.A., a company organized under the laws of the Independent State of Samoa ( Radiant Sun ). 
+
+On April 1, 2009, in anticipation of the exchange agreement described in the following paragraph, APlus International, Ltd., a Nevada limited liability company ( APlus ), acquired all of the capital stock of Xodtec, Targetek and UP, pursuant to agreements with the shareholders of each of these companies.  The Company is in the process of preparing the application of domestic investment by foreign nationals governed by the Investment Commission of the Republic of China. The Company also acquired a 35% interest in Radiant Sun pursuant to an agreement with the holders of 35% of the capital stock of Radiant Sun, an inactive corporation.  As a result of these agreements, the former shareholders of Xodtec, Targetek and UP and the former holders of 35% of the stock of Radiant Sun were the sole members of APlus. 
+
+On April 20, 2009, the Company entered into an exchange agreement with APlus and its members pursuant to which the Company, then known as Sparking Events, Inc., acquired all of the stock of Xodtec, Targetek and UP and APlus  35% interest in Radiant Sun in exchange for 16,000,002 shares of common stock.  The transaction pursuant to which the Company issued 16,000,002 shares of common stock to the former members of APlus in exchange for all of the stock of Xodtec, Targetek and UP and APlus  35% interest in Radiant Sun is referred to as the reverse acquisition. 
+
+Simultaneously with the reverse acquisition, the Company s principal stockholder transferred to the Company for cancellation, without consideration, 27,000,000 shares of common stock owned by stockholder. 
+
+At the time of the reverse acquisition, the Company was a blank check shell company and was not engaged in any business.  Upon completion of the reverse acquisition, the Company s business became the business of Xodtec, Targetek and UP.  Radiant Sun did not have any operations prior to the reverse acquisition and does not currently have any operations. 
+
+Under generally accepted accounting principles, the acquisition by the Company of Xodtec, Targetek and UP is equivalent to the acquisition by APlus of the Company, then known as Sparking Events, Inc., with the issuance of stock by APlus for the net monetary assets of the Company.  This transaction is reflected as a recapitalization, and is accounted for as a change in capital structure.  Accordingly, the accounting for the acquisition is identical to that resulting from a reverse acquisition. Under reverse acquisition accounting, the comparative historical financial statements of the Company, as the legal acquirer, are those of the accounting acquirer, APlus.   Since APlus was organized to acquire Xodtek, Targetek and UP on April 1, 2009, and had no operations, the Company s historical financial statements reflect the operations of Xodtek, Targetek and UP prior to April 1, 2009, the combined operations of APlus, Xodtek, Targetek and UP from April 1, 2009 to April 20, 2009, and the combined operations of these companies and the Company from April 20, 2009.  The accompanying financial statements reflect the recapitalization of the shareholders  equity as if the transactions occurred as of the beginning of the first period presented.  Thus, only the 16,000,002 shares of common stock issued to the former APlus members are deemed to be outstanding for all periods reported prior to the date of the reverse acquisition.   The 1,380,000 shares of common stock that were outstanding on April 20, 2009, after giving effect to the cancellation of the 27,000,000 shares that were acquired by the Company and cancelled, are treated as if they were issued on April 20, 2009, as part of a recapitalization. 
+
+F-7 
+
+The Company has the following operating subsidiaries: 
+
+-   
+
+Xodtec Technology Co., Ltd., was set up on February 5, 2005 is mainly engaged in LED lighting ODM/OEM and distribution in Taiwan business, and represented most of the Company s business57. 
+
+-   
+
+UP Technology Co., Ltd., was set up on January 9, 1997 and is mainly engaged in LED lighting product distribution in Taiwan business. 
+
+-   
+
+Targetek Technology Co., Ltd., was set up on March 26, 1997 and is inactive. 
+
+All material intercompany accounts, transactions, and profits have been eliminated in consolidation. 
+
+Certain prior year amounts have been reclassified to conform with the current period's presentation, none of which had an impact on total assets, stockholders' equity (deficit), net loss, or net loss per share. 
+
+NOTE 2   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Use of Estimates 
+
+The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the amount of revenues and expenses during the reporting periods. Management makes these estimates using the best information available at the time the estimates are made. However, actual results could differ materially from those results. 
+
+Segment Information 
+
+ASC 280 requires companies to report information about operating segment in interim and annual financial statements. It also requires segment disclosures about products and services geographic and major customers. The Company has determined that it does not have any separately reportable operating segments. 
+
+Revenue Recognition 
+
+The Company s revenue recognition policies are in compliance with ASC 605 (Originally issued as Staff Accounting Bulletin (SAB) 104). Revenue is recognized at the date of shipment to customers when a formal arrangement exists, the price is fixed or determinable, the delivery is completed, no other significant obligations of the Company exist and collectability is reasonably assured. Payments received before all of the relevant criteria for revenue recognition are satisfied are recorded as unearned revenue.   Discounts provided to customers by the Company at the time of sale are recognized as a reduction in sales as the products are sold. Sales taxes are not recorded as a component of sales. 
+
+Cost of Sales 
+
+The cost of sales represents, primarily, the cost of manufacturing by third party manufacturers based on a contract price, as well as warehousing costs, shipping and handling costs, and any cost related inventory adjustment, including write downs for excess and obsolete inventory. 
+
+Shipping and Handling Costs 
+
+The Company records all payments for outbound shipping and handling as revenue, and compounding, shipping and handling costs are classified as cost of goods sold. 
+
+Accounts Receivable 
+
+Accounts receivable are carried at original invoice amount less the allowance for doubtful accounts based on a review of all outstanding amounts at year end. Management determines the allowance for doubtful accounts by using historical experience applied to an aging of accounts. Trade receivables are written off when deemed uncollectible. Allowance for doubtful accounts amounted to $0 and $33,028 at February 29, 2012 and February28, 2011, respectively. 
+
+Inventories 
+
+The Company s inventories are stated at the lower-of-cost-or-market price.  Cost is determined on the weighted average method. The Company provides for a lower-of-cost-or-market adjustment against gross inventory values. For the year ended February 29, 2012, the Company sold approximated $61,000 of inventories which were fully reserved as of February 28, 2011. The Company recorded approximately $519,000 and $603,000 of inventory valuation reserve for LCM inventory adjustments for the years ended February 29, 2012 and February 28, 2011, respectively. 
+
+F-8 
+
+Equity Investment 
+
+The Company accounts for its interest in its equity investments pursuant to ASC 323  Investment   Equity Method and Joint Ventures,  which sets forth guidance as to the treatment of equity investments. Because the Company only unconsolidated subsidiary is inactive, does not meet the test of a significant subsidiary under Rule 1-02(w)of Regulation S-X and any summarized information is de minimus, the Company is not required to include summarized financial information with respect to this entity and the absence of summarized financial information does not impact its consolidated financial statements. 
+
+Property and Equipment 
+
+Property and equipment are stated at cost less accumulated depreciation and accumulated impairment losses, if any. Major improvements and addition which can prolong the service life of fixed assets are counted as capital expenditures and recorded as fixed assets. Expenditures on regular repairs and maintenance are recorded as expenses. 
+
+Property and equipment are depreciated according to the service life and using the average method, with one-year residual value. Additions are depreciated according to their respective estimated service life. Major improvements are depreciated based on the remaining service lives of fixed assets. While assets are continually in use after the expiration of its service life, the residual values and service lives are estimated and depreciated accordingly and continually. The gain (loss) on disposal of assets is recognized as non-operating revenue (expenditure) in the period of sale or disposal. 
+
+Depreciation is computed using the straight-line method over the estimated useful lives as follows: 
+
+Useful Lives (Years) 
+
+Transportation 
+
+5 years 
+
+Office equipment 
+
+3-6 years 
+
+Machinery 
+
+3-6 years 
+
+Other equipment 
+
+3-6 years 
+
+Impairment of Long-Lived Assets 
+
+The Company accounts for the impairment and disposition of long-lived assets in accordance with ASC 360, Property, Plant and Equipment. The Company periodically evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. If the estimated future cash flows (undiscounted and without interest charges) from the use of an asset were less than the carrying value, a write-down would be recorded to reduce the related asset to its estimated fair value. 
+
+The assumptions used by management in determining the future cash flows are critical. In the event these expected cash flows are not realized, future impairment losses may be recorded. 
+
+During the years ended February 29, 2012 and February 28, 2011, the Company recorded an impairment loss on property and equipment of approximately $174,000 and $415,000, respectively, to reflect on the difference between fair market value and book value. 
+
+Accrued Derivative Liabilities 
+
+The Company applies ASC Topic 815,  Derivatives and Hedging,  which provides a Monte Carlo Simulation model to determine the instruments issued pursuant to the subscription agreement not indexed to an issuer s own stock and thus able to qualify for derivative liabilities treatment. The Company determines which instruments require liability accounting, and records the fair values as an accrued derivative liability. The changes in the values of the accrued derivative liabilities are shown in the accompanying statement of operations as  gain (loss) on change in fair value of accrued derivative liabilities.  During the year ended February 28, 2010, the Company determined that there were derivatives in accrued derivative liabilities. During the year ended February 28, 2011, the conditions that gave rise to the derivative liability terminated and at February 28, 2011, there was no longer any derivative liability.  The changes in the value of these derivatives are shown in the accompanying statement of operations as  gain (loss) on change in fair value of accrued derivative liabilities.   The gain in change in fair value of derivative liabilities for the year ended February 28, 2011 was $1,783,274, respectively. 
+
+F-9 
+
+Subscription Receivable 
+
+The subscription receivable reflects the sales of common stock in July 2009 for which the Company had not received payment as of November 30, 2011 or February 28, 2011, and which was written off and recorded as an adjustment to additional paid in capital during the year ended February 29, 2012. 
+
+Income Taxes 
+
+The Company accounts for income taxes in accordance with ASC 740, Income Taxes, which requires that the Company recognize deferred tax liabilities and assets based on the differences between the financial statement carrying amounts and the tax basis of assets and liabilities, using enacted tax rates in effect in the years the differences are expected to reverse. Deferred income tax benefit (expense) results from the change in net deferred tax assets or deferred tax liabilities. A valuation allowance is recorded when, in the opinion of management, it is more likely than not that some or all of any deferred tax assets will not be realized. 
+
+The Company adopted ASC 740-10-25, Income Taxes- Overall-Recognition, on January 1, 2007, which provides criteria for the recognition, measurement, presentation and disclosure of uncertain tax position. The Company must recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate resolution. The Company did not recognize any additional liabilities for uncertain tax positions as a result of the implementation of ASC 740-10-25. 
+
+Net Loss per Share 
+
+The Company calculates its basic and diluted earnings per share in accordance with ASC 260. Basic earnings per share are calculated by dividing net income by the weighted average number of common shares outstanding for the period. Diluted earnings per share are calculated by adjusting the weighted average outstanding shares to assume conversion of all potentially dilutive warrants and options and convertible securities. There were no convertible securities outstanding during the years ended February 29, 2012 and February 28, 2011.  The Company uses the treasury stock method to reflect the potential dilutive effect of the unvested stock options and unexercised warrants. Because the Company incurred losses for the years ended February 29, 2012 and February 28, 2011, the number of basic and diluted shares of common stock is the same since any effect from outstanding warrants would be anti-dilutive. 
+
+Gain (Loss) on Exchange 
+
+Foreign-currency transactions are recorded in New Taiwan dollars ( NTD ) at the rates of exchange in effect when the transactions occur. Gains or losses resulting from the application of different foreign exchange rates when cash in foreign currency is converted into NTD, or when foreign-currency receivables or payables are settled, are credited or charged to income in the year of conversion or settlement. On the balance sheet dates, the balances of foreign-currency assets and liabilities are restated at the prevailing exchange rates and the resulting differences are charged to current income. 
+
+Translation Adjustment 
+
+The Company s financial statements are presented in U.S. dollars, which is the Company s reporting and functional currency. The functional currency of the Company s subsidiaries is NTD. Transactions in foreign currencies are initially recorded at the functional currency rate prevailing at the date of transaction. Any differences between the initially recorded amount and the settlement amount are recorded as a gain or loss on foreign currency transaction in the consolidated statements of operations. Monetary assets and liabilities denominated in foreign currency are translated at the functional currency rate of exchange prevailing at the balance sheet date. Any differences are taken to profit or loss as a gain or loss on foreign currency translation in the statements of operations. 
+
+F-10 
+
+In accordance with ASC 830, Foreign Currency Matters, the Company translates the assets and liabilities into U.S. dollars using the rate of exchange prevailing at the balance sheet date and the statements of operations and cash flows are translated at an average rate during the reporting period. Adjustments resulting from the translation from NTD into U.S. dollars are recorded in stockholders  equity as part of accumulated other comprehensive income. The exchange rates used for financial statements for the years ended February 29, 2012 and February 28, 2011 in accordance with ASC 830, Foreign Currency Matters, are as follows:  
+
+Comprehensive Income (Loss) 
+
+Comprehensive income (loss) includes accumulated foreign currency translation gains and losses. The Company has reported the components of comprehensive income (loss) on its statements of stockholders  equity. 
+
+Share Based Expenses 
+
+ASC 718 requires a public entity to expense the cost of employee and non-employee services received in exchange for an award of equity instruments. This statement also provides guidance on valuing and expensing these awards, as well as disclosure requirements of these equity arrangements.  The Company expenses share-based costs over the period during which the services are rendered. 
+
+NOTE 3 - GOING CONCERN MATTERS 
+
+The accompanying consolidated financial statements have been prepared on a going concern basis which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. As shown in the consolidated financial statements, during the year ended February 29, 2012, the Company incurred a modest gross profit of approximately $0.2 million, resulting in a gross margin of approximately 34%, a net loss of approximately $2.1 million and a net operating loss of approximately $1.9 million. In addition, the Company had a negative cash flow in operating activities amounting approximately $1.1 million in the year ended February 29, 2012, and the Company s accumulated deficit was approximately $7.8 million as of February 29, 2012. These factors raise substantial doubt about the Company s ability to continue as a going concern. The Company may seek additional funding through additional issuance of common stock and/or borrowings from financial institutions and defer the amounts due under the credit line; however, market conditions, together with the absence of an active trading market in the Company s common stock and the trading price of the common stock make it difficult for the Company to raise cash from the sale of equity and the Company s financial condition make it extremely difficult to borrow funds. The accompanying consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+
+NOTE 4 - RECENT ACCOUNTING PRONOUNCEMENTS 
+
+The Company has considered all new accounting pronouncements and has concluded that there are no new pronouncements that may have a material impact on results of operations, financial condition, or cash flows, based on current information. 
+
+NOTE 5 - FAIR VALUE MEASUREMENTS 
+
+The carrying values of cash and cash equivalents, accounts receivable, other receivable inventories, prepayments, other current assets, short-term borrowings from bank s and others, accounts payable, other payable, accrued liabilities, loan from related parties and other current liabilities approximate the related fair values due to the short-term maturities of instruments. 
+
+NOTE 6   INVENTORIES 
+
+As of February 29, 2012 and February 28, 2011, the Company s inventory consisted of raw material, work in progress and finished goods as follows: 
+
+F-11 
+
+NOTE 7   PROPERTY AND EQUIPMENT 
+
+Property and equipment consisted of the following: 
+
+Depreciation and amortization expenses during the years ended February 29, 2012 and February 28, 2011 were $28,576 and $52,111, respectively. 
+
+NOTE 8   DEFERRED ASSETS 
+
+Deferred assets consisted of the following: 
+
+The Company professional fee expense for the future is following as: 
+
+Professional fee expense during the years ended February 29, 2012 and February 28, 2011 were $626,750 and $306,751, respectively. 
+
+NOTE 9   OTHER ASSETS 
+
+Other assets consisted of the following: 
+
+Idle asset is reported at the lower of the carrying amount or fair values less estimated costs of sale. As of February 29, 2012, the Company incurred an impairment charge with respect to this idle asset held for sale in the amount of $173,817. This equipment has been used for an energy saving contract, which has been terminated, and this equipment will not have other usage. The Company has other payable relating to this equipment as of February 29, 2012 and February 28, 2011 of $475,249 and $470,899, respectively. 
+
+F-12 
+
+NOTE 10   SHORT-TERM BORROWINGS 
+
+Short-term borrowings consisted of the following at February 29, 2012 and February 28, 2011: 
+
+Interest expense during the years ended February 29, 2012 and February 28, 2011 were $10,664 and $9,131, respectively. 
+
+NOTE 11   ACCRUED LIABILITIES 
+
+Accrued liabilities consisted of the following: 
+
+NOTE 12   RELATED PARTY TRANSACTIONS 
+
+-   
+
+Due to related parties 
+
+As of February 29, 2012 and February 28, 2011, the Company had outstanding borrowings from 
+
+The borrowings were used for general working capital needs, and they do not bear interest and are payable on demand. 
+
+NOTE 13   CAPITAL STOCK AND SHARE-BASED PAYMENTS 
+
+The Company s authorized capital stock consists of 10,000,000 shares of preferred stock, par value $0.0001 per share, and 225,000,000 shares of common stock, par value $0.001 per share.  The board of directors has broad discretion in determining the rights, preferences and privileges of the holders of one or more series of preferred stock. The Company changed the par value of its preferred stock from $0.0001 to $0.001 on March 31, 2010 and restored the 10,000,000 shares of preferred stock which had previously been designated as series A convertible preferred stock and none of which had been issued to the status of authorized and unissued shares of preferred stock with no designation as to class or series. 
+
+On July 8, 2009, the Company issued and sold 1,000,000 shares of common stock to an outside investor for (the "Investor") a cash price of $0.65 per share, for a total of $650,000.  As of February 28, 2011, the Company had received $520,000, and the balance of $130,000 had not been received and was treated as a subscription receivable at February 28, 2011.  This receivable was written off and recorded as an adjustment to additional paid in capital during the year ended February 29, 2012   
+
+F-13 
+
+On September 29, 2009, the Company sold to the Investor for $700,000 (i) 1,000,000 shares of common stock and (ii) warrants to purchase 1,000,000 shares of common stock at an exercise price of $1.50 per share. Pursuant to the common stock subscription agreement, the Company agreed that: 
+
+for 18 months after the closing, the Company will not issue any class or debt or equity which could be convertible into common stock.   
+
+if the Company issues common stock to any investor at a price of less the $0.70 per share, the Company would issue to the Investor such number of additional shares which equals to the amount of the Investor s purchase ($700,000) divided by the difference between $0.70 per share and the purchase price paid in the subsequent offering. 
+
+In December 2010, the Company signed a securities exchange agreement with an Investor whereby the Company issued 1,000,000 common shares to the investor in exchange for the cancellation of the warrants held by the Investor which were issued on September 29, 2009.   Pursuant to this agreement, the Company s obligation to issue additional shares if the Company sold shares at a price below $0.70 (which was reduced to $0.25), terminated once the Investor sold the shares issued pursuant to the September 29, 2009 agreement. 
+
+Prior to the December 2010 agreement described in the above paragraph, the Company had treated the potential additional share issuance under the common stock subscription agreement as a derivative under ASC Topic 815, Subtopic 40 since the number of shares the Company may issue to settle the anti-dilution provisions of the stock subscription agreement is not fixed.  Derivative instruments are recorded at fair value and marked-to-market each period until it is exercised or expire, with any change in the fair value charged or credited to income each period. The fair value was estimated by Monte Carlo simulation model. 
+
+The value of warrants was determined by using the Black-Scholes pricing model with the following assumptions:   
+
+The fair value of the warrants was $26,975 at February 28, 2011.   
+
+The Company issued securities during the years ended February 29, 2012 and February 28, 2011 as follows: 
+
+On June 29, 2010, the Company entered into contracts with two consultants pursuant to which consultants are to provide services in connection with the Company s expansion into China for a one year period. Pursuant to the contracts, the Company issued 600,000 shares of common stock to the consultants. The value of the shares, $192,000, is based on the closing price of the common stock at $0.32 on June 29, 2010, and is being amortized over the one-year term of the contracts commencing on July 1, 2010.   
+
+On September 1, 2010, the Company entered into contracts with one consultant pursuant to which consultants are to provide services in connection with the Company s expansion into China for a one year period. Pursuant to the contracts, the Company issued 350,000 shares of common stock to the consultants. The value of the shares, $63,000, is based on the closing price of the common stock at $0.18 on September 1, 2010, and is being amortized over the one-year term of the contracts commencing on September 1, 2010.   
+
+On September 10, 2010, the Company entered into contracts with one consultant pursuant to which consultants are to provide services in connection with the Company s expansion into China for a one year period. Pursuant to the contracts, the Company issued 350,000 shares of common stock to the consultants. The value of the shares, $52,500, is based on the closing price of the common stock at $0.15 on September 10, 2010, and is being amortized over the one-year term of the contracts commencing on September 1, 2010. 
+
+On October 1, 2010, the Company entered into contracts with one consultant pursuant to which consultants are to provide services in connection with the Company s expansion into China for a one year period. Pursuant to the contracts, the Company issued 500,000 shares of common stock to the consultants. The value of the shares, $90,000, is based on the closing price of the common stock at $0.18 on October 1, 2010, and is being amortized over the one-year term of the contracts commencing on October 1, 2010. 
+
+F-14 
+
+On November 25, 2010, the Company extended the contract with one consultant pursuant to which consultants are to provide services in connection with the Company s expansion into China for another one year period.  Pursuant to the contracts, the Company issued 500,000 shares of common stock to the consultants. The value of the shares, $90,000, is based on the closing price of the common stock at $0.20 on November 25, 2010, and is being amortized over the one-year term of the contracts commencing on July 1, 2011. 
+
+On January 3, 2011, the Company amended February 16, 2010 consultant agreement to award shares is valued a $0.10 per shares. Consultants are to provide services in connection with the Company s expansion into China for a one year period. Pursuant to the contracts, the Company issued 500,000 shares of common stock to the consultants. The value of the shares, $50,000, is based on the closing price of the common stock at $0.10 on January 3, 2011, and is being amortized over the three-year term of the contracts commencing on March 1, 2010. 
+
+On July 1, 2011, the Company entered debt cancellation agreement with the Company's director which the Company issued 2,000,000 shares of common stock to cancel the Company's indebtedness in the principal amount of US$200,000. 
+
+On July 11, 2011, the Company entered into a contract with one consultant pursuant to which consultant is to provide services in connection with the Company s expansion into China for a one year period. Pursuant to the contracts, the Company issued 300,000 shares of common stock to the consultants, which value is $30,000.  
+
+On August 5, 2011, the Company entered debt cancellation agreements with the Company's CEO and director which the Company issued 16,447,160 and 34,159,120 shares of common stock to cancel the Company's indebtedness in the principal amount of US$822,358 and US $1,707,965, respectively. 
+
+During the year ended February 28, 2011, the Company sold 2,134,823 shares of common stock to investors for a cash price of $0.71 per share and a total amount of $1,515,725.   
+
+Warrant activity for the years ended February 29, 2012 and February 28, 2011, is summarized as follows: 
+
+F-15 
+
+The following table summarizes the shares of common stock issuable upon exercise of warrants outstanding at February 28, 2011:  
+
+NOTE 14   INCOME TAXES 
+
+The Company did not provide any current or deferred U.S. federal income tax provision or benefit for any of the periods presented because the Company has experienced operating losses for U.S. federal income tax purposes since inception. When it is more likely than not that a tax asset cannot be realized through future income the Company must allow for this future tax benefit.  The Company pays income taxes under the laws of the Republic of China (Taiwan).  For the years ended February 29, 2012 and February 28, 2011, there were no income tax expenses. 
+
+NOTE 15   CONCENTRATION 
+
+-   
+
+Major customers 
+
+The following table provides information as to sales to each customer who accounted for at least 10% of the Company s revenue for the years ended February 29, 2012 and February 28, 2011, respectively, and the accounts receivable from such customers: 
+
+Substantially all of the Company's revenue is derived from sales of LED lighting products.  Any significant decline in market acceptance of the Company's products or in the financial condition of the Company's existing customers could impair the Company's ability to operate effectively. 
+
+-   
+
+Major suppliers  
+
+The following table provides information as to purchase to each major supplier who accounted for 10% or more of the Company s purchases for the year ended February 28, 2011 and 2010, respectively, and the accounts payable to such suppliers: 
+
+F-16 
+
+NOTE 16 - COMMITIMENTS AND CONTINGENCIES 
+
+The Company rent offices under several operating leases. The Company minimum rent for the future is following as: 
+
+Rent expenses during the years ended February 29, 2012 and February 28, 2011 were $157,466 and $191,918, respectively.  
+
+NOTE 17 - OTHER COMPREHENSIVE INCOME (LOSS) 
+
+Balances of related after-tax components comprising accumulated other comprehensive loss, included in stockholders  equity and at February 29, 2012 and February 28, 2011 are as follows: 
+
+NOTE 18 - SUBSEQUENT EVENTS 
+
+On June 5, 2012, the board of directors approved the sale to one of the Company s directors of all of the stock of two of the Company s subsidiaries, Targetek Technology Co., Ltd. and UP Technology Co., Ltd., which generated no revenue and nominal revenue during the year ended February 29, 2012. 
+
+F-17
+
+<EX-23.1>
+ 2
+ f10k2012_xodtecex23i.htm
+ CONSENT OF SIMON & EDWARDS, LLP**
+
+f10k2012_xodtecex23i.htm 
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED ACCOUNTING FIRM 
+
+We consent to the incorporation by reference in the registration statement of Xodtec LED, Inc. on Form S-8, File No. 333-169007, of our report dated July 9, 2012 for the years ended February 29, 2012 and February 28, 2011, appearing in the annual report on Form 10-K of Xodtec Led, Inc. for the year ended February 29, 2012.  
+
+/s/  Simon   Edward, LLP  
+
+Simon   Edward, LLP 
+
+July 9, 2012 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ f10k2012_xodtecex31i.htm
+ CERTIFICATION OF CHIEF EXECUTIVE AND FINANCIAL OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 **
+
+f10k2012_xodtecex31i.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+PURSUANT TO SECTION 302 OF THE 
+
+SARBANES-OXLEY ACT OF 2002 
+
+I, Yao-Ting Su, certify that: 
+
+1.    I have reviewed this annual report on Form 10-K of Xodtec LED, Inc..; 
+
+2.    Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3.    Based on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report; 
+
+4.    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this annual report is being prepared; 
+
+b) 
+
+designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+
+d) 
+
+disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5.    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function): 
+
+a) 
+
+all significant deficiencies in the design or operation of internal controls which could adversely affect the registrant s ability to record, process, summarize and report financial data and have identified for the registrant s auditors any material weaknesses in internal controls; and  
+
+b) 
+
+any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting.     
+
+Dated:  July 9, 2012 
+
+By: 
+
+/s/ Yao-Ting Su                
+
+Yao-Ting Su 
+
+Chief Executive Officer and Chief Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 4
+ f10k2012_xodtecex32i.htm
+ CERTIFICATION OF THE CHIEF EXECUTIVE AND FINANCIAL OFFICER PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 **
+
+f10k2012_xodtecex32i.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Xodtec LED. Inc. (the  Company ) on Form 10-K for the year ended February 29, 2012 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Yao-Ting Su, chief executive officer and chief financial officer of the Company, certify, pursuant to 18 U.S.C. section 1350 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: July 9, 2012 
+
+By: 
+
+/s/ Yao-Ting Su 
+
+Yao-Ting Su 
+
+Chief Executive Officer and Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ xodg-20120229.xml
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ xodg-20120229.xsd
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ xodg-20120229_cal.xml
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ xodg-20120229_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ xodg-20120229_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ xodg-20120229_pre.xml
+
+</EX-101.PRE>
+
